@@ -1,1 +1,59 @@
+[ 
 
+         { 
+
+                 //nations 
+
+                 "name": "German Empire", 
+
+                 "leaderName": "Kaier Wilhelm II", 
+
+                 "adjective": ["German"], 
+
+                 "startBias": ["Plains"], 
+
+                 "preferredVictoryType": "Domination", 
+
+  
+
+                 "startIntroPart1": "", 
+
+                 "startIntroPart2": "Will you build a civilization that will stand the test of time?", 
+
+  
+
+                 "declaringWar": "Let it be known, You are an enemy to Germany and the German people!", 
+
+                 "attacked": "what? really?.", 
+
+                 "defeated": "Germany may have fallen... but Germany will remember me as THE Kasier.", 
+
+                 "introduction": "Welcome, i am Kaiser Wilhelm II, Kaiser of the German people", 
+
+  
+
+                 "neutralHello": "Guten tag.", 
+
+                 "hateHello": "What do YOU want?!", 
+
+  
+
+                 "tradeRequest": "Trade with me.", 
+
+  
+
+                 "outerColor": [143, 14, 14], 
+
+                 "innerColor": [136, 138, 137], 
+
+                 "unique": "INGENUITY", 
+
+                 "cities": ["Berlin","Frankfurt","Nuremberg","Hanover","Dortmund","Leipzig","Tannenburg","Stuttgart","Munich","Dresden", 
+
+                         "Hamburg","Dusseldorf","Bremen","Madgeburg"]
+
+
+
+          },   
+
+         

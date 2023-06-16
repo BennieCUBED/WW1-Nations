@@ -4,7 +4,7 @@
 
                  //nations 
 
-                 "name": "German Empire", 
+                 "name": "The German Empire", 
 
                  "leaderName": "Kaier Wilhelm II", 
 
@@ -46,14 +46,15 @@
 
                  "innerColor": [136, 138, 137], 
 
-                 "unique": "INGENUITY", 
+                 "unique": "FÜR DAS VADERLAND", 
 
                  "cities": ["Berlin","Frankfurt","Nuremberg","Hanover","Dortmund","Leipzig","Tannenburg","Stuttgart","Munich","Dresden", 
 
                          "Hamburg","Dusseldorf","Bremen","Madgeburg"]
                   
                   
-      },          
+      },        
+         ]
 
 
 

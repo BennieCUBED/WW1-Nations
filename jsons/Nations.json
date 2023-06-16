@@ -16,7 +16,7 @@
 
   
 
-                 "startIntroPart1": "", 
+                 "startIntroPart1": "...", 
 
                  "startIntroPart2": "Will you build a civilization that will stand the test of time?", 
 
@@ -59,8 +59,61 @@
                   
 },        
        
-          ]
+          {
+                   
+                  "Name": "The French Republic",
 
+                  "leaderName": "Raymond Poincaré",
+                   
+                  "adjective": ["French"],
+                   
+                  "startBias": ["Grassland"],
+
+                  "preferredVictoryType": "Domination", 
+                 
+                   
+                  "startIntroPart1": "...",
+                   
+                   "startIntroPart2": "Will you build a civilization that will stand the test of time?",
+
+                   
+                  
+                   "declearingWar": "Your diplomatic actions will not be tolerated!",
+                   
+                   "attacked": "Come at us! My allies have got my back! ...right?",
+                   
+                   "defeated": "France has surrendered to you...",
+                   
+                   "introduction": "Hello sir, and welcome to the third republic!",
+                   
+                   
+                   
+                   "neutralHello": "Hello Sir",
+                   
+                   "hateHello": "quoi??",
+                   
+                   
+                  
+                   "tradeRequest": "Ive got some deals to talk about",
+                   
+                   
+                   
+                   "OuterColor": [75, 66, 245],
+                   
+                   "innerColor": [250, 255, 115],
+                   
+                   
+                   
+                   "uniqueName": "Viva la France",
+                   
+                   
+                   
+                   "cities": ["Paris", "Marseille", "Lyon", "Verdun", "Nantes", "Toulouse", "Marne", "Rouen", "Versailles", "Cean"]
+                   
+  ]
+                   
+                   
+                   
 
 
           

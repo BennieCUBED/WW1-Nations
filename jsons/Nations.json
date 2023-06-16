@@ -6,7 +6,7 @@
 
                  "name": "The German Empire", 
 
-                 "leaderName": "Kaier Wilhelm II", 
+                 "leaderName": "Kaiser Wilhelm II", 
 
                  "adjective": ["German"], 
 
@@ -46,14 +46,19 @@
 
                  "innerColor": [136, 138, 137], 
 
-                 "unique": "FÜR DAS VADERLAND", 
+   
+                  
+                 "uniqueName": "FÜR DAS VADERLAND", 
 
-                 "cities": ["Berlin","Frankfurt","Nuremberg","Hanover","Dortmund","Leipzig","Tannenburg","Stuttgart","Munich","Dresden", 
+                 "Uniques": ["
+                  
+                  "cities": ["Berlin","Frankfurt","Nuremberg","Hanover","Dortmund","Leipzig","Tannenburg","Stuttgart","Munich","Dresden", 
 
                          "Hamburg","Dusseldorf","Bremen","Madgeburg"]
                   
                   
 },        
+       
           ]
 
 

@@ -6,9 +6,13 @@
 
                  "unitType": "Gunpowder", 
 
+                 "uniqueTo": "The German Empire",
+               
+                 "replaces": "Great War Infantry",
+                
                  "movement": 2, 
 
-                 "strength": 5, 
+                 "strength": 50, 
 
                  "cost": 2200, 
 

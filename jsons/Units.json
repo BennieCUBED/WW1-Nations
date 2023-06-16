@@ -1,1 +1,27 @@
+        { 
 
+                 "name": "Pickelhaube Infantry", 
+
+                 "unitType": "Gunpowder", 
+
+                 "movement": 2, 
+
+                 "strength": 5, 
+
+                 "cost": 2200, 
+
+                 "hurryCostModifier": 320, 
+
+                 "requiredTech": "Replaceable Parts", 
+
+                 "upgradesFrom": "Rifleman",
+                 
+                 "obsoleteTech": "Plastics", 
+
+                 "upgradesTo": "Infantry", 
+
+                 "attackSound": "arrow" 
+
+         },
+
+                 

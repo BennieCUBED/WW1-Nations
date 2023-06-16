@@ -14,13 +14,14 @@
 
                  "requiredTech": "Replaceable Parts", 
 
-                 "upgradesFrom": "Rifleman",
+                 "obsoleteTech": "Plastics",
+                
+                 "upgradesTo": "Infantry",
+                
+                
+                
+           
+
                  
-                 "obsoleteTech": "Plastics", 
-
-                 "upgradesTo": "Infantry", 
-
-
-         },
-
-                 
+                
+                

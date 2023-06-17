@@ -110,12 +110,54 @@
                    
                    "cities": ["Paris", "Marseille", "Lyon", "Verdun", "Nantes", "Toulouse", "Marne", "Rouen", "Versailles", "Cean"]
                    
-            }
+            },
                    
-                   
-]
-
-
+              {
+                       
+                       "name": "The British Empire",
+                       
+                       "leaderName": "King George V",
+                       
+                       "adjective": "British",
+                       
+                       "startBias": "Coast",
+                       
+                       "preferredVictoryType": "Science",
+                       
+                       
+                       "startInroPart1": "...",
+                       
+                       "startIntroPart2": "Will you build a civilization that will stand the test of time?",
           
 
+                       "declearingWar": "After some horrible news from you, we hearby decleare war!",
+                       
+                       "attacked": "War...? we are not amused...",
+                       
+                       "defeated": "Empires rise and fall... Im sure yours will too.",
+                       
+                       "introduction": "Greetings, I am George V, the successor of Victoria",
+                       
+                       
+                       "neutralHello": "Good morning!",
+                       
+                       "hateHello": "Yes..?",
+                       
+                       
+                       "tradeRequest": "Hello, would you like some tea?",
+                       
+                       
+                       "outerColor": ["252, 3, 3"],
+                       
+                       "innerColor": ["3, 37, 189"],
+                       
+                       
+                       "uniqueName": "King and Country",
+                       
+                       
+                       "cities": ["London","Birmingham","Manchester","Liverpool","Edinburgh","Bristol","Dundee","Cambridge","Glasgow","Exeter","Newcastle Upon Tyne"],
+                       
+                       
+               },
          
+         ]

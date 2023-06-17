@@ -160,4 +160,20 @@
                        
                },
          
-]
+               {
+                        
+                        "name": "Austro-Hungary",
+                        
+                        "leaderName": "Leader Austro",
+                        
+                        "adjective": "Austro-Hungarian",
+                        
+                        "startBias": ["Coast","Hills"],
+                        
+                        "preferredVictoryType": "Domination",
+                        
+                        
+                        "startIntoPart1": "Austria-Hungary, during WW1, Austria-Hungary decleared war against Serbia, after the assasination of Arch Duke Franz Ferdinand",
+
+                        
+     ntoPart2": "

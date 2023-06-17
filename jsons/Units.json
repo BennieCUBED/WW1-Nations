@@ -38,20 +38,28 @@
                  
                  "replaces": "Artillery",
                  
-                 "movement": 1,
+                 "movement": 2,
                  
                  
                  
-                 "strength": 40,
+                 "strength": 23,
+                 
+                 "rangedStrength": 30
                 
                  "cost": 375,
                  
-                 "hurryCostModifier": 140
+                 "hurryCostModifier": 140,
+                 
+                 "requiredTech": "Dynamite",
+                 
+                 "obsoleteTech": "Rocketry",
+                 
+                 "upgradesTo": "Rocket Artillery",
                  
                  
+           {,      
                  
-                 
-
+]
            
 
                  

@@ -117,6 +117,28 @@
                     
              },
 
-]
+             { 
+                     
+                     "name": "Iron Duke",
+                     
+                     "unitType": "Melee Water",
+                     
+                     "uniqueTo": "The British Empire",
+                     
+                     "replaces": "Destroyer",
+                     
+                     "movement": 7,
+                     
+                     
+                     "strength": 57,
+                     
+                     "cost": 2550,
+                     
+                     "hurryCostModifier": 380,
+                     
+                     "requiredTech": "Combustion",
+                     
+               
                  
-                
+             },
+]

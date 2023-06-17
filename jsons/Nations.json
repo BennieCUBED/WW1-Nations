@@ -120,7 +120,7 @@
                        
                        "adjective": "British",
                        
-                       "startBias": "Coast",
+                       "startBias": ["Coast"],
                        
                        "preferredVictoryType": "Science",
                        

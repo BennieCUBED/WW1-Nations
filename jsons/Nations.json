@@ -156,6 +156,7 @@
                        
                        "uniqueName": "King and Country",
                        
+                       "uniques": ["Allied City-States provide [Production] equal to [+25]% of what they produce for themselves"]
                        
                        "cities": ["London","Birmingham","Manchester","Liverpool","Edinburgh","Bristol","Dundee","Cambridge","Glasgow","Exeter","Newcastle Upon Tyne"],
                        

@@ -12,6 +12,8 @@
                 
                  "movement": 2, 
 
+                 "uniques": ["Can build [Trench] improvements on tiles"tn"],
+                
                  "strength": 53, 
 
                  "cost": 2200, 

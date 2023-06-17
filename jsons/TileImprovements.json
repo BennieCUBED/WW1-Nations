@@ -1,1 +1,20 @@
+[         
 
+         { 
+
+                 "name": "Trench Line", 
+
+                 "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra"], 
+
+                 
+
+                 "turnsToBuild": 4, 
+
+                 "techRequired": "Military Science", 
+
+                 "uniques": ["Gives a defensive bonus of 30%"]
+
+
+         },
+
+]

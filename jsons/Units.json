@@ -80,7 +80,7 @@
                   
                  "requiredTech": "Ballistics",
                    
-                 "uniques": "can move after attacking",
+                 "uniques": ["can move after attacking"],
                    
                  "obsoleteTech": "Rocketry",
                    
@@ -109,7 +109,7 @@
                     
                     "requiredTech": "Ballistics",
                    
-                    "uniques": "can move after attacking",
+                    "uniques": ["can move after attacking"],
                     
                     "obsoleteTech": "Rocketry",
                     

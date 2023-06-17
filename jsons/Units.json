@@ -16,9 +16,9 @@
                 
                  "strength": 53, 
 
-                 "cost": 2200, 
+                 "cost": 350, 
 
-                 "hurryCostModifier": 320, 
+                 "hurryCostModifier": 120, 
 
                  "requiredTech": "Replaceable Parts", 
 
@@ -27,8 +27,31 @@
                  "upgradesTo": "Infantry",
                 
          },
+          
+         { 
+                 
+                 "name": "French Artillery",
+                 
+                 "unitType": "Siege
+                 
+                 "uniqueTo": "The French Republic",
+                 
+                 "replaces": "Artillery",
+                 
+                 "movement": 1,
+                 
+                 
+                 
+                 "strength": 40,
                 
-]
+                 "cost": 375,
+                 
+                 "hurryCostModifier": 140
+                 
+                 
+                 
+                 
+
            
 
                  

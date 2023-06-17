@@ -80,6 +80,8 @@
                   
                  "requiredTech": "Ballistics",
                    
+                 "uniques": "Can move after attacking",
+                   
                  "obsoleteTech": "Rocketry",
                    
                  "upgradesTo": "Marine",
@@ -106,6 +108,8 @@
                     "hurryCostModifier": 120,
                     
                     "requiredTech": "Ballistics",
+                   
+                    "uniques": "Can move after attacking",
                     
                     "obsoleteTech": "Rocketry",
                     

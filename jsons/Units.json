@@ -63,9 +63,54 @@
                  
            },      
                  
-]
+           {
            
-
+                 "name": "Raider",
+                   
+                 "unitType": "Gunpowder",
                  
-                
+                 "movement": 3,
+                   
+                   
+                 "strength": 53,
+                   
+                 "cost": 360,
+                   
+                 "hurryCostMofifier": 125,
+                  
+                 "requiredTech": "Ballistics",
+                   
+                 "obsoleteTech": "Rocketry",
+                   
+                 "upgradesTo": "Marine",
+                   
+            },
+
+            {
+                    
+                    "name": "Sturmtruppen",
+                    
+                    "unitType": "Gunpowder",
+                    
+                    "uniqueTo": "The German Empire",
+                    
+                    "movement": 3,
+                    
+                    
+                    "strength": 55,
+                    
+                    "cost": 350,
+                    
+                    "hurryCostModifier": 120,
+                    
+                    "requiredTech": "Ballistics",
+                    
+                    "obsoleteTech": "Rocketry",
+                    
+                    "upgradesTo": "Marine",
+                    
+             },
+
+]
+                 
                 

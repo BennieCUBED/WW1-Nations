@@ -53,6 +53,8 @@
                  "hurryCostModifier": 140,
                  
                  "requiredTech": "Dynamite",
+                
+                 "uniques": ["vs Artillery): +200% strength vs cities when attacking","
                  
                  "obsoleteTech": "Rocketry",
                  

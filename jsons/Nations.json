@@ -195,6 +195,12 @@
                         "tradeRequest": "would you like our deals? please chose fast!",
                         
                         
-                        "outerColor": [],
+                        "outerColor": [0, 0, 0,],
                         
-                        "innerColor": [],
+                        "innerColor": [255, 237, 0],
+                        
+                        
+                        "uniqueName": "indivisibiliter ac inseparabiliter",
+                        
+                        
+                        "cities": ["Vienna","Budapest","Graz","Salzburg","Prague","

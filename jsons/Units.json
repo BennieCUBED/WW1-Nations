@@ -78,7 +78,7 @@
                    
                  "hurryCostMofifier": 125,
                   
-                 "requiredTech": "Automatic's",
+                 "requiredTech": "Automatics",
                    
                  "uniques": ["Can move after attacking"],
                    
@@ -107,7 +107,7 @@
                     
                     "hurryCostModifier": 120,
                     
-                    "requiredTech": "Automatic's",
+                    "requiredTech": "Automatics",
                    
                     "uniques": ["Can move after attacking"],
                     

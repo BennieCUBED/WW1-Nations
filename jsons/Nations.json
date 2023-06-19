@@ -165,9 +165,9 @@
          
                {
                         
-                        "name": "Austro-Hungary",
+                        "name": "Austria-Hungary",
                         
-                        "leaderName": "Leader Austro",
+                        "leaderName": "Charles I",
                         
                         "adjective": "Austro-Hungarian",
                         
@@ -205,7 +205,7 @@
                         
                         "uniqueName": "indivisibiliter ac inseparabiliter",
                         
-                        
+                        "uniques": ["[2+ Culture] from each Trade Route"],
                 
                         "cities": ["Vienna","Budapest","Graz","Salzburg","Prague","Zagreb","Szombathely","Szeged","Szekesfehevar"]
                },

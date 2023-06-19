@@ -149,9 +149,9 @@
                        "tradeRequest": "Hello, would you like some tea?",
                        
                        
-                       "outerColor": [252, 2, 2],
+                       "outerColor": [150, 17, 17],
                        
-                       "innerColor": [2, 37, 189],
+                       "innerColor": [17, 41, 150],
                        
                        
                        "uniqueName": "King and Country",

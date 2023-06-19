@@ -141,4 +141,33 @@
                
                  
              },
+
+             {
+                     
+                     "name": "Schützengrabeninfanterie",
+                     
+                     "unitType": "Gunpowder",
+                     
+                     "uniqueTo": "Austria-Hungary",
+                     
+                     "replaces": "Great War Infantry",
+                     
+                     "movement": 2,
+                     
+                     
+                     "strength": 48,
+                     
+                     "cost": 340,
+                     
+                     "hurryCostModifier": 110,
+                     
+                     "requiredTech": "Replaceable Parts",
+                     
+                     "obsoleteTech": "Plastics",
+                     
+                     "upgradesTo": "Infantry",
+                     
+             },
+
 ]
+

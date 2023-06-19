@@ -237,4 +237,26 @@
                         "introduction": "Greetings, I'm Tsar Nicholas! are you fond of diplomacy aswell?",
 
 
-                        "
+                        "neutralHello": "Hello!",
+
+                        "hateHello": "Huh? What!?",
+
+
+                        "tradeRequest": "Hello, care for an agreement, friend?",
+
+
+                        "outerColor": [43, 149, 255],
+
+                        "innerColor": [255, 255, 255],
+
+                        "uniqueName": "S' nami Bog",
+
+                        "uniques": ["[+2 Gold] per [2] social policies adopted"]
+
+                        "cities": ["Petrograd","Moscow","Novgorod","Rostov","Yaroslavl","Yekaterinburg","Yakutsk","Smolensk","Naroch","Orenburg"],
+
+               },
+
+]
+
+

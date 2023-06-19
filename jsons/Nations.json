@@ -120,7 +120,7 @@
                        
                        "leaderName": "King George V",
                        
-                       "adjective": "British",
+                       "adjective": ["British"],
                        
                        "startBias": ["Coast"],
                        
@@ -210,4 +210,31 @@
                         "cities": ["Vienna","Budapest","Graz","Salzburg","Prague","Zagreb","Szombathely","Szeged","Szekesfehevar"]
                },
 
-]
+               {
+                        
+                        "name": "The Russian Empire",
+                        
+                        "leaderName": "Tsar Nicholas II",
+                        
+                        "adjective": ["Russian"]
+                        
+                        "startBias": ["Tundra","Forest"],
+
+                        "preferredVictoryType": "Neutral",
+
+
+                        "startIntroPart1": "Russia, dragged into WWI while defending Serbia from the Austro-Hungarian forces",
+      
+                        "startIntroPart2": "will you build a Civilisation that will stand the test of time?",
+
+          
+                        "declearingWar": "I hope this war ends quickly, one way or another...",
+
+                        "attacked": "Let this not be like the Japanese war",
+
+                        "defeated": "Seems my voice wasnt strong enough...",
+
+                        "introduction": "Greetings, I'm Tsar Nicholas! are you fond of diplomacy aswell?",
+
+
+                        "

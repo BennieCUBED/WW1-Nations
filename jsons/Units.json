@@ -184,9 +184,9 @@
 
                      "strength": 55,
 
-                     "cost": 1200,
+                     "cost": 120,
 
-                     "hurryCostModifier": 355,
+                     "hurryCostModifier": 135,
 
                      "requiredTech": "Combustion",
 

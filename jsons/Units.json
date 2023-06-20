@@ -103,9 +103,9 @@
                     
                     "strength": 55,
                     
-                    "cost": 350,
+                    "cost": 750,
                     
-                    "hurryCostModifier": 120,
+                    "hurryCostModifier": 360,
                     
                     "requiredTech": "Ballistics",
                    

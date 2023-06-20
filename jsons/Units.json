@@ -179,20 +179,20 @@
 
                      "replaces": "Landship",
 
-                     "movement": 2,
+                     "movement": 5,
 
 
-                     "strength": 50,
+                     "strength": 55,
 
-                     "cost": 420,
+                     "cost": 1200,
 
-                     "hurryCostModifier": 175,
+                     "hurryCostModifier": 355,
 
                      "requiredTech": "Combustion",
 
-                     "uniques": [""]
+                     "uniques": ["Can see over obstacles"]
                      
-                     "obsoleteTech": "",
+                     "obsoleteTech": "Combined Arms",
 
                      "upgradesTo": "Tank",
 

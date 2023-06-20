@@ -190,6 +190,8 @@
 
                      "requiredTech": "Combustion",
 
+                     "uniques": [""]
+                     
                      "obsoleteTech": "",
 
                      "upgradesTo": "Tank",

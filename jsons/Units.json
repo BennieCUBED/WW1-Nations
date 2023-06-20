@@ -169,5 +169,32 @@
                      
              },
 
+             { 
+
+                     "name": "Tsar Tank",
+
+                     "unitType": "Armoured",
+
+                     "uniqueTo": "The Russian Empire",
+
+                     "replaces": "Landship",
+
+                     "movement": 2,
+
+
+                     "strength": 50,
+
+                     "cost": 420,
+
+                     "hurryCostModifier": 175,
+
+                     "requiredTech": "Combustion",
+
+                     "obsoleteTech": "",
+
+                     "upgradesTo": "Tank",
+
+             },
 ]
+                     
 

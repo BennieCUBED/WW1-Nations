@@ -257,6 +257,46 @@
 
                },
 
-]
+               {
 
+                        "name": "The Ottoman Empire",
+
+                        "leaderName": "Mehmed V",
+
+                        "adjective": ["Ottoman"],
+
+                        "startBias": ["Coast","Plains"],
+
+                        "preferredVictoryType": "Domination",
+
+
+                        "startIntroPart1": "..."
+
+                        "startIntroPart2": "Will you build a Civilisation that will stand the test of time ",
+
+
+                        "declearingWar": "after some 'tough' thinking, we have decided that we need to go to war.",
+
+                        "attacked": "Hah, the Ottamans can do what you can't! so dont try it!",
+
+                        "defeated": "It's a shame we have to surrender to your viciously punitive conditions...",
+
+                        "introduction": "Welcome! This is the Ottoman Empire, and im Mehmed V, their leader",
+
+
+                        "neutralHello": "Merhaba",
+
+                        "hateHello": "..?",
+
+         
+                        "tradeRequest": "Greetings, we would like to cooperate",
+
+
+                        "outerColor": [4, 204, 31],
+
+                        "innerColor": [255, 255, 255],
+
+                        "uniqueName": "Devlet-i Ebed-müddet",
+
+                        "cities": ["Istanbul","
 

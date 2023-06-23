@@ -298,6 +298,8 @@
 
                         "uniqueName": "Devlet-i Ebed-müddet",
 
+                        "uniques": ["<when at war>"]
+
                         "cities": ["Istanbul","Ankara","izmir","Antalya","Bursa","Edirne","Konya","Mersin","Gallipoli","Eskisehir","Batman"],
 
                },

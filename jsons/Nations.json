@@ -298,7 +298,7 @@
 
                         "uniqueName": "Devlet-i Ebed-müddet",
 
-                        "uniques": ["[+20]% Strength <for [All] units> "]
+                        "uniques": ["[+20]% Strength <for [All] units> <when defending>"]
 
                         "cities": ["Istanbul","Ankara","izmir","Antalya","Bursa","Edirne","Konya","Mersin","Gallipoli","Eskisehir","Batman"],
 

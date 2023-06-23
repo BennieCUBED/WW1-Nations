@@ -197,6 +197,35 @@
                      "upgradesTo": "Tank",
 
              },
+
+             {
+
+                     "name": "müsellems",
+
+                     "unitType": "Mounted",
+
+                     "uniqueTo": "The Ottoman Empire",
+
+                     "replaces": "Calvary",
+
+                     "movement": 4,
+
+
+                     "strength": 34,
+
+                     "cost": 640,
+
+                     "hurryCostModifier": 115,
+
+                     "requiredTech": "Military Science",
+
+                     "uniques": ["[50] Gold <upon defeating a [Wounded] unit>"]
+
+                     "obsoleteTech": "combustion",
+
+                     "upgradesTo": "Landship",
+
+             },
+
 ]
-                     
 

@@ -324,7 +324,24 @@
 
                         "declearingWar": "I understand my neutrality, but Italy needs to grow!",
 
-                        "attacked": "
+                        "attacked": "Your aggression is understandable, But this is too far",
+
+                        "defeated": "Again... The Empire falls again...",
+
+                        "introduction": "Ciao! Im Victor, Victor Emmanuel.",
+
+
+                        "neutralHello": "Ciao",
+
+                        "hateHello": "What is it?",
+
+
+                        "tradeRequest": "Italy would like to trade, dont tell the others",
+
+
+                        "outerColor": []
+
+                        "innerColor": []
     
 
                         

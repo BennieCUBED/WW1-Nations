@@ -171,7 +171,7 @@
                         
                         "adjective": "Austro-Hungarian",
                         
-                        "startBias": ["Coast","Hills"],
+                        "startBias": ["Grassland","Hills"],
                         
                         "preferredVictoryType": "Domination",
                         
@@ -304,8 +304,28 @@
 
                },
 
-]
-  
+               {
+
+                        "name": "Italy",
+
+                        "leaderName": "Victor Emmanuel",
+
+                        "adjective": ["Italian"],
+
+                        "startBias": ["Grassland","Coast"],
+
+                        "preferredVictoryType": "Neutral",
+
+
+                        "startIntroPart1": "...",  
+
+                        "startIntroPart2": "Will you build a Civilisation that will stand the test of time ",
+
+
+                        "declearingWar": "I understand my neutrality, but Italy needs to grow!",
+
+                        "attacked": "
+    
 
                         
 

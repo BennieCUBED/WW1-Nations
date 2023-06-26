@@ -219,7 +219,7 @@
 
                      "requiredTech": "Military Science",
 
-                     "uniques": ["[50] Gold <upon defeating a [Wounded] unit>","can move after attacking","no defensive terrain bonus","-33% strength vs cities when attacking"],
+                     "uniques": ["[50] Gold <upon defeating a [Wounded] unit>","Can move after attacking","No defensive terrain bonus","-33% strength vs cities when attacking"],
 
                      "obsoleteTech": "combustion",
 

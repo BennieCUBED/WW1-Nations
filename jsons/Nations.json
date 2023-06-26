@@ -345,6 +345,8 @@
 
                         "uniqueName": "Arditi",
 
+                        "uniques": ["[+3 Production] [in all cities] <for [30] turns> <when declearing friendship>"]
+                        
                         "cities": ["Roma","Florence","Milan","Genoa","Palermo","Naples","Bologna","Bari","Pisa","Tito"],
 
                },

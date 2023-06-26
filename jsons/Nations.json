@@ -339,9 +339,17 @@
                         "tradeRequest": "Italy would like to trade, dont tell the others",
 
 
-                        "outerColor": []
+                        "outerColor": [11, 252, 3],
 
-                        "innerColor": []
+                        "innerColor": [222, 22, 22],
+
+                        "uniqueName": "Arditi",
+
+                        "cities": ["Roma","Florence","Milan","Genoa","Palermo","Naples","Bologna","Bari","Pisa","Tito"],
+
+               },
+
+]
     
 
                         

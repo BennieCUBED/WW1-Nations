@@ -198,9 +198,9 @@
                         "tradeRequest": "would you like our deals? please choose fast!",
                         
                         
-                        "outerColor": [0, 0, 0],
+                        "outerColor": [255, 237, 0],
                         
-                        "innerColor": [255, 237, 0],
+                        "innerColor": [],
                         
                         
                         "uniqueName": "indivisibiliter ac inseparabiliter",

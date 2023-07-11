@@ -359,7 +359,7 @@
 
                         "adjective": ["Bulgarian"],
 
-                        "startBias": ["Plains","Coast","Hill"],
+                        "startBias": ["Plains","Hill"],
 
                         "preferedVictoryType": "Domination",
 
@@ -393,5 +393,47 @@
 
                },
 
-]
+               {
 
+                        "name": "The United States",
+
+                        "leaderName": "",
+
+                        "adjective": ["American"],
+
+                        "startBias": "Grassland",
+
+                        "preferedVictoryType": "Culture",
+
+
+                        "startIntroPart1": "..."
+
+                        "startIntroPart2": "Can you suport your allies? Can you build a civilization that can stand the test of time?",
+
+
+                        "declearingWar": "",
+
+                        "attacked": "",
+
+                        "defeated": "My fellow Americans... I have failed you...",
+
+                        "introduction": "Welcome to The United States of America!",
+
+
+                        "tradeRequest": "",
+
+
+                        "outerColor": [],
+
+                        "innercolor": [],
+
+
+                        "uniqueName": "",
+
+                        "uniques": [""],
+
+                        "cities": [""],
+
+               },
+
+]

@@ -80,7 +80,7 @@
 
                    
                   
-                   "declearingWar": "Your diplomatic actions will not be tolerated!",
+                   "declaringWar": "Your diplomatic actions will not be tolerated!",
                    
                    "attacked": "Come at us! My allies have got my back! ...right?",
                    
@@ -132,7 +132,7 @@
                        "startIntroPart2": "Will you build a civilization that will stand the test of time?",
           
 
-                       "declearingWar": "After some horrible news from you, we hearby decleare war!",
+                       "declaringWar": "After some horrible news from you, we hearby decleare war!",
                        
                        "attacked": "War...? we are not amused...",
                        
@@ -181,7 +181,7 @@
                         "startIntoPart2": "Will you build a civilisation that can stand the test of time?",
                         
                         
-                        "declearingWar": "Hey! don't you know what you've done? This is a sign of war!",
+                        "declaringWar": "Hey! don't you know what you've done? This is a sign of war!",
                         
                         "attacked": "Who do you think you are!? oh God...",
                         
@@ -228,7 +228,7 @@
                         "startIntroPart2": "will you build a Civilisation that will stand the test of time?",
 
           
-                        "declearingWar": "I hope this war ends quickly, one way or another...",
+                        "declaringWar": "I hope this war ends quickly, one way or another...",
 
                         "attacked": "Let this not be like the Japanese war",
 
@@ -275,7 +275,7 @@
                         "startIntroPart2": "Will you build a Civilisation that will stand the test of time ",
 
 
-                        "declearingWar": "after some 'tough' thinking, we have decided that we need to go to war.",
+                        "declaringWar": "after some 'tough' thinking, we have decided that we need to go to war.",
 
                         "attacked": "Hah, the Ottamans can do what you can't! so dont try it!",
 
@@ -322,7 +322,7 @@
                         "startIntroPart2": "Will you build a Civilisation that will stand the test of time ",
 
 
-                        "declearingWar": "I understand my neutrality, but Italy needs to grow!",
+                        "declaringWar": "I understand my neutrality, but Italy needs to grow!",
 
                         "attacked": "Your aggression is understandable, But this is too far",
 
@@ -369,7 +369,7 @@
                         "startIntroPart2": "Can you rebuild the Empire? Can you build a civilization that can stand the test of time?",
 
 
-                        "declearingWar": "With 'your' land, I can rebuild our empire!",
+                        "declaringWar": "With 'your' land, I can rebuild our empire!",
 
                         "attacked": "In this war, the enemy presents shocking figures...",
 
@@ -411,7 +411,7 @@
                         "startIntroPart2": "Can you suport your allies? Can you build a civilization that can stand the test of time?",
 
 
-                        "declearingWar": "If you want war so bad, i'll give it to you!",
+                        "declaringWar": "If you want war so bad, i'll give it to you!",
 
                         "attacked": "Our American dream will not fall to you.",
 

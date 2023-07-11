@@ -351,8 +351,47 @@
 
                },
 
-]
-    
+               {
 
+                        "name": "Bulgaria",
+
+                        "leaderName": "",
+
+                        "adjective": ["Bulgarian"],
+
+                        "startBias": ["Plains","Coast"],
+
+                        "preferedVictoryType": "Domination",
+
+
+                        "startIntroPart1": "...",
+
+                        "startIntroPart2": "Can you rebuild the Empire? Can you build a civilization that can stand the test of time?",
+
+
+                        "declearingWar": "With 'your' land, I can rebuild our empire!",
+
+                        "attacked": "",
+
+                        "defeated": "",
+    
+                        "introduction": "",
+
+
+                        "tradeRequest": "",
+
+
+                        "outerColor": [],
+
+                        "innerColor": [],
+
+                        "uniqueName": "",
+
+                        "uniques": [""],
                         
+                        "cities": [""],
+
+               },
+
+]
 

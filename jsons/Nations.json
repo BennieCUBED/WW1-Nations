@@ -353,13 +353,13 @@
 
                {
 
-                        "name": "Bulgaria",
+                        "name": "The Kingdom of Bulgaria",
 
-                        "leaderName": "",
+                        "leaderName": "Ferdinand I",
 
                         "adjective": ["Bulgarian"],
 
-                        "startBias": ["Plains","Coast"],
+                        "startBias": ["Plains","Coast","Hill"],
 
                         "preferedVictoryType": "Domination",
 
@@ -371,19 +371,19 @@
 
                         "declearingWar": "With 'your' land, I can rebuild our empire!",
 
-                        "attacked": "",
+                        "attacked": "In this war, the enemy presents shocking figures...",
 
-                        "defeated": "",
+                        "defeated": "Now that Bulgaria has surrendered, i will have to watch the collapse of my favourite things...",
     
-                        "introduction": "",
+                        "introduction": "Greetings! This is the Kingdom of Bulgaria! and im their tsar, King from where you're from.",
 
 
-                        "tradeRequest": "",
+                        "tradeRequest": "So, what do you have?",
 
 
-                        "outerColor": [],
+                        "outerColor": [96, 145, 10],
 
-                        "innerColor": [],
+                        "innerColor": [192, 12, 12],
 
                         "uniqueName": "",
 

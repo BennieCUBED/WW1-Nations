@@ -298,7 +298,7 @@
 
                         "uniqueName": "Devlet-i Ebed-müddet",
 
-                        "uniques": ["[+20]% Strength <for [All] units> <when attacking>"]
+                        "uniques": ["[+20]% Strength <for [All] units> <when defending>"]
 
                         "cities": ["Istanbul","Ankara","izmir","Antalya","Bursa","Edirne","Konya","Mersin","Gallipoli","Eskisehir","Batman"],
 
@@ -385,11 +385,11 @@
 
                         "innerColor": [192, 12, 12],
 
-                        "uniqueName": "",
+                        "uniqueName": "Saedinenieto pravi silata",
 
-                        "uniques": [""],
+                        "uniques": ["[+20]% Strength <for [All] units> <when attacking>"],
                         
-                        "cities": [""],
+                        "cities": ["Sofia","Plovdiv","Varna","Burgas","Ruse","Pernik","Haskovo","Bansko","Shumen","Yambol","Pleven","Vratsa","Troyan","Roman","Ahtopol"],
 
                },
 

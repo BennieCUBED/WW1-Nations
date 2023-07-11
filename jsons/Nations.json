@@ -401,7 +401,7 @@
 
                         "adjective": ["American"],
 
-                        "startBias": "Grassland",
+                        "startBias": ["Grassland"],
 
                         "preferedVictoryType": "Culture",
 

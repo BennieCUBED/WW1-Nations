@@ -420,19 +420,19 @@
                         "introduction": "Welcome to The United States of America!",
 
 
-                        "tradeRequest": "",
+                        "tradeRequest": "Here, have some guns",
 
 
-                        "outerColor": [],
+                        "outerColor": [9, 30, 189],
 
-                        "innercolor": [],
+                        "innercolor": [240, 240, 245],
 
 
-                        "uniqueName": "",
+                        "uniqueName": "In God we trust",
 
-                        "uniques": [""],
+                        "uniques": ["+3 Gold from each Trade Routes"],
 
-                        "cities": [""],
+                        "cities": ["Washington","New York","Boston","Philadelphia","Los Angeles","Seattle","Houston","],
 
                },
 

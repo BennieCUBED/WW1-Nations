@@ -454,16 +454,21 @@
                         "startIntroPart2": "Can you build a civilisation that can stand the test of time?",
 
 
-                        "declaringWar": "",
+                        "declaringWar": "We will stand beside our own to help and defend!",
 
                         "attacked": "We will mobilise every means of resistance, to stop this transgression, against our nation!",
 
-                        "defeated": "",
+                        "defeated": "How!? Australians are impossible to kill!",
 
-                        "introduction": "! I speak for the people of Australia as their Prime Minister.",
+                        "introduction": "Andrew Fisher! I speak for the people of Australia as their Prime Minister.",
 
 
-                        "tradeRequest": "",
+                        "neutralHello": "Hello mate!",
+
+                        "hateHello": "What?",
+
+
+                        "tradeRequest": "G'day! Want anything?",
 
 
                         "outerColor": [],

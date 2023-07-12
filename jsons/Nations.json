@@ -436,4 +436,36 @@
 
                },
 
-]
+               {
+
+                        "name": "Commonwealth of Australia",
+
+                        "leaderName": "",
+
+                        "adjective": ["Australian"],
+
+                        "startBias": ["Coast","Avoid Tundra"],
+
+                        "preferredVictoryType": "Neutral",
+
+
+                        "startIntroPart1": "...",
+
+                        "startIntroPart2": "Can you build a civilisation that can stand the test of time?",
+
+
+                        "declaringWar": "",
+
+                        "attacked": "We will mobilise every means of resistance, to stop this transgression, against our nation!",
+
+                        "defeated": "",
+
+                        "introduction": "! I speak for the people of Australia as their Prime Minister.",
+
+
+                        "tradeRequest": "",
+
+
+                        "outerColor": [],
+
+                        "innerColor": [],

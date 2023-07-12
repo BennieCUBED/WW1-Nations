@@ -473,7 +473,7 @@
 
                         "outerColor": [50, 140, 1],
 
-                        "innerColor": [],
+                        "innerColor": [194, 178, 41],
 
                         "cities": ["Canberra","Melbourne","Sydney","Brisbane","Darwin","Perth","Hobart","Adelaide","Gold Coast","Townsville","Broome","Mackay","Alice Springs","Port Douglas"],
 

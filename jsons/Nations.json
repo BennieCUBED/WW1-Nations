@@ -387,7 +387,7 @@
 
                         "uniqueName": "Saedinenieto pravi silata",
 
-                        "uniques": ["[+20]% Strength <for [All] units> <when attacking>"],
+                        "uniques": ["improves movement speed on roads <when at war>"],
                         
                         "cities": ["Sofia","Plovdiv","Varna","Burgas","Ruse","Pernik","Haskovo","Bansko","Shumen","Yambol","Pleven","Vratsa","Troyan","Roman","Ahtopol"],
 

@@ -288,10 +288,12 @@
 
                      "requiredResource": "Oil",
 
-                     "uniques": ["+20]% Strength"]
+                     "uniques": ["[+30]% Strength when adjacent to a [Melee] unit>"]
                      
                      "obsoleteTech": "Combined Arms",
 
                      "upgradesTo": "Tank",
 
              },
+
+]

@@ -227,5 +227,26 @@
 
              },
 
-]
+             {
+
+                     "name": "Schneider Cannon",
+
+                     "unitType": "Siege",
+
+                     "uniqueTo": "The Kingdom of Bulgaria",
+
+                     "replaces": "Artillery",
+
+                     "movement": 3,
+
+
+                     "strength": 20,
+
+                     "rangedStrengh": 25,
+
+                     "cost": 350,
+
+                     "hurryCostModifier": 350,
+
+                     "requiredTech": "Dynamite",
 

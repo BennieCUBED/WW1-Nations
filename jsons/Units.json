@@ -140,7 +140,7 @@
 
                      "requiredResource": "Oil",
 
-                     "uniques": ["Can see invisible Submarine units","[40]% chance to intercept air attacks","May withdraw before melee (80%)","+100% strength vs Submarine units"],
+                     "uniques": ["Can see invisible Submarine units","[40]% chance to intercept air attacks","May withdraw before melee ([80]%)","+100% strength vs Submarine units"],
                      
                
                  

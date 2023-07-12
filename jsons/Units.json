@@ -137,6 +137,8 @@
                      "hurryCostModifier": 380,
                      
                      "requiredTech": "Combustion",
+
+                     "requiredResource": "Oil",
                      
                
                  
@@ -190,6 +192,8 @@
 
                      "requiredTech": "Combustion",
 
+                     "requiredResource": "Oil",
+
                      "uniques": ["Can see over obstacles"]
                      
                      "obsoleteTech": "Combined Arms",
@@ -218,6 +222,8 @@
                      "hurryCostModifier": 115,
 
                      "requiredTech": "Military Science",
+
+                     "requiredResource": "Horses",
 
                      "uniques": ["[50] Gold <upon defeating a [Wounded] unit>","Can move after attacking","No defensive terrain bonus","-33% strength vs cities when attacking"],
 

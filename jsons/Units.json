@@ -288,7 +288,7 @@
 
                      "requiredResource": "Oil",
 
-                     "uniques": ["[+30]% Strength when adjacent to a [Melee] unit>"]
+                     "uniques": ["[+30]% Strength <when adjacent to a [Melee] unit>"]
                      
                      "obsoleteTech": "Combined Arms",
 

@@ -264,4 +264,34 @@
 
              },
 
-]
+             {
+
+                     "name": "Jeffery Armored Car",
+
+                     "unitType": "Armored",
+
+
+                     "uniqueTo": "The United States",
+
+                     "replaces": "Landship",
+
+                     "movement": 5,
+
+
+                     "strength": 50,
+
+                     "cost": 120,
+
+                     "hurryCostModifier": 370,
+
+                     "requiredTech": "Combustion",
+
+                     "requiredResource": "Oil",
+
+                     "uniques": ["Can see over obstacles"]
+                     
+                     "obsoleteTech": "Combined Arms",
+
+                     "upgradesTo": "Tank",
+
+             },

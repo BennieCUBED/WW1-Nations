@@ -475,6 +475,11 @@
 
                         "innerColor": [194, 178, 41],
 
+
+                        "uniqueName": "Advance Australia",
+
+                        "uniques": [""]
+
                         "cities": ["Canberra","Melbourne","Sydney","Brisbane","Darwin","Perth","Hobart","Adelaide","Gold Coast","Townsville","Broome","Mackay","Alice Springs","Port Douglas"],
 
                },

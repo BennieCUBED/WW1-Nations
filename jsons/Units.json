@@ -288,7 +288,7 @@
 
                      "requiredResource": "Oil",
 
-                     "uniques": ["Can see over obstacles"]
+                     "uniques": ["+20]% Strength"]
                      
                      "obsoleteTech": "Combined Arms",
 

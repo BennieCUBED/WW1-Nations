@@ -471,7 +471,7 @@
                         "tradeRequest": "G'day! Want anything?",
 
 
-                        "outerColor": [],
+                        "outerColor": [50, 140, 1],
 
                         "innerColor": [],
 

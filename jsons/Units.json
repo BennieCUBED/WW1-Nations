@@ -14,7 +14,7 @@
 
 
                 
-                 "strength": 53, 
+                 "strength": 60, 
 
                  "cost": 350, 
 
@@ -46,7 +46,7 @@
                  
                  "strength": 23,
                  
-                 "rangedStrength": 30
+                 "rangedStrength": 40
                 
                  "cost": 375,
                  
@@ -72,7 +72,7 @@
                  "movement": 3,
                    
                    
-                 "strength": 53,
+                 "strength": 60,
                    
                  "cost": 360,
                    
@@ -101,7 +101,7 @@
                     "movement": 3,
                     
                     
-                    "strength": 55,
+                    "strength": 65,
                     
                     "cost": 750,
                     
@@ -130,11 +130,11 @@
                      "movement": 7,
                      
                      
-                     "strength": 57,
+                     "strength": 65,
                      
                      "cost": 2550,
                      
-                     "hurryCostModifier": 380,
+                     "hurryCostModifier": 200,
                      
                      "requiredTech": "Combustion",
 
@@ -159,7 +159,7 @@
                      "movement": 2,
                      
                      
-                     "strength": 48,
+                     "strength": 45,
                      
                      "cost": 340,
                      
@@ -186,7 +186,7 @@
                      "movement": 5,
 
 
-                     "strength": 55,
+                     "strength": 50,
 
                      "cost": 120,
 
@@ -217,7 +217,7 @@
                      "movement": 4,
 
 
-                     "strength": 34,
+                     "strength": 40,
 
                      "cost": 640,
 
@@ -295,6 +295,34 @@
                      "obsoleteTech": "Combined Arms",
 
                      "upgradesTo": "Tank",
+
+             },
+
+             {
+
+                     "name": "Digger",
+
+                     "unitType": "Gunpowder", 
+
+                     "uniqueTo": "The Commonwealth of Australia",
+               
+                     "replaces": "Great War Infantry",
+                
+                     "movement": 3, 
+
+
+                
+                    "strength": 60, 
+
+                    "cost": 350, 
+
+                    "requiredTech": "Replaceable Parts", 
+                
+                    "obsoleteTech": "Plastics",
+
+                    "promotions": ["Mateship","Survivalism I"],
+                
+                    "upgradesTo": "Infantry",
 
              },
 

@@ -312,18 +312,44 @@
 
 
                 
-                    "strength": 60, 
+                     "strength": 60, 
 
-                    "cost": 350, 
+                     "cost": 350, 
 
-                    "requiredTech": "Replaceable Parts", 
+                     "requiredTech": "Replaceable Parts", 
                 
-                    "obsoleteTech": "Plastics",
+                     "obsoleteTech": "Plastics",
 
-                    "promotions": ["Mateship","Survivalism I"],
+                     "promotions": ["Mateship","Survivalism I"],
                 
-                    "upgradesTo": "Infantry",
+                     "upgradesTo": "Infantry",
 
              },
 
-]
+             {
+
+                     "name": "Alpine Infantry",
+
+                     "unitType": "Gunpowder", 
+
+                     "uniqueTo": "Italy",
+               
+                     "replaces": "Great War Infantry",
+                
+                     "movement": 2, 
+
+
+                
+                     "strength": 50, 
+
+                     "cost": 330, 
+
+                     "requiredTech": "Replaceable Parts", 
+                
+                     "obsoleteTech": "Plastics",
+
+                     "promotions": ["Alpine Infantry Ability"],
+                
+                     "upgradesTo": "Infantry",
+
+             },

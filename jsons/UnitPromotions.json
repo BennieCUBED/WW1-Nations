@@ -12,6 +12,10 @@
 
 		"name": "Alpine Infantry Ability",
 
-		"uniques": ["
+		"uniques": ["Ignores terrain cost <in [Hill] tiles>"],
+
+	},
+
+]
 
 	

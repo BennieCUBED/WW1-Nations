@@ -376,6 +376,11 @@
                         "defeated": "Now that Bulgaria has surrendered, i will have to watch the collapse of my favourite things...",
     
                         "introduction": "Greetings! This is the Kingdom of Bulgaria! and im their tsar, King from where you're from.",
+                        
+
+                        "neutralHello": "Hello",
+
+                        "hateHello": "Hmm?",
 
 
                         "tradeRequest": "So, what do you have?",
@@ -418,6 +423,11 @@
                         "defeated": "My fellow Americans... I have failed you...",
 
                         "introduction": "Welcome to The United States of America!",
+                        
+
+                        "neutralHello": "Welcome!",
+
+                        "hateHello": "What?",
 
 
                         "tradeRequest": "Here, have some guns",
@@ -481,6 +491,48 @@
                         "uniques": ["[+20]% Strength <for [Melee] units> <when fighting in [Coast] tiles>"],
 
                         "cities": ["Canberra","Melbourne","Sydney","Brisbane","Darwin","Perth","Hobart","Adelaide","Gold Coast","Townsville","Broome","Mackay","Alice Springs","Port Douglas"],
+
+               },
+
+               {
+
+                        "name": "Belgium",
+
+                        "leaderName": "",
+
+                        "adjective": ["Belgian"],
+
+                        "startBias": "Grassland","Avoid [Desert]",
+
+                        "preferredVictoryType": "Neutral",
+
+
+                        "declaringWar": "",
+
+                        "attacked": "",
+
+                        "defeated": "",
+
+                        "introduction": "",
+
+
+                        "neutralHello": "",
+
+                        "hateHello": "",
+
+
+                        "tradeRequest": "",
+
+
+                        "outerColor": [],
+
+                        "innerColor": [],
+
+                        "uniqueName": "",
+
+                        "uniques": [""],
+
+                        "cities": ["Brussels"],
 
                },
 

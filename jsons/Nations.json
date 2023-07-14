@@ -502,7 +502,7 @@
 
                         "adjective": ["Belgian"],
 
-                        "startBias": "Grassland","Avoid [Desert]",
+                        "startBias": ["Grassland","Avoid [Desert]"],
 
                         "preferredVictoryType": "Neutral",
 

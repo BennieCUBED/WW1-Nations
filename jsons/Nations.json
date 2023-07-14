@@ -498,7 +498,7 @@
 
                         "name": "Belgium",
 
-                        "leaderName": "",
+                        "leaderName": "King Albert I",
 
                         "adjective": ["Belgian"],
 
@@ -507,21 +507,21 @@
                         "preferredVictoryType": "Neutral",
 
 
-                        "declaringWar": "",
+                        "declaringWar": "You have angered me for too long! A la guerre!",
 
-                        "attacked": "",
+                        "attacked": "We may have not prepared for this, but atleast we have the spirit!",
 
-                        "defeated": "",
+                        "defeated": "We have defended to pur last man... Goodbye.",
 
-                        "introduction": "",
-
-
-                        "neutralHello": "",
-
-                        "hateHello": "",
+                        "introduction": "Greetings, I am Albert, King of the belgians, we'll be happy to co-operate.",
 
 
-                        "tradeRequest": "",
+                        "neutralHello": "Matin",
+
+                        "hateHello": "What now?",
+
+
+                        "tradeRequest": "Lets trade",
 
 
                         "outerColor": [],

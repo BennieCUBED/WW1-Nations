@@ -454,7 +454,7 @@
 
                         "adjective": ["Australian"],
 
-                        "startBias": ["Coast","Avoid Tundra"],
+                        "startBias": ["Coast","Avoid [Tundra]"],
 
                         "preferredVictoryType": "Neutral",
 

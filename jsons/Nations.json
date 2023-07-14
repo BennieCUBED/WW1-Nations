@@ -532,8 +532,8 @@
 
                         "uniques": ["[+30]% Strength <for [All] units> <when defending> <when at war>"],
 
-                        "cities": ["Brussels","Antwerp","Liegé","Lille","Ypres","Ghent","Mons","Bruges","Charleroi","Waterloo","],
-
+                        "cities": ["Brussels","Antwerp","Liegé","Lille","Ypres","Ghent","Mons","Bruges","Charleroi","Waterloo","Genk","Verviers","Namur","Leuven","Silly","Ath"],
+                        
                },
 
 ]

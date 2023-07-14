@@ -524,13 +524,13 @@
                         "tradeRequest": "Lets trade",
 
 
-                        "outerColor": [],
+                        "outerColor": [245, 227, 66],
 
-                        "innerColor": [],
+                        "innerColor": [66, 33, 15],
 
-                        "uniqueName": "",
+                        "uniqueName": "L'union fait la force",
 
-                        "uniques": [""],
+                        "uniques": ["[+30]% Strength <for [All] units> <when defending> <when at war>"],
 
                         "cities": ["Brussels"],
 

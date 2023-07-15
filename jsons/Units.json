@@ -354,4 +354,37 @@
 
              },
 
+             {
+
+                     "name": "Light Artillery",
+                 
+                     "unitType": "Siege"
+                 
+                     "uniqueTo": "Belgium",
+                 
+                     "replaces": "Artillery",
+                  
+                     "movement": 3,
+                 
+                 
+                 
+                    "strength": 20,
+                   
+                    "rangedStrength": 30
+                
+                    "cost": 320,
+                 
+                    "hurryCostModifier": 120,
+                 
+                    "requiredTech": "Dynamite",
+                
+                    "uniques": ["+200% strength vs cities when attacking"]
+                 
+                    "obsoleteTech": "Rocketry",
+                 
+                    "upgradesTo": "Rocket Artillery",
+                 
+                 
+           },  
+
 ]

@@ -536,5 +536,47 @@
                         
                },
 
+               {
+
+                        "name": "Dominion of Canada",
+
+                        "leaderName": "",
+
+                        "adjective": ["Canadian"],
+
+                        "startBias": ["Tundra","Avoid [Snow]"],
+
+                        "preferredVictoryType": "Diplomatic",
+
+
+                        "declaringWar": "",
+
+                        "attacked": "",
+
+                        "defeated": "To the people of Canada, i'm sorry...",
+
+                        "introduction": "",
+
+
+                        "neutralHello": "Morning",
+
+                        "hateHello": "What the-",
+
+
+                        "tradeRequest": "Hello, would you like to test some of our new maple syrup?",
+
+
+                        "outerColor": [],
+
+                        "innerColor": [],
+
+                        "uniqueName": "Oh Canada",
+
+                        "uniques": [""],
+
+                        "cities": [""]
+
+               },
+
 ]
                         

@@ -540,7 +540,7 @@
 
                         "name": "Dominion of Canada",
 
-                        "leaderName": "",
+                        "leaderName": "Wilfrid Laurier",
 
                         "adjective": ["Canadian"],
 
@@ -549,13 +549,13 @@
                         "preferredVictoryType": "Diplomatic",
 
 
-                        "declaringWar": "I never wanted to join this war; but you made me do this!",
+                        "declaringWar": "As an unstinting malignancy defines you relation to Canada we have no recourse than war.",
 
-                        "attacked": "",
+                        "attacked": "As we can reach no peaceful resolution with you, Canada must turn to reluctance, to war.",
 
                         "defeated": "To the people of Canada, i'm sorry...",
 
-                        "introduction": "",
+                        "introduction": "On behalf of the people of Canada, welcome, i am Prime Minister Laurier.",
 
 
                         "neutralHello": "Morning",

@@ -566,9 +566,9 @@
                         "tradeRequest": "Hello, would you like to test some of our new maple syrup?",
 
 
-                        "outerColor": [],
+                        "outerColor": [204, 14, 14],
 
-                        "innerColor": [],
+                        "innerColor": [199, 103, 103],
 
                         "uniqueName": "Oh Canada",
 

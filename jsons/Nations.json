@@ -549,7 +549,7 @@
                         "preferredVictoryType": "Diplomatic",
 
 
-                        "declaringWar": "As an unstinting malignancy defines you relation to Canada we have no recourse than war.",
+                        "declaringWar": "As an unstinting malignancy defines your relation to Canada, we have no recourse than war.",
 
                         "attacked": "As we can reach no peaceful resolution with you, Canada must turn to reluctance, to war.",
 
@@ -598,11 +598,11 @@
 
                         "declaringWar": "",
 
-                        "attacked": "",
+                        "attacked": "My attenpts to avoid violence have failed. An eye for an eye only makes the world blind...",
 
                         "defeated": "",
                         
-                        "introduction": "",
+                        "introduction": "Hello, i am Mohandas Gandhi. My people call me Bapu, but please, call me friend.",
                         
                         
                         "neutralHello": "Hello!",

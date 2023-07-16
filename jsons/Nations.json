@@ -580,9 +580,9 @@
 
                {
 
-                        "name": "British Raj",
+                        "name": "The British Raj",
 
-                        "leaderName": "",
+                        "leaderName": "Mohandas Gandhi",
 
                         "adjective": ["Indian"],
 
@@ -621,7 +621,7 @@
 
                         "uniques": [""],
 
-                        "cities": ["Delhi"],
+                        "cities": ["New Delhi"],
 
                },
 

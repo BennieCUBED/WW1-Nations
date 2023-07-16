@@ -578,5 +578,53 @@
 
                },
 
+               {
+
+                        "name": "British Raj",
+
+                        "leaderName": "",
+
+                        "adjective": ["Indian"],
+
+                        "startBias": ["Plains","Grassland"],
+
+                        "preferredVictoryType": "Culture",
+
+
+                        "startIntroPart1": "...",
+
+                        "startIntroPart2": "Will you be granted independence? Will you build a civilization that can stand the test of time?",
+
+
+                        "declaringWar": "",
+
+                        "attacked": "",
+
+                        "defeated": "",
+                        
+                        "introduction": "",
+                        
+                        
+                        "neutralHello": "Hello!",
+
+                        "hateHello": "Get out!",
+
+
+                        "tradeRequest": "We hope you find this fair",
+
+
+                        "outerColor": [],
+
+                        "innerColor": [],
+
+                        "uniqueName": "",
+
+                        "uniques": [""],
+
+                        "cities": ["Delhi"],
+
+               },
+
 ]
+
                         

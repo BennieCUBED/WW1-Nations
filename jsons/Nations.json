@@ -613,9 +613,9 @@
                         "tradeRequest": "We hope you find this fair",
 
 
-                        "outerColor": [],
+                        "outerColor": [53,0,103],
 
-                        "innerColor": [],
+                        "innerColor": [9,192,155],
 
                         "uniqueName": "",
 

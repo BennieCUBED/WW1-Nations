@@ -625,6 +625,53 @@
 
                },
 
+               {
+
+                        "name": "Portugal",
+
+                        "leaderName": "",
+
+                        "adjective": ["Portuguese"],
+
+                        "startBias": ["Grassland","Coast"],
+
+                        "preferredVictoryType": "Neutral",
+
+
+                        "startIntroPart1": "...",
+
+                        "startIntroPart2": "Can you build a civilization that can stand the test of time?",
+
+
+                        "declaringWar": "",
+
+                        "attacked": "",
+
+                        "defeated": "",
+
+                        "introduction": "",
+                        
+
+                        "neutralHello": "",
+
+                        "hateHello": "Umm?",
+
+                        
+                        "tradeRequest": "",
+
+
+                        "outerColor": [],
+
+                        "innerColor": [],
+
+                        "uniqueName": "",
+
+                        "uniques": [],
+
+                        "cities": ["Lisbon"],
+
+               },
+
 ]
 
                         

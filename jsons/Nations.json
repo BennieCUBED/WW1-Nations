@@ -627,7 +627,7 @@
 
                {
 
-                        "name": "Portugal",
+                        "name": "The First Portuguese Republic",
 
                         "leaderName": "Manuel de Arriaga",
 
@@ -660,9 +660,9 @@
                         "tradeRequest": "We have some things to sell if you'd like them.",
 
 
-                        "outerColor": [],
+                        "outerColor": [242, 255, 246],
 
-                        "innerColor": [],
+                        "innerColor": [5, 69, 153],
 
                         "uniqueName": "",
 

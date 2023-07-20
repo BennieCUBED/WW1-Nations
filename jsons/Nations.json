@@ -230,7 +230,7 @@
           
                         "declaringWar": "I hope this war ends quickly, one way or another...",
 
-                        "attacked": "Let this not be like the Japanese war",
+                        "attacked": "Are you serious? have you not heard the stories!? Russia is impossible to conquer!",
 
                         "defeated": "Seems my voice wasnt strong enough...",
 
@@ -600,7 +600,7 @@
 
                         "attacked": "My attenpts to avoid violence have failed. An eye for an eye only makes the world blind...",
 
-                        "defeated": "You can chain me, you can torture me, you can even this body, but you will never imprison my mind.",
+                        "defeated": "You can chain me, you can torture me, you can even destroy this body, but you will never imprison my mind.",
                         
                         "introduction": "Hello, i am Mohandas Gandhi. My people call me Bapu, but please, call me friend.",
                         
@@ -666,7 +666,7 @@
 
                         "uniqueName": "Esta é a ditosa Pátria minha amada",
 
-                        "uniques": ["[+30]% Strength <or [Melee] unit> <on foreign continents>"],
+                        "uniques": ["[+30]% Strength <for [Melee] unit> <on foreign continents>"],
 
                         "cities": ["Lisbon","Porto","Braga","Coimbra","Albufeira","Aveiro","Faro","Vila Real","Evora","Caldas da rainha","Viseu","Nazaré","Figueira da Foz","Lapa","Ota","Não é um nome de cidade real"],
 

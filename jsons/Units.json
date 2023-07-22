@@ -457,8 +457,10 @@
                      "uniques": ["+150% strength vs cities when attacking"],
 
              },
+                     
+             {
 
-                     "name": "Great War MG",
+                     "name": "Great War Machine Gun",
 
                      "unitType": "Support", 
                 

@@ -539,7 +539,7 @@
 
                  "requiredTech": "Replaceable Parts", 
 
-                 "uniques": ["
+                 "uniques": ["[+30]% Strength <when attacking> <in [Trench] tiles>"], 
                 
                  "obsoleteTech": "Plastics",
                 

@@ -132,9 +132,7 @@
                      
                      "strength": 65,
                      
-                     "cost": 2550,
-                     
-                     "hurryCostModifier": 200,
+                     "cost": 650,
                      
                      "requiredTech": "Combustion",
 
@@ -425,7 +423,7 @@
                  
                  "strength": 15,
                  
-                 "rangedStrength": 30,
+                 "rangedStrengh": 30,
                 
                  "cost": 320,
                  
@@ -450,7 +448,7 @@
 
                      "strength": 25,
 
-                     "rangedStrength" 40,
+                     "rangedStrengh" 40,
 
                      "cost": 380,
 

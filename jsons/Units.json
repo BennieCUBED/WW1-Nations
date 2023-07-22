@@ -519,4 +519,32 @@
                 
          },
 
+        { 
+
+                 "name": "Canadian Expeditionary Force", 
+
+                 "unitType": "Gunpowder", 
+
+                 "uniqueTo": "The Dominion of Canada",
+               
+                 "replaces": "Great War Infantry",
+                
+                 "movement": 2, 
+
+
+                
+                 "strength": 60, 
+
+                 "cost": 290,  
+
+                 "requiredTech": "Replaceable Parts", 
+
+                 "uniques": ["
+                
+                 "obsoleteTech": "Plastics",
+                
+                 "upgradesTo": "Infantry",
+                
+         },
+
 ]

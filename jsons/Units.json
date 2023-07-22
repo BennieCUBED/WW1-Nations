@@ -429,7 +429,7 @@
                  
                  "requiredTech": "Dynamite",
                 
-                 "uniques": ["+150% strength vs cities when attacking"]
+                 "uniques": ["+150% strength vs cities when attacking"],
                  
                  "obsoleteTech": "Rocketry",
                  
@@ -494,9 +494,9 @@
 
                  "requiredTech": "Replaceable Parts", 
                 
-         },  
+           },  
 
-             {
+           {
 
                  "name": "Carbonário",
 

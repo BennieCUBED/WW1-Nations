@@ -500,7 +500,9 @@
 
                  "name": "Carbonário",
 
-                 "unitType": "Light Infantry", 
+                 "unitType": "Light Infantry",
+
+                 "uniqueTo": "The First Portuguese Republic",
                 
                  "movement": 2, 
 

@@ -503,6 +503,8 @@
                  "unitType": "Light Infantry",
 
                  "uniqueTo": "The First Portuguese Republic",
+
+                 "replaces": "Draftee",
                 
                  "movement": 2, 
 

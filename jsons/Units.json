@@ -413,4 +413,105 @@
 
              },
 
-]
+             {
+
+                 "name": "Mortar",
+
+                 "unitType": "Light Siege",
+                 
+                 "movement": 2,
+                 
+                 
+                 
+                 "strength": 15,
+                 
+                 "rangedStrength": 30,
+                
+                 "cost": 320,
+                 
+                 "requiredTech": "Dynamite",
+                
+                 "uniques": ["+150% strength vs cities when attacking"]
+                 
+                 "obsoleteTech": "Rocketry",
+                 
+                 "upgradesTo": "Modern Mortar",
+
+             },
+
+             {
+
+                     "name": "Modern Mortar",
+
+                     "unitType": "Light Siege",
+
+                     "movement": 2,
+
+
+                     "strength": 25,
+
+                     "rangedStrength" 40,
+
+                     "cost": 380,
+
+                     "requiredTech": "Rocketry",
+
+                     "uniques": ["+150% strength vs cities when attacking"],
+
+             },
+
+
+                     "name": "Great War Machine Gun",
+
+                     "unitType": "Support", 
+                
+                     "movement": 1, 
+
+                
+                     "strength": 60, 
+
+                     "cost": 280, 
+
+                     "requiredTech": "Replaceable Parts",
+
+                     "uniques": ["+75% strength when defending"],
+
+                     "upgradesTo": "Machine Gun",
+
+             },
+
+             {
+
+                 "name": "Draftee",
+
+                 "unitType": "Light Infantry", 
+                
+                 "movement": 2, 
+
+                
+                 "strength": 40, 
+
+                 "cost": 200,
+
+                 "requiredTech": "Replaceable Parts", 
+                
+         },  
+
+             {
+
+                 "name": "Carbonário",
+
+                 "unitType": "Light Infantry", 
+                
+                 "movement": 2, 
+
+                
+                 "strength": 40, 
+
+                 "cost": 180,
+
+                 "requiredTech": "Replaceable Parts",
+
+                 "uniques": ["May enter foreign tiles without open borders","Invisible to non-adjacent units"],
+                
+         },

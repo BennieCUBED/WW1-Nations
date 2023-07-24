@@ -547,4 +547,30 @@
                 
          },
 
-]
+             {
+
+                     "name": "NZ Digger",
+
+                     "unitType": "Gunpowder", 
+
+                     "uniqueTo": "The Dominion of New Zealand",
+               
+                     "replaces": "Great War Infantry",
+                
+                     "movement": 2, 
+
+
+                
+                     "strength": 60, 
+
+                     "cost": 350, 
+
+                     "requiredTech": "Replaceable Parts", 
+                
+                     "obsoleteTech": "Plastics",
+
+                     "promotions": ["Mateship",""],
+                
+                     "upgradesTo": "Infantry",
+
+             },

@@ -690,14 +690,36 @@
                         "startIntroPart2": "Can you build a civilisation that can stand the test of time?",
 
 
-                        "declaringWar": "",
+                        "declaringWar": "New Zealand and their allies will fight you! Ki te whawhai!",
 
                         "attacked": "Look at that Civ leader with their war declaration, Good job, mate! Show how hard you are!",
 
                         "defeated": "Many New Zealanders have fought for us, and so many have fallen for us...",
 
-                        "introduction": "Kia Ora! You approach the land of Artaroa 
+                        "introduction": "Kia Ora! You approach the land of Aotearoa, New Zealand!",
 
+
+                        "neutralHello": "Kia Ora",
+
+                        "hateHello": "What now!?",
+
+
+                        "tradeRequest": "Hey, Wanna trade?",
+
+                        
+                        "outerColor": [],
+
+                        "innerColor": [],
+
+                        "uniqueName": "",
+
+                        "uniques": [""],
+
+                        "cities": [""],
+
+               },
+
+]
                         
 
                         

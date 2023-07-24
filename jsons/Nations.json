@@ -496,7 +496,7 @@
 
                {
 
-                        "name": "Belgium",
+                        "name": "The Kingdom of Belgium",
 
                         "leaderName": "King Albert I",
 
@@ -672,6 +672,32 @@
 
                },
 
-]
+               {
+
+                        "name": "New Zealand",
+
+                        "leaderName": "",
+
+                        "adjective": ["New Zealander"],
+
+                        "startBias": ["Coast","Avoid [Desert]"],
+
+                        "preferredVictoryType": "Neutral",
+
+
+                        "startIntroPart1": "...",
+
+                        "startIntroPart2": "Can you build a civilisation that can stand the test of time?",
+
+
+                        "declaringWar": "",
+
+                        "attacked": "Look at that Civ leader with their war declaration, Good job, mate! Show how hard you are!",
+
+                        "defeated": "Many New Zealanders have fought for us, and so many have fallen for us...",
+
+                        "introduction": "Kia Ora! You approach the land of Artaroa 
+
+                        
 
                         

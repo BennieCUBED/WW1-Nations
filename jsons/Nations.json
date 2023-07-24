@@ -674,9 +674,9 @@
 
                {
 
-                        "name": "New Zealand",
+                        "name": "The Dominion of New Zealand",
 
-                        "leaderName": "",
+                        "leaderName": "William Massey",
 
                         "adjective": ["New Zealander"],
 
@@ -707,13 +707,13 @@
                         "tradeRequest": "Hey, Wanna trade?",
 
                         
-                        "outerColor": [],
+                        "outerColor": [255, 255, 255],
 
-                        "innerColor": [],
+                        "innerColor": [179, 15, 4],
 
-                        "uniqueName": "",
+                        "uniqueName": "New Zealand",
 
-                        "uniques": [""],
+                        "uniques": ["[+20]% Strength <for [Melee] units> <when fighting in [Coast] tiles>"],
 
                         "cities": [""],
 

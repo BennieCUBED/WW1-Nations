@@ -569,8 +569,10 @@
                 
                      "obsoleteTech": "Plastics",
 
-                     "promotions": ["Mateship",""],
+                     "promotions": ["Mateship","Haka War Dance"],
                 
                      "upgradesTo": "Infantry",
 
              },
+
+]

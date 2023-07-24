@@ -715,7 +715,7 @@
 
                         "uniques": ["[+20]% Strength <for [Melee] units> <when fighting in [Coast] tiles>"],
 
-                        "cities": [""],
+                        "cities": ["Wellington","Auckland","Christchurch","Hamilton","Tauranga","Queenstown","Whangārei","Dunedin","],
 
                },
 

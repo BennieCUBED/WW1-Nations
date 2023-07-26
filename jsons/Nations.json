@@ -754,11 +754,11 @@
                         "tradeRequest": "What is it? Oil again?",
 
 
-                        "outerColor": [],
+                        "outerColor": [196, 146, 8],
 
-                        "innerColor": [],
+                        "innerColor": [8, 112, 196],
                         
-                        "uniqueName": "",
+                        "uniqueName": "Nimic fără Dumnezeu",
                         
                         "uniques": [""],
 

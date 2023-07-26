@@ -108,7 +108,7 @@
                    
                    "uniqueName": "Viva la France",
                    
-                   "uniques": ["[+20]% Production when constructing [Melee] units [in all cities] <when at war>"]
+                   "uniques": ["[+20]% Production when constructing [Melee] units [in all cities] <when at war>","[+30]% [Culture] [in all cities]"]
                    
                    "cities": ["Paris", "Marseille", "Lyon", "Verdun", "Nantes", "Toulouse", "Marne", "Rouen", "Versailles", "Cean","Limoges","Poitiers","Angers","Rennes"],
                    
@@ -156,7 +156,7 @@
                        
                        "uniqueName": "King and Country",
                        
-                       "uniques": ["Allied City-States provide [Production] equal to [+25]% of what they produce for themselves"]
+                       "uniques": ["Allied City-States provide [Production] equal to [+25]% of what they produce for themselves","May travel on Water tiles without embarking <for [All] units>"]
                        
                        "cities": ["London","Birmingham","Manchester","Liverpool","Edinburgh","Bristol","Dundee","Cambridge","Glasgow","Exeter","Newcastle Upon Tyne"],
                        
@@ -205,7 +205,7 @@
                         
                         "uniqueName": "indivisibiliter ac inseparabiliter",
                         
-                        "uniques": ["[20]% Culture from each Trade Routes"],
+                        "uniques": ["[20]% Culture from each Trade Routes","[+1 Gold, +1 Culture] from every specialist [in all cities]"],
                 
                         "cities": ["Vienna","Budapest","Graz","Salzburg","Prague","Zagreb","Szombathely","Szeged","Szekesfehevar"]
                },

@@ -723,13 +723,13 @@
 
                         "name": "The Kingdom of Romania",
 
-                        "leaderName": "",
+                        "leaderName": "Ferdinand I",
 
                         "adjective": ["Romanian"],
 
                         "startBias": ["Plains"],
 
-                        "preferredVictoryType": "",
+                        "preferredVictoryType": "Domination",
 
 
                         "startIntroPart1": "...",
@@ -739,11 +739,11 @@
 
                         "declaringWar": "Your weakness has shown, and yet you think you're strong...",
 
-                        "attacked": "",
+                        "attacked": "All you ever did was want to take. I was wrong to trust you!",
 
-                        "defeated": "",
+                        "defeated": "Only now that i see that i'm surrounded by my enemies is when i realise i have been defeated.",
 
-                        "introduction": "",
+                        "introduction": "Remember this, Even if i'm neutral doesn't mean i won't go to war, but i just won't think about it. Welcome to Romania!",
 
 
                         "neutralHello": "Hello!",
@@ -751,7 +751,7 @@
                         "hateHello": "Ce vor ei acum?", 
 
 
-                        "tradeRequest": "",
+                        "tradeRequest": "What is it? Oil again?",
 
 
                         "outerColor": [],

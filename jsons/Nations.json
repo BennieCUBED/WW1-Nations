@@ -719,7 +719,51 @@
 
                },
 
-]
-                        
+               {
 
+                        "name": "The Kingdom of Romania",
+
+                        "leaderName": "",
+
+                        "adjective": ["Romanian"],
+
+                        "startBias": ["Plains"],
+
+                        "preferredVictoryType": "",
+
+
+                        "startIntroPart1": "...",
+
+                        "startIntroPart2": "Will you build a civilization that can stand the test of time?",
+
+
+                        "declaringWar": "Your weakness has shown, and yet you think you're strong...",
+
+                        "attacked": "",
+
+                        "defeated": "",
+
+                        "introduction": "",
+
+
+                        "neutralHello": "Hello!",
                         
+                        "hateHello": "Ce vor ei acum?", 
+
+
+                        "tradeRequest": "",
+
+
+                        "outerColor": [],
+
+                        "innerColor": [],
+                        
+                        "uniqueName": "",
+                        
+                        "uniques": [""],
+
+                        "cities": [""],
+
+               },
+
+]

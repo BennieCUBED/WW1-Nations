@@ -766,4 +766,52 @@
 
                },
 
+               {
+
+                        "name": "The Empire of Japan",
+
+                        "leaderName": "",
+
+                        "adjective": ["Japanese"],
+
+                        "startBias": ["Grassland","Coast"],
+
+                        "preferredVictoryType": "Domination",
+
+
+                        "startIntroPart1": "...",
+
+                        "startIntroPart2": "Can you expand the Empire? Can you create a civilization that can stand the test of time?",
+
+
+                        "declaringWar": "Japan is ready to take your shores, Prepare for a swift defeat.",
+
+                        "attacked": "You may have numbers. But we have honor!",
+
+                        "defeated": "Please... End this dishonor on my family...",
+
+                        "introduction": "Hello, I am the great Emperor, Emperor of Japan",
+
+
+                        "neutralHello": "Hello.",
+
+                        "hateHello": "...",
+
+
+                        "tradeRequest": "As the emperor of Japan, i believe that this deal is perfect for you",
+
+
+                        "outerColor": [],
+
+                        "innerColor": [],
+
+                        "uniqueName": "",
+
+                        "uniques": [""],
+
+                        "cities": ["Kyoto"],
+
+               },
+
 ]
+         

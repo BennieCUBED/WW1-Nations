@@ -801,15 +801,15 @@
                         "tradeRequest": "As the emperor of Japan, i believe that this deal is perfect for you",
 
 
-                        "outerColor": [],
+                        "outerColor": [255, 255, 255],
 
-                        "innerColor": [],
+                        "innerColor": [235, 73, 61],
 
                         "uniqueName": "Hakkō ichiu",
 
                         "uniques": ["[+20]% Strength <for [Land] units> <when attacking> [Water] units"],
 
-                        "cities": ["Kyoto"],
+                        "cities": ["Kyoto","Tokyo"],
 
                },
 

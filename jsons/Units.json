@@ -22,7 +22,7 @@
 
                  "requiredTech": "Replaceable Parts", 
 
-                 "uniques": ["+20% combat bonus in Trench Line improvement"],
+                 "uniques": ["[+20]% combat bonus in Trench Line improvement"],
                 
                  "obsoleteTech": "Plastics",
                 
@@ -54,7 +54,7 @@
                  
                  "requiredTech": "Dynamite",
                 
-                 "uniques": ["+200% strength vs cities when attacking"]
+                 "uniques": ["[+200]% strength vs cities when attacking"]
                  
                  "obsoleteTech": "Rocketry",
                  
@@ -256,7 +256,7 @@
 
                      "requiredTech": "Dynamite",
 
-                     "uniques": ["+200% strength vs cities when attacking"]
+                     "uniques": ["[+200]% strength vs cities when attacking"]
                  
                      "obsoleteTech": "Rocketry",
                  
@@ -376,7 +376,7 @@
                  
                     "requiredTech": "Dynamite",
                 
-                    "uniques": ["+200% strength vs cities when attacking"]
+                    "uniques": ["+[200]% strength vs cities when attacking"]
                  
                     "obsoleteTech": "Rocketry",
                  
@@ -429,7 +429,7 @@
                  
                  "requiredTech": "Dynamite",
                 
-                 "uniques": ["+150% strength vs cities when attacking"],
+                 "uniques": ["[+150]% strength vs cities when attacking"],
                  
                  "obsoleteTech": "Rocketry",
                  
@@ -454,7 +454,7 @@
 
                      "requiredTech": "Rocketry",
 
-                     "uniques": ["+150% strength vs cities when attacking"],
+                     "uniques": ["[+150]% strength vs cities when attacking"],
 
              },
                      
@@ -473,7 +473,7 @@
 
                      "requiredTech": "Replaceable Parts",
 
-                     "uniques": ["+75% strength when defending"],
+                     "uniques": ["[+75]% strength when defending"],
 
                      "upgradesTo": "Machine Gun",
 
@@ -574,5 +574,28 @@
                      "upgradesTo": "Infantry",
 
              },
+
+{
+
+                 "name": "Romanian Volunteer Corps",
+
+                 "unitType": "Light Infantry",
+
+                 "uniqueTo": "The Kingdom of Romania",
+
+                 "replaces": "Draftee",
+                
+                 "movement": 2, 
+
+                
+                 "strength": 40, 
+
+                 "cost": 130,
+
+                 "requiredTech": "Replaceable Parts",
+
+                 "uniques": ["[+30]% strength when defending"],
+                
+         },
 
 ]

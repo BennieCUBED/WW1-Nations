@@ -345,7 +345,7 @@
 
                         "uniqueName": "Arditi",
 
-                        "uniques": ["[+3 Production] [in all cities] <for [30] turns> <upon declaring friendship>"],
+                        "uniques": ["[+3 Production] [in all cities] <for [30] turns> <upon declaring friendship>","[+20]% [Culture] for cities in [Hill] tiles"],
                         
                         "cities": ["Roma","Florence","Milan","Genoa","Palermo","Naples","Bologna","Bari","Pisa","Tito"],
 
@@ -807,7 +807,7 @@
 
                         "uniqueName": "Hakkō ichiu",
 
-                        "uniques": ["[+20]% Strength <for [Land] units> <when attacking> [Water] units"],
+                        "uniques": ["[+20]% Strength <for [Land] units> vs [Water] units"],
 
                         "cities": ["Kyoto","Tokyo","Osaka","Fukuoka","Sapporo","Hakodate","Yokohama","Sendai","Hiroshima","Nagoya","Niigata","Aomori","Hushiro","Nagasaki","Morioka","Akita","Matsuyama","Amami","Nago","Oga","Yuza","Higashiagatsuma","歯ブラシ"],
 

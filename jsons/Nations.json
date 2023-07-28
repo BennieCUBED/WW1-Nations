@@ -50,7 +50,7 @@
                   
                  "uniqueName": "FÜR DAS VADERLAND", 
                   
-                  "uniques": ["[+15]% of excess happiness converted to [Production]"],
+                  "uniques": ["[+20]% of excess happiness converted to [Production]","[-25]% maintenance costs <for [Land] units>"],
 
                  
                   
@@ -251,7 +251,7 @@
 
                         "uniqueName": "S' nami Bog",
 
-                        "uniques": ["[+2 Gold] per [2] social policies adopted"]
+                        "uniques": ["[+2 Gold] per [2] social policies adopted",""]
 
                         "cities": ["Petrograd","Moscow","Novgorod","Rostov","Yaroslavl","Yekaterinburg","Yakutsk","Smolensk","Naroch","Orenburg"],
 
@@ -298,7 +298,7 @@
 
                         "uniqueName": "Devlet-i Ebed-müddet",
 
-                        "uniques": ["[+20]% Strength <for [All] units> <when defending>"]
+                        "uniques": ["[+20]% Strength <for [All] units> <when defending>"],
 
                         "cities": ["Istanbul","Ankara","izmir","Antalya","Bursa","Edirne","Konya","Mersin","Gallipoli","Eskisehir","Batman"],
 
@@ -440,7 +440,7 @@
 
                         "uniqueName": "In God we trust",
 
-                        "uniques": ["+3 Gold from each Trade Routes"],
+                        "uniques": ["+3 Gold from each Trade Routes","[+1] Sight <for [{Military} {Land}] units>"],
 
                         "cities": ["Washington","New York","Boston","Philadelphia","Los Angeles","Seattle","Houston","Atlanta","Chicago","Detroit","New Orleans","Lemons","Brazil"],
 

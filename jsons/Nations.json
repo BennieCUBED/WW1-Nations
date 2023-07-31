@@ -854,7 +854,7 @@
 
                         "uniqueName": "Communist Utopia",
 
-                        "uniques": ["Starts with [Order] adopted"],
+                        "uniques": ["Starts with [Order] adopted","[+2 Production] per [2] social policies adopted"],
 
                         "cities": ["Leningrad","Kazan","Voronezh","Ryazan","Kursk","Pskov","Liski","Tver","Narva","Ostashkov","Valday","Luga","Tikhvin","Tambov","Sarov","Erensk","Khimki","Nelidovo","Ulim","Kunya","Velikiye Luki","Pуссkие cлоba"],
 

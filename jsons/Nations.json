@@ -833,7 +833,7 @@
                         
                         "declaringWar": "For Communism! For the new Russia!",
 
-                        "attacked": "",
+                        "attacked": "Your people are craving happiness, and so you want to stop them..?",
 
                         "defeated": "Our dream for a communist utopia is now gone...",
 
@@ -848,9 +848,9 @@
                         "tradeRequest": "Are you interested in this deal?",
 
                         
-                        "outerColor": [],
+                        "outerColor": [217, 15, 15],
 
-                        "innerColor": [],
+                        "innerColor": [240, 206, 12],
 
                         "uniqueName": "Communist Utopia",
 

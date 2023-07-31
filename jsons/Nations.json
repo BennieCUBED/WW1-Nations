@@ -813,5 +813,51 @@
 
                },
 
+               {
+
+                        "name": "The Red Army",
+
+                        "leaderName": "Lenin",
+
+                        "adjective": ["Soviet"],
+
+                        "startBias": ["Tundra","Forest"],
+
+                        "preferredVictoryType": "Domination",
+
+
+                        "startIntroPart1": "...",
+
+                        "startIntroPart2": "Can you build a communist utopia? Can you build a civilization that can stand the test of time?",
+
+                        
+                        "declaringWar": "For Communism! For the new Russia!",
+
+                        "attacked": "",
+
+                        "defeated": "Our dream for a communist utopia is now gone...",
+
+                        "introduction": "Are you with us or against us? No matter. because the Red Army will always win!",
+
+
+                        "neutralHello": "Hello comrade!",
+
+                        "hateHello": "Are you ready to surrender to communism?",
+
+
+                        "tradeRequest": "Are you interested in this deal?",
+
+                        
+                        "outerColor": [],
+
+                        "innerColor": [],
+
+                        "uniqueName": "Communist Utopia",
+
+                        "uniques": [""],
+
+                        "cities": ["Leningrad"],
+
+               },
+
 ]
-         

@@ -594,8 +594,37 @@
 
                  "requiredTech": "Replaceable Parts",
 
+                 "obsoleteTech": "Plastics",
+
                  "uniques": ["[+30]% strength when defending"],
                 
          },
 
+         {
+
+                 "name": "Banzai Infantry",
+
+                 "unitType": "Gunpowder",
+
+                 "uniqueTo": "The Empire of Japan",
+
+                 "replaces": "Great War Infantry",
+
+                 "movement": 2,
+                 
+
+                 "strength": 55,
+
+                 "cost": 330,
+
+                 "requiredTech": "Replaceable Parts",
+
+                 "obsoleteTech": "Plastics",
+
+                 "promotions": ["Shock I"],
+                 
+         },
+
 ]
+                 
+                 

@@ -860,4 +860,51 @@
 
                },
 
+               {
+
+                        "name": "The Kingdom of Greece",
+
+                        "leaderName": "",
+
+                        "adjective": ["Greek"],
+
+                        "startBias": ["Coast","plains","Grassland"],
+
+                        "preferredVictoryType": "Domination",
+
+
+                        "startIntroPart1": "...",
+
+                        "startIntroPart2": "Can you build a civilisation that can stand the test of time?",
+
+
+                        "declaringWar": "",
+
+                        "attacked": "",
+
+                        "defeated": "",
+
+                        "introduction": "",
+                        
+
+                        "neutralHello": "Greetings",
+
+                        "hateHello": ">:(",
+
+
+                        "tradeRequest": "",
+
+                        
+                        "outerColor": [],
+
+                        "innerColor": [],
+
+                        "uniqueName": "",
+
+                        "uiques": [""],
+
+                        "cities": ["Athens"],
+
+               },
+
 ]

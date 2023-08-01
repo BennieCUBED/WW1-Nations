@@ -899,11 +899,11 @@
 
                         "innerColor": [255, 255, 255],
 
-                        "uniqueName": "",
+                        "uniqueName": "Freedom stems from valour",
 
                         "uiques": ["[+20]% Strength <when fighting units from a Civilization with more Cities than you>"],
 
-                        "cities": ["Athens"],
+                        "cities": ["Athens","Thessaloniki","Patras","Loannina","Kalamata","Zakinthos"],
 
                },
 

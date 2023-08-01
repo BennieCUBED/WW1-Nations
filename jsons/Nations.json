@@ -247,7 +247,7 @@
 
                         "outerColor": [43, 149, 255],
 
-                        "innerColor": [255, 255, 255],
+                        "innerColor": [240, 206, 12],
 
                         "uniqueName": "S' nami Bog",
 
@@ -306,7 +306,7 @@
 
                {
 
-                        "name": "Italy",
+                        "name": "The Kingdom of Italy",
 
                         "leaderName": "Victor Emmanuel",
 
@@ -878,13 +878,13 @@
                         "startIntroPart2": "Can you build a civilisation that can stand the test of time?",
 
 
-                        "declaringWar": "",
+                        "declaringWar": "The country has chosen, War is needed!",
 
-                        "attacked": "",
+                        "attacked": "Attacking at our weakest moment... smart...",
 
-                        "defeated": "",
+                        "defeated": "Greece has fallen to you. But i am sure that Greece will assend again...",
 
-                        "introduction": "",
+                        "introduction": "Greetings. I am Eleftherios Venizelos, Prime Minister of Greece.",
                         
 
                         "neutralHello": "Greetings",
@@ -895,9 +895,9 @@
                         "tradeRequest": "",
 
                         
-                        "outerColor": [],
+                        "outerColor": [43, 149, 255],
 
-                        "innerColor": [],
+                        "innerColor": [255, 255, 255],
 
                         "uniqueName": "",
 

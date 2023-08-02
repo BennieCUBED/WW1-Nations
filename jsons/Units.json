@@ -204,7 +204,7 @@
 
              {
 
-                     "name": "müsellems",
+                     "name": "Müsellems",
 
                      "unitType": "Mounted",
 
@@ -330,7 +330,7 @@
 
                      "unitType": "Gunpowder", 
 
-                     "uniqueTo": "Italy",
+                     "uniqueTo": "The Kingdom of Italy",
                
                      "replaces": "Great War Infantry",
                 

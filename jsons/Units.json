@@ -645,7 +645,7 @@
 
                  "requiredTech": "Replaceable Parts", 
 
-                 "uniques": ["[+20]% combat bonus in Trench Line improvement"],
+                 "uniques": ["[+20]% combat bonus in [Foreign] tiles"],
                 
                  "obsoleteTech": "Plastics",
                 
@@ -653,4 +653,4 @@
                 
          },
                  
-                 
+]  

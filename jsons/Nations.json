@@ -292,9 +292,9 @@
                         "tradeRequest": "Greetings, we would like to cooperate",
 
 
-                        "outerColor": [4, 204, 31],
+                        "outerColor": [255, 255, 255],
 
-                        "innerColor": [255, 255, 255],
+                        "innerColor": [4, 204, 31],
 
                         "uniqueName": "Devlet-i Ebed-müddet",
 

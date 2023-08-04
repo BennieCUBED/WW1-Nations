@@ -625,6 +625,32 @@
                  
          },
 
-]
+        { 
+
+                 "name": "Greek Expeditionary Force", 
+
+                 "unitType": "Gunpowder", 
+
+                 "uniqueTo": "The Kingdom of Greece",
+               
+                 "replaces": "Great War Infantry",
+                
+                 "movement": 2, 
+
+
+                
+                 "strength": 60, 
+
+                 "cost": 330, 
+
+                 "requiredTech": "Replaceable Parts", 
+
+                 "uniques": ["[+20]% combat bonus in Trench Line improvement"],
+                
+                 "obsoleteTech": "Plastics",
+                
+                 "upgradesTo": "Infantry",
+                
+         },
                  
                  

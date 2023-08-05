@@ -646,6 +646,7 @@
 		"uniqueTo": "France","The French Republic",
                 
 		"movement": 2,
+		
                 
 		"strength": 50,
                 
@@ -675,8 +676,7 @@
                 
                  "movement": 2, 
 
-
-                
+             
                  "strength": 50, 
 
                  "cost": 350, 
@@ -690,3 +690,5 @@
                  "upgradesTo": "Infantry",
                 
          },
+
+]

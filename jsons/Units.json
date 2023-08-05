@@ -521,7 +521,7 @@
 
                  "requiredTech": "Replaceable Parts", 
 
-                 "uniques": ["[+30]% Strength <when attacking> <in [Trench] tiles>"], 
+                 "uniques": ["[+30]% combat bonus in Trench Line improvement <when attacking>"], 
                 
                  "obsoleteTech": "Plastics",
                 

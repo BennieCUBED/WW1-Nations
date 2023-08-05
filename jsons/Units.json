@@ -18,8 +18,6 @@
 
                  "cost": 350, 
 
-                 "hurryCostModifier": 120, 
-
                  "requiredTech": "Replaceable Parts", 
 
                  "uniques": ["[+20]% combat bonus in Trench Line improvement"],
@@ -50,8 +48,6 @@
                 
                  "cost": 375,
                  
-                 "hurryCostModifier": 140,
-                 
                  "requiredTech": "Dynamite",
                 
                  "uniques": ["[+200]% strength vs cities when attacking"]
@@ -70,13 +66,11 @@
                  "unitType": "Gunpowder",
                  
                  "movement": 3,
-                   
+                
                    
                  "strength": 60,
                    
                  "cost": 360,
-                   
-                 "hurryCostMofifier": 125,
                   
                  "requiredTech": "Ballistics",
                    
@@ -103,9 +97,7 @@
                     
                     "strength": 65,
                     
-                    "cost": 750,
-                    
-                    "hurryCostModifier": 360,
+                    "cost": 400,
                     
                     "requiredTech": "Ballistics",
                    
@@ -132,7 +124,7 @@
                      
                      "strength": 65,
                      
-                     "cost": 650,
+                     "cost": 425,
                      
                      "requiredTech": "Combustion",
 
@@ -159,9 +151,7 @@
                      
                      "strength": 45,
                      
-                     "cost": 340,
-                     
-                     "hurryCostModifier": 110,
+                     "cost": 325,
                      
                      "requiredTech": "Replaceable Parts",
                      
@@ -186,9 +176,7 @@
 
                      "strength": 50,
 
-                     "cost": 120,
-
-                     "hurryCostModifier": 370,
+                     "cost": 380,
 
                      "requiredTech": "Combustion",
 
@@ -217,9 +205,7 @@
 
                      "strength": 40,
 
-                     "cost": 640,
-
-                     "hurryCostModifier": 115,
+                     "cost": 350,
 
                      "requiredTech": "Military Science",
 
@@ -250,9 +236,7 @@
 
                      "rangedStrengh": 25,
 
-                     "cost": 350,
-
-                     "hurryCostModifier": 350,
+                     "cost": 330,
 
                      "requiredTech": "Dynamite",
 
@@ -280,9 +264,7 @@
 
                      "strength": 50,
 
-                     "cost": 120,
-
-                     "hurryCostModifier": 370,
+                     "cost": 365,
 
                      "requiredTech": "Combustion",
 
@@ -310,7 +292,7 @@
 
 
                 
-                     "strength": 60, 
+                     "strength": 50, 
 
                      "cost": 350, 
 
@@ -399,7 +381,7 @@
 
 
                 
-                     "strength": 50, 
+                     "strength": 55, 
 
                      "cost": 190, 
 
@@ -421,9 +403,9 @@
                  
                  
                  
-                 "strength": 15,
+                 "strength": 20,
                  
-                 "rangedStrengh": 30,
+                 "rangedStrengh": 35,
                 
                  "cost": 320,
                  
@@ -561,7 +543,7 @@
 
 
                 
-                     "strength": 60, 
+                     "strength": 50, 
 
                      "cost": 350, 
 

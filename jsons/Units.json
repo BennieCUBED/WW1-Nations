@@ -653,4 +653,58 @@
                 
          },
                  
-]  
+	{
+                
+		"name": "Foreign Legion",
+                
+		"unitType": "Gunpowder",
+                
+		"replaces": "Great War Infantry",
+                
+		"uniqueTo": "France","The French Republic",
+                
+		"movement": 2,
+                
+		"strength": 50,
+                
+		"cost": 320,
+                
+		"requiredTech": "Replaceable Parts",
+                
+		"upgradesTo": "Infantry",
+                
+		"obsoleteTech": "Plastics",
+                
+		"uniques": ["[+20]% Strength <when fighting in [Foreign Land] tiles>"],
+                
+		"attackSound": "shot"
+                
+	},
+
+        {
+
+                 "name": "Brodie Infantry",
+                
+                 "unitType": "Gunpowder", 
+
+                 "uniqueTo": "The British Empire",
+               
+                 "replaces": "Great War Infantry",
+                
+                 "movement": 2, 
+
+
+                
+                 "strength": 50, 
+
+                 "cost": 350, 
+
+                 "requiredTech": "Replaceable Parts", 
+
+                 "uniques": ["[+20]% Strength <when fighting in [Water] tiles>"],
+                
+                 "obsoleteTech": "Plastics",
+                
+                 "upgradesTo": "Infantry",
+                
+         },

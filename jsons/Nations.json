@@ -942,15 +942,15 @@
                         "tradeRequest": "Come to brasil! For we have many deals coming your way.",
                         
 
-                        "outerColor": [],
+                        "outerColor": [107,208,6], // Thanks Ravignir.
 
-                        "innerColor": [],
+                        "innerColor": [63,106,64],
 
                         "uniqueName": "Brazil",
 
                         "uniques": ["[5] XP gained from combat <for [All] units>"],
 
-                        "cities": ["Rio de Janeiro","Brasiliá"],
+                        "cities": ["Rio de Janeiro","Brasiliá","São Paulo","Salvador","Fortalezaq","Belo Horizonte","Manaus","Curitiba","Recife","Porto Alegre","Belém","Goiania","Guarulhos","Campinas","São Luis","Maceió","Duque de Caxias","Natal","Campo Grande","Teresina"],
 
                },
 

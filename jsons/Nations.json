@@ -24,11 +24,11 @@
 
                  "declaringWar": "Let it be known, You are an enemy to Germany and the German people!", 
 
-                 "attacked": "what? really?.", 
+                 "attacked": "What? Really?", 
 
                  "defeated": "Germany may have fallen... but Germany will remember me as THE Kasier.", 
 
-                 "introduction": "Welcome, i am Kaiser Wilhelm II, Kaiser of the German people", 
+                 "introduction": "Welcome, I am Kaiser Wilhelm II, Kaiser of the German people.", 
 
   
 
@@ -86,17 +86,17 @@
                    
                    "defeated": "France has surrendered to you...",
                    
-                   "introduction": "Hello sir, and welcome to the third republic!",
+                   "introduction": "Hello sir, and welcome to the Third Republic!",
                    
                    
                    
                    "neutralHello": "Hello Sir",
                    
-                   "hateHello": "quoi??",
+                   "hateHello": "Quoi??",
                    
                    
                   
-                   "tradeRequest": "Ive got some deals to talk about",
+                   "tradeRequest": "I've got some deals to talk about",
                    
                    
                    
@@ -134,11 +134,11 @@
 
                        "declaringWar": "After some horrible news from you, we hearby decleare war!",
                        
-                       "attacked": "War...? we are not amused...",
+                       "attacked": "War...? We are not amused...",
                        
-                       "defeated": "Empires rise and fall... Im sure yours will too.",
+                       "defeated": "Empires rise and fall... I'm sure yours will too.",
                        
-                       "introduction": "Greetings, I am George V, the successor of Victoria",
+                       "introduction": "Greetings, I am George V, The successor of Victoria",
                        
                        
                        "neutralHello": "Good morning!",
@@ -183,11 +183,11 @@
                         
                         "declaringWar": "Hey! don't you know what you've done? This is a sign of war!",
                         
-                        "attacked": "Who do you think you are!? oh God...",
+                        "attacked": "Who do you think you are!? Oh God...",
                         
                         "defeated": "No! My Empire! My glorious Empire!",
                         
-                        "introduction": "Hello! what brings you to Austria-Hungary, Friend...?",
+                        "introduction": "Hello! What brings you to Austria-Hungary, Friend...?",
                         
                         
                         "neutalHello": "Hello!",

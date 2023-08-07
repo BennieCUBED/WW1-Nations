@@ -907,4 +907,52 @@
 
                },
 
+               {
+
+                        "name": "Brazil",
+
+                        "leaderName": "",
+
+                        "adjective": ["Brazilian"],
+
+                        "startBias": ["Grassland","Jungle"],
+
+                        "preferedVictoryType": "Diplomatic",
+
+
+                        "startIntroPart1": "...",
+
+                        "startIntroPart2": "Will you build a civilization that can stand the test of time?",
+
+
+                        "declaringWar": "You must be opposed, for the sake of prosperity...",
+
+                        "attacked": "",
+
+                        "defeated": "",
+
+                        "introduction": "",
+
+
+                        "neutralHello": "'Morning Friend",
+
+                        "hateHello": "Yes..?",
+
+
+                        "tradeRequest": "Come to brasil! For we have many deals coming your way.",
+                        
+
+                        "outerColor": [],
+
+                        "innerColor": [],
+
+                        "uniqueName": "Brazil",
+
+                        "uniques": [""],
+
+                        "cities": ["Rio de Janeiro","Brasiliá"],
+
+               },
+
 ]
+                        

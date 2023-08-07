@@ -925,13 +925,13 @@
                         "startIntroPart2": "Will you build a civilization that can stand the test of time?",
 
 
-                        "declaringWar": "You must be opposed, for the sake of prosperity...",
+                        "declaringWar": "After your repeated attacks on our people, we must go to war",
 
-                        "attacked": "",
+                        "attacked": "We will use every and all means to defend against this great aggression!",
 
-                        "defeated": "",
+                        "defeated": "...",
 
-                        "introduction": "",
+                        "introduction": "Good Morning, I am of Brasil.",
 
 
                         "neutralHello": "'Morning Friend",
@@ -948,7 +948,7 @@
 
                         "uniqueName": "Brazil",
 
-                        "uniques": [""],
+                        "uniques": ["[5] XP gained from combat <for [All] units>"],
 
                         "cities": ["Rio de Janeiro","Brasiliá"],
 

@@ -440,7 +440,7 @@
 
                         "uniqueName": "In God we trust",
 
-                        "uniques": ["+3 Gold from each Trade Routes","[+1] Sight <for [{Military} {Land}] units>"],
+                        "uniques": ["+3 Gold] from each Trade Routes","[+1] Sight <for [{Military} {Land}] units>"],
 
                         "cities": ["Washington","New York","Boston","Philadelphia","Los Angeles","Seattle","Houston","Atlanta","Chicago","Detroit","New Orleans","Lemons","Brazil"],
 
@@ -473,7 +473,7 @@
                         "introduction": "Andrew Fisher! I speak for the people of Australia as their Prime Minister.",
 
 
-                        "neutralHello": "Hello mate!",
+                        "neutralHello": "Hello Mate!",
 
                         "hateHello": "What?",
 
@@ -511,7 +511,7 @@
 
                         "attacked": "We may have not prepared for this, but atleast we have the spirit!",
 
-                        "defeated": "We have defended to pur last man... Goodbye.",
+                        "defeated": "We have defended to our last man... Goodbye.",
 
                         "introduction": "Greetings, I am Albert, King of the belgians, we'll be happy to co-operate.",
 
@@ -790,7 +790,7 @@
 
                         "defeated": "Please... End this dishonor on my family...",
 
-                        "introduction": "Hello, I am the great Emperor, Emperor of Japan",
+                        "introduction": "Hello, I am the great Emperor Taishō, Emperor of Japan",
 
 
                         "neutralHello": "Hello.",
@@ -840,7 +840,7 @@
                         "introduction": "Are you with us or against us? No matter. because the Red Army will always win!",
 
 
-                        "neutralHello": "Hello comrade!",
+                        "neutralHello": "Hello Comrade!",
 
                         "hateHello": "Are you ready to surrender to communism?",
 
@@ -931,7 +931,7 @@
 
                         "defeated": "This is why I prefer diplomacy over violence...",
 
-                        "introduction": "Good Morning, I am Venceslau Brás, President of all Brasil!.",
+                        "introduction": "Good Morning, I am Venceslau Brás, President of all Brasil!",
 
 
                         "neutralHello": "'Morning Friend",
@@ -939,7 +939,7 @@
                         "hateHello": "Yes..?",
 
 
-                        "tradeRequest": "Come to brasil! For we have many deals coming your way.",
+                        "tradeRequest": "Come to Brasil! For we have many deals coming your way.",
                         
 
                         "outerColor": [107,208,6], // Thanks Ravignir.

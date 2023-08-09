@@ -25,6 +25,8 @@
                  "obsoleteTech": "Plastics",
                 
                  "upgradesTo": "Infantry",
+
+		"attackSound": "shot",
                 
          },
           
@@ -79,6 +81,8 @@
                  "obsoleteTech": "Rocketry",
                    
                  "upgradesTo": "Marine",
+
+		 "attackSound": "shot",
                    
             },
 
@@ -106,6 +110,8 @@
                     "obsoleteTech": "Rocketry",
                     
                     "upgradesTo": "Marine",
+
+		    "attackSound": "shot",
                     
              },
 
@@ -158,6 +164,8 @@
                      "obsoleteTech": "Plastics",
                      
                      "upgradesTo": "Infantry",
+
+		     "attackSound": "shot",
                      
              },
 
@@ -187,6 +195,8 @@
                      "obsoleteTech": "Combined Arms",
 
                      "upgradesTo": "Tank",
+
+		     "attackSound": "tankshot",
 
              },
 
@@ -246,6 +256,8 @@
                  
                      "upgradesTo": "Rocket Artillery",
 
+		     "attackSound": "artillery",
+
              },
 
              {
@@ -276,6 +288,8 @@
 
                      "upgradesTo": "Tank",
 
+		     "attackSound": "machinegun",
+
              },
 
              {
@@ -304,6 +318,8 @@
                 
                      "upgradesTo": "Infantry",
 
+		     "attackSound": "shot", 
+
              },
 
              {
@@ -331,6 +347,8 @@
                      "promotions": ["Alpine Infantry Ability"],
                 
                      "upgradesTo": "Infantry",
+
+		     "attackSound": "shot",
 
              },
 
@@ -363,6 +381,8 @@
                     "obsoleteTech": "Rocketry",
                  
                     "upgradesTo": "Rocket Artillery",
+
+		     "attackSound": "artillery",
                  
                  
            },  
@@ -391,6 +411,8 @@
                 
                      "upgradesTo": "Infantry",
 
+		     "attackSound": "shot",
+
              },
 
              {
@@ -417,6 +439,8 @@
                  
                  "upgradesTo": "Modern Mortar",
 
+		 "attackSound": "tankshot",
+
              },
 
              {
@@ -437,6 +461,8 @@
                      "requiredTech": "Rocketry",
 
                      "uniques": ["[+150]% strength vs cities when attacking"],
+
+		     "attackSound": "tankshot",
 
              },
                      
@@ -459,6 +485,8 @@
 
                      "upgradesTo": "Machine Gun",
 
+		     "attackSound": "machinegun",
+
              },
 
              {
@@ -475,6 +503,8 @@
                  "cost": 200,
 
                  "requiredTech": "Replaceable Parts", 
+
+		 "attackSound": "shot",
                 
            },  
 
@@ -498,6 +528,8 @@
                  "requiredTech": "Replaceable Parts",
 
                  "uniques": ["May enter foreign tiles without open borders","Invisible to non-adjacent units"],
+
+		 "attackSound": "shot",
                 
          },
 
@@ -526,6 +558,8 @@
                  "obsoleteTech": "Plastics",
                 
                  "upgradesTo": "Infantry",
+
+		 "attackSound": "shot",
                 
          },
 
@@ -554,6 +588,8 @@
                      "promotions": ["Mateship","Haka War Dance"],
                 
                      "upgradesTo": "Infantry",
+
+		     "attackSound": "shot",
 
              },
 

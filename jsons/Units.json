@@ -698,6 +698,8 @@
 		 "unitType": "Ranged Water",
 
 		 "uniqueTo": "Brazil",
+
+		 "replaces": "Battleship",
 		 
 		 "movement": 5,
 		 

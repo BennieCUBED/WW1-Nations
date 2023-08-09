@@ -132,7 +132,7 @@
 
                      "uniques": ["Can see invisible Submarine units","[40]% chance to intercept air attacks","May withdraw before melee ([80]%)","+100% strength vs Submarine units"],
                      
-               
+                     "attackSound": "shipguns",
                  
              },
 
@@ -690,5 +690,35 @@
                  "upgradesTo": "Infantry",
                 
          },
+
+         {
+
+		 "name": "Minas Geraes",
+
+		 "unitType": "Ranged Water",
+
+		 "uniqueTo": "Brazil",
+		 
+		 "movement": 5,
+		 
+		 "strength": 65,
+		 
+	 	 "rangedStrength": 65,
+		 
+		 "range": 3,
+		 
+		 "cost": 375,
+		 
+		 "requiredResource": "Oil",
+		 
+		 "requiredTech": "Electronics",
+		 
+		 "uniques": ["Never appears as a Barbarian unit"],
+		 
+		 "promotions": ["Indirect Fire"],
+		 
+		 "attackSound": "shipguns"
+
+	 },
 
 ]

@@ -181,7 +181,7 @@
                         "startIntoPart2": "Will you build a civilisation that can stand the test of time?",
                         
                         
-                        "declaringWar": "Hey! don't you know what you've done? This is a sign of war!",
+                        "declaringWar": "Hey! don't you know what you've done? This is a sign for war!",
                         
                         "attacked": "Who do you think you are!? Oh God...",
                         
@@ -298,7 +298,7 @@
 
                         "uniqueName": "Devlet-i Ebed-müddet",
 
-                        "uniques": ["[+20]% Strength <for [All] units> <when defending>"],
+                        "uniques": ["[+20]% Strength <for [All] units> <when defending>","Double quantity of [Horses] produced"],
 
                         "cities": ["Istanbul","Ankara","izmir","Antalya","Bursa","Edirne","Konya","Mersin","Gallipoli","Eskisehir","Batman"],
 

@@ -493,7 +493,7 @@
                         "cities": ["Canberra","Melbourne","Sydney","Brisbane","Darwin","Perth","Hobart","Adelaide","Gold Coast","Townsville","Broome","Mackay","Alice Springs","Port Douglas"],
 
                },
-
+         
                {
 
                         "name": "The Kingdom of Belgium",
@@ -619,7 +619,7 @@
 
                         "uniqueName": "Heaven's Light Our Guide",
 
-                        "uniques": ["May buy [Melee] units with [Culture] for [3] times their normal Production cost"],
+                        "uniques": ["May buy [Melee] units with [Culture] for [3] times their normal Production cost","[+1 Gold] from all [Production] buildings"],
 
                         "cities": ["New Delhi","Hyderabad","Bengaluru","Mumbai","Rajkot","Lucknow","Jaipur","Kochi","Nagpur","Islamabad","Lahore","Dhaka","Ghaziabad","Multan","Surat","Pune","Dhar","Wai"],
 

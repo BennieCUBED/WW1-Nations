@@ -488,7 +488,7 @@
 
                         "uniqueName": "Advance Australia",
 
-                        "uniques": ["[+20]% Strength <for [Melee] units> <when fighting in [Coast] tiles>"],
+                        "uniques": ["[+20]% Strength <for [Melee] units> <when fighting in [Coast] tiles>","[+1 Production] from [Pasture] tiles [in all cities]"],
 
                         "cities": ["Canberra","Melbourne","Sydney","Brisbane","Darwin","Perth","Hobart","Adelaide","Gold Coast","Townsville","Broome","Mackay","Alice Springs","Port Douglas"],
 

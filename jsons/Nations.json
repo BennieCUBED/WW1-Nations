@@ -530,7 +530,7 @@
 
                         "uniqueName": "L'union fait la force",
 
-                        "uniques": ["[+30]% Strength <for [All] units> <when defending> <when at war>"],
+                        "uniques": ["[+30]% Strength <for [All] units> <when defending> <when at war>","Double quantity of [Luxury resource] produced"],
 
                         "cities": ["Brussels","Antwerp","Liegé","Lille","Ypres","Ghent","Mons","Bruges","Charleroi","Waterloo","Genk","Verviers","Namur","Leuven","Silly","Ath"],
                         

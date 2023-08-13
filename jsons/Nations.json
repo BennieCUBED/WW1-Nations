@@ -488,9 +488,9 @@
 
                         "uniqueName": "Advance Australia",
 
-                        "uniques": ["[+20]% Strength <for [Melee] units> <when fighting in [Coast] tiles>","[+1 Production] from [Pasture] tiles [in all cities]"],
+                        "uniques": ["[+20]% Strength <for [Melee] units> <when fighting in [Coastal] tiles>","[+1 Production] from [Pasture] tiles [in all cities]"],
 
-                        "cities": ["Canberra","Melbourne","Sydney","Brisbane","Darwin","Perth","Hobart","Adelaide","Gold Coast","Townsville","Broome","Mackay","Alice Springs","Port Douglas"],
+                        "cities": ["Canberra","Melbourne","Sydney","Brisbane","Darwin","Perth","Hobart","Adelaide","Gold Coast","Townsville","Broome","Mackay","Alice Springs","Port Douglas","Bundaberg","Port Moresby"],
 
                },
          
@@ -713,7 +713,7 @@
 
                         "uniqueName": "New Zealand",
 
-                        "uniques": ["[+20]% Strength <for [Melee] units> <when fighting in [Coast] tiles>"],
+                        "uniques": ["[+20]% Strength <for [Melee] units> <when fighting in [Coastal] tiles>","[+1 Gold] from [Pasture] tiles [in all cities]"],
 
                         "cities": ["Wellington","Auckland","Christchurch","Hamilton","Tauranga","Queenstown","Whangārei","Dunedin","Napier","Rotorua","Palmerston North","Nelson","Kaikōura","Te Anau","Gisborne","New Plymouth","Hawai","Taone"],
 

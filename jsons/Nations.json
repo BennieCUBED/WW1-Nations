@@ -954,5 +954,51 @@
 
                },
 
+               {
+
+                        "name": "Serbia",
+
+                        "leaderName": "W.I.P",
+
+                        "adjective": ["Serbian"],
+
+                        "startBias": ["Plains"],
+
+                        "preferredVictoryType": "Neutral",
+
+
+                        "startIntroPart1": "...",
+
+                        "startIntroPart2": "Can you support your Serb brothers? Can you create a civilisation that can stand against the test of time?",
+
+
+                        "declaringWar": "",
+
+                        "attacked": "",
+
+                        "defeated": "",
+
+                        "introduction": "",
+
+
+                        "neutralHello": "Hi",
+
+                        "hateHello": "What..?",
+
+
+                        "tradeRequest": "",
+
+                        "outerColor": [],
+
+                        "innerColor": [],
+
+                        "uniqueName": "Serbs",
+
+                        "uniques": [""],
+
+                        "cities": ["Serbia"],
+
+               },
+
 ]
                         

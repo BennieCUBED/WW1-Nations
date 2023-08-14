@@ -992,11 +992,11 @@
 
                         "innerColor": [255, 255, 255],
 
-                        "uniqueName": "Serbs",
+                        "uniqueName": "Serbs of the Balkans",
 
                         "uniques": ["[+35]% Production when constructing [Light Infantry] units [in all cities]"],
 
-                        "cities": ["Serbs of the Balkans"],
+                        "cities": ["Belgrade","Novi Sad","Nis","Cacak","Novi Pazar","Pristina"],
 
                },
 

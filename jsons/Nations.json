@@ -988,9 +988,9 @@
 
                         "tradeRequest": "We will aprove any trade request that i aprove of",
 
-                        "outerColor": [],
+                        "outerColor": [148, 27, 27],
 
-                        "innerColor": [],
+                        "innerColor": [255, 255, 255],
 
                         "uniqueName": "Serbs",
 

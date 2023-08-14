@@ -994,9 +994,9 @@
 
                         "uniqueName": "Serbs",
 
-                        "uniques": [""],
+                        "uniques": ["[+35]% Production when constructing [Light Infantry] units [in all cities]"],
 
-                        "cities": ["Serbia"],
+                        "cities": ["Serbs of the Balkans"],
 
                },
 

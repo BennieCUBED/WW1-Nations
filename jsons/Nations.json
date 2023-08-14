@@ -956,9 +956,9 @@
 
                {
 
-                        "name": "Serbia",
+                        "name": "The Kingdom of Serbia",
 
-                        "leaderName": "W.I.P",
+                        "leaderName": "Nikola Pašić",
 
                         "adjective": ["Serbian"],
 
@@ -972,13 +972,13 @@
                         "startIntroPart2": "Can you support your Serb brothers? Can you create a civilisation that can stand against the test of time?",
 
 
-                        "declaringWar": "",
+                        "declaringWar": "I've had enough of you taking my neighbours. War is the only logical option",
 
-                        "attacked": "",
+                        "attacked": "The Serbs will never aprove of your rule, im sure it will come to an end!",
 
-                        "defeated": "",
+                        "defeated": "Serbia may have lost the campaign, but who will lose the war?",
 
-                        "introduction": "",
+                        "introduction": "I'm Petar I, diplomat of the Serbs. Well, atleast most of them...",
 
 
                         "neutralHello": "Hi",
@@ -986,7 +986,7 @@
                         "hateHello": "What..?",
 
 
-                        "tradeRequest": "",
+                        "tradeRequest": "We will aprove any trade request that i aprove of",
 
                         "outerColor": [],
 

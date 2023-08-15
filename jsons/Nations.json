@@ -978,7 +978,7 @@
 
                         "defeated": "Serbia may have lost the campaign, but who will lose the war?",
 
-                        "introduction": "I'm Petar I, diplomat of the Serbs. Well, atleast most of them...",
+                        "introduction": "I'm Nikola Pasic, diplomat of the Serbs. Well, atleast most of them...",
 
 
                         "neutralHello": "Hi",
@@ -994,7 +994,7 @@
 
                         "uniqueName": "Serbs of the Balkans",
 
-                        "uniques": ["[+35]% Production when constructing [Light Infantry] units [in all cities]"],
+                        "uniques": ["[+35]% Production when constructing [Light Infantry] units [in all cities]","Gain [240] [Gold] <upon entering a Golden Age>"],
 
                         "cities": ["Belgrade","Novi Sad","Nis","Cacak","Novi Pazar","Pristina","Skopje","Leskovo","Pirot","Subotica","Tetovo","Krusevac","Jagodina","Prizren","Paracin","Kragujevac","Ohrid","Brus","Goc"],
 

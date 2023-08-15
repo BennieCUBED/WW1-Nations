@@ -948,7 +948,7 @@
 
                         "uniqueName": "Ordem e progresso",
 
-                        "uniques": ["[5] XP gained from combat <for [All] units>"],
+                        "uniques": ["[5] XP gained from combat <for [All] units>","[+20]% Production when constructing [Water] units [in all cities]"],
 
                         "cities": ["Rio de Janeiro","Brasiliá","São Paulo","Salvador","Fortalezaq","Belo Horizonte","Manaus","Curitiba","Recife","Porto Alegre","Belém","Goiania","Guarulhos","Campinas","São Luis","Maceió","Duque de Caxias","Natal","Campo Grande","Teresina"],
 

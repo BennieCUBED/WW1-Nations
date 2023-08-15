@@ -901,7 +901,7 @@
 
                         "uniqueName": "Freedom stems from valour",
 
-                        "uniques": ["[+25]% Strength <when fighting units from a Civilization with more Cities than you>"],
+                        "uniques": ["[+25]% Strength <when fighting units from a Civilization with more Cities than you>","[2] population in a random city <upon conquering a city>"],
 
                         "cities": ["Athens","Thessaloniki","Patras","Loannina","Kalamata","Zakinthos","Larissa","Serres","Kozani","Nafplion","Trikala","Preveza","Konotini","Veria","Kavala","Volos","Kastoria","Alexandroupoli","Alexandra","Grevena","Neapoli"],
 

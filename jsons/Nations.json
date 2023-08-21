@@ -6,6 +6,8 @@
 
                  "name": "The German Empire", 
 
+                 "style": "Germanic",
+
                  "leaderName": "Kaiser Wilhelm II", 
 
                  "adjective": ["German"], 
@@ -166,12 +168,14 @@
                {
                         
                         "name": "Austria-Hungary",
+
+                        "style": "Germanic",
                         
                         "leaderName": "Charles I",
                         
                         "adjective": "Austro-Hungarian",
                         
-                        "startBias": ["Grassland","Hills"],
+                        "startBias": ["Grassland","Hill"],
                         
                         "preferredVictoryType": "Domination",
                         

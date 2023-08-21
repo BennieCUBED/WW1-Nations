@@ -308,6 +308,8 @@
 
                         "name": "The Kingdom of Italy",
 
+                        "style": "Mediterranean",
+
                         "leaderName": "Victor Emmanuel III",
 
                         "adjective": ["Italian"],
@@ -354,6 +356,8 @@
                {
 
                         "name": "The Kingdom of Bulgaria",
+
+                        "style": "Mediterranean",
 
                         "leaderName": "Ferdinand I",
 
@@ -864,6 +868,8 @@
 
                         "name": "The Kingdom of Greece",
 
+                        "style": "Mediterranean",
+
                         "leaderName": "Eleftherios Venizelos",
 
                         "adjective": ["Greek"],
@@ -957,6 +963,8 @@
                {
 
                         "name": "The Kingdom of Serbia",
+
+                        "style": "Mediterranean",
 
                         "leaderName": "Nikola Pašić",
 

@@ -213,6 +213,8 @@
                {
                         
                         "name": "The Russian Empire",
+
+                        "style": "Slavic",
                         
                         "leaderName": "Tsar Nicholas II",
                         
@@ -727,6 +729,8 @@
 
                         "name": "The Kingdom of Romania",
 
+                        "style": "Slavic",
+
                         "leaderName": "Ferdinand I",
 
                         "adjective": ["Romanian"],
@@ -820,6 +824,8 @@
                {
 
                         "name": "The Red Army",
+
+                        "style": "Slavic",
 
                         "leaderName": "Leon Trotsky",
 

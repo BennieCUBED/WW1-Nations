@@ -1024,5 +1024,52 @@
 
                },
 
-]
+               {
+
+                        "name": "Armenian Resistance",
+
+                        "style": "Mesopotamian",
+
+                        "leaderName": "Lawrence of Arabia", //Not really the leader but its the most similar person to a leader i could think of.
                         
+                        "adjective": ["Armenian"],
+
+                        "startBias": ["Desert","Flood Plains"],
+
+                        "preferredVictoryType": "Neutral",
+                        
+
+                        "startIntroPart1": "...",
+
+                        "startIntroPart2": "Can you stop the Armenian genocide? Can you build a civilisation that can stand the test of time?",
+
+                        
+                        "declaringWar": "Armenia will have freedom, and your atrocities will be remembered!",
+
+                        "attacked": "Should have known, Your violence has no boundaries.",
+
+                        "defeated": "All i have done has failed... I have lost Armenia, and their people...",
+
+                        "introduction": "I am the Lawrence of Arabia! Liberator of all Arabian state's.",
+
+
+                        "neutralHello": "Good morning",
+
+                        "hateHello": "Hm!?",
+
+
+                        "tradeRequest": "All aid will be appreciated, but trades are also appreciated too",
+
+                        "outerColor": [],
+
+                        "innerColor": [],
+
+                        "uniqueName": "Armenian Resistance",
+
+                        "uniques": [""],
+
+                        "cities": [""],
+
+               },
+
+]

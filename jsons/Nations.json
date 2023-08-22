@@ -1060,9 +1060,9 @@
 
                         "tradeRequest": "All aid will be appreciated, but trades are also appreciated too",
 
-                        "outerColor": [],
+                        "outerColor": [45, 36, 95],
 
-                        "innerColor": [],
+                        "innerColor": [223, 199, 143],
 
                         "uniqueName": "Armenian Resistance",
 

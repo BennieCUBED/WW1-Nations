@@ -308,7 +308,7 @@
 
                         "uniques": ["[+20]% Strength <for [All] units> <when defending>","Double quantity of [Horses] produced"],
 
-                        "cities": ["Istanbul","Ankara","izmir","Antalya","Bursa","Edirne","Konya","Mersin","Gallipoli","Bolo","Adana","Bodrum","Kars","Van","Side","Eskisehir","Batman"],
+                        "cities": ["Istanbul","Ankara","izmir","Antalya","Bursa","Edirne","Konya","Mersin","Gallipoli","Bolo","Adana","Bodrum","Side","Eskisehir","Batman"],
 
                },
 
@@ -1068,7 +1068,7 @@
 
                         "uniques": [""],
 
-                        "cities": ["Yerevan","Artaxata","Bagaran","Kapan","Tigranocerta","Vagharshapat","Hrazdan","Yervandashat","Ani","Gyumri","Stepanakert","Ararat","Stepanavan","Dvin","Kars","Dilijan","Shirakavan","Charentsavan"],
+                        "cities": ["Yerevan","Artaxata","Bagaran","Kapan","Tigranocerta","Vagharshapat","Hrazdan","Yervandashat","Ani","Gyumri","Stepanakert","Van","Ararat","Stepanavan","Dvin","Kars","Dilijan","Shirakavan","Charentsavan","Masis","Arteni","Ashotsk","Maralik","Kayk"],
 
                },
 

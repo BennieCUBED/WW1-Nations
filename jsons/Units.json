@@ -759,4 +759,27 @@
 
 	 },
 
-]
+	{
+		"name": "Serbian First Army",
+		
+		"unitType": "Gunpowder",
+
+		"uniqueTo": "The Kingdom of Serbia",
+		
+		"movement": 2,
+		
+		"strength": 50,
+		
+		"cost": 360,
+		
+		"requiredTech": "Replaceable Parts",
+
+		"promotions": ["Serbian Unity"],
+		
+		"upgradesTo": "Infantry",
+		
+		"obsoleteTech": "Plastics",
+		
+		"attackSound": "shot",
+		
+	},

@@ -765,6 +765,8 @@
 		"unitType": "Gunpowder",
 
 		"uniqueTo": "The Kingdom of Serbia",
+
+		"replaces": "Great War Infantry",
 		
 		"movement": 2,
 		
@@ -784,4 +786,17 @@
 		
 	},
 
-]
+	{
+		"name": "Greatcoat",
+		"unitType": "Gunpowder",
+		"uniqueTo": "The Russian Empire",
+		"replaces": "Great War Infantry",
+		"movement": 2,
+		"strength": 50,
+		"cost": 320,
+		"requiredTech": "Replaceable Parts",
+		"uniques": [""],
+		"upgradesTo": "Infantry",
+		"obsoleteTech": "Plastics",
+		"attackSound": "shot"
+	},

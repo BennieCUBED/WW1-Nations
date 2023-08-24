@@ -795,7 +795,7 @@
 		"strength": 50,
 		"cost": 320,
 		"requiredTech": "Replaceable Parts",
-		"uniques": [""],
+		"uniques": ["[+40]% Strength <when fighting in [Tundra] tiles>","[+10]% Strength <when fighting in [Snow] tiles>"],
 		"upgradesTo": "Infantry",
 		"obsoleteTech": "Plastics",
 		"attackSound": "shot"

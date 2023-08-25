@@ -1078,19 +1078,24 @@
                         "leaderName": "King Rama VI",
                         "adjective": ["Siamese"],
                         "startBias": ["Jungle","Coast"],
-                        "preferredVictoryType": "",
+                        "preferredVictoryType": "Culture",
                         
                         "startIntroPart1": "...",
                         "startIntroPart2": "...",
 
                         "declaringWar": "Us, Siamese, are done with your taking of our land. I know war is not the best way, but i have to do this!",
-                        "attacked": "Ugh, i failed to realise your intentions. I may suffer because of this",
-                        "defeated": "W.I.P",
-                        "introduction": "This is Siam",
-                        
+                        "attacked": "Ugh, i failed to realise your intentions. Siam may suffer because of this.",
+                        "defeated": "I, Vajiravudh, Announce our defeat... Which hurts so much to say...",
+                        "introduction": "This is Siam, Free from every neighbouring country that may sway our wrists.",
+
+                        "neutralHello": "Hello",
+                        "hateHello": "What?",
+
+                        "tradeRequest": "Siam is wide in trade, may i show you?",
                         "outerColor": [237, 208, 59],
                         "innerColor": [161, 37, 37],
                         "uniqueName": "Unity amongst those uniting brings about success and prosperity",
+                        "uniques": ["[+30]% Production when constructing [Science] buildings [in all cities]","[-15]% Gold cost of acquiring tiles [in all cities] <when at war>"],
                         "cities": ["Bangkok"],
                },
 ]

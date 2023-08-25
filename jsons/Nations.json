@@ -1096,6 +1096,6 @@
                         "innerColor": [161, 37, 37],
                         "uniqueName": "Unity amongst those uniting brings about success and prosperity",
                         "uniques": ["[+30]% Production when constructing [Science] buildings [in all cities]","[-15]% Gold cost of acquiring tiles [in all cities] <when at war>"],
-                        "cities": ["Bangkok"],
+                        "cities": ["Bangkok","Pattaya City","Chiang Mai","Khon Kaen","Mae Sot","Phuket","Hat Yai","Phitsanulok",""],
                },
 ]

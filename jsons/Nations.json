@@ -1072,4 +1072,23 @@
 
                },
 
+               {
+                        "name": "The Kingdom of Siam",
+                        "style": "East Asian",
+                        "leaderName": "...",
+                        "adjective": ["Siamese"],
+                        "startBias": ["Jungle","Coast"],
+                        "preferredVictoryType": "",
+                        
+                        "startIntroPart1": "...",
+                        "startIntroPart2": "...",
+
+                        "declaringWar": "...",
+                        "attacked": "...",
+                        "defeated": "...",
+                        "introduction": "...",
+                        
+                        
+                        
+
 ]

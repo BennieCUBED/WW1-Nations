@@ -1087,8 +1087,6 @@
                         "attacked": "...",
                         "defeated": "...",
                         "introduction": "...",
-                        
-                        
-                        
-
+                        "cities": ["Bangkok"],
+               },
 ]

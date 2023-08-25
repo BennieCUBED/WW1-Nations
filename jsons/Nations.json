@@ -1081,12 +1081,12 @@
                         "preferredVictoryType": "Culture",
                         
                         "startIntroPart1": "...",
-                        "startIntroPart2": "...",
+                        "startIntroPart2": "Can you build a civilization that can stand the test of time?",
 
                         "declaringWar": "Us, Siamese, are done with your taking of our land. I know war is not the best way, but i have to do this!",
                         "attacked": "Ugh, i failed to realise your intentions. Siam may suffer because of this.",
                         "defeated": "I, Vajiravudh, Announce our defeat... Which hurts so much to say...",
-                        "introduction": "This is Siam, Free from every neighbouring country that may sway our wrists.",
+                        "introduction": "This is Siam, Free from every neighbouring country that may twist our wrists.",
 
                         "neutralHello": "Hello",
                         "hateHello": "What?",
@@ -1096,6 +1096,6 @@
                         "innerColor": [161, 37, 37],
                         "uniqueName": "Unity amongst those uniting brings about success and prosperity",
                         "uniques": ["[+30]% Production when constructing [Science] buildings [in all cities]","[-15]% Gold cost of acquiring tiles [in all cities] <when at war>"],
-                        "cities": ["Bangkok","Pattaya City","Chiang Mai","Khon Kaen","Mae Sot","Phuket","Hat Yai","Phitsanulok",""],
+                        "cities": ["Bangkok","Pattaya City","Chiang Mai","Khon Kaen","Mae Sot","Phuket","Hat Yai","Phitsanulok","Kanchanaburi","Lampang","Rayong","Surat Thani","Talat Yai","Langkawi","Pai","Moo 7"],
                },
 ]

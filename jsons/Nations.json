@@ -1098,4 +1098,17 @@
                         "uniques": ["[+30]% Production when constructing [Science] buildings [in all cities]","[-15]% Gold cost of acquiring tiles [in all cities] <when at war>"],
                         "cities": ["Bangkok","Pattaya City","Chiang Mai","Khon Kaen","Mae Sot","Phuket","Hat Yai","Phitsanulok","Kanchanaburi","Lampang","Rayong","Surat Thani","Talat Yai","Langkawi","Pai","Moo 7"],
                },
+	      {
+	               "name": "Mecca",
+	               "adjective": ["Sidon","Hejazi"],
+	               "cityStateType": "Militaristic",
+
+		      "declaringWar": "I am the king of Hejaz, and if you want to take away that title, i will invade you!",
+	               "attacked": "So, is this round 2?",
+	               "defeated": "I knew that you would try to topple my power eventually, and yet, you succeeded.",
+		      "outerColor": [0, 0, 0],
+	               "innerColor": [250,128,114],
+	               "cities": ["Sidon"]
+	},
+
 ]

@@ -1113,16 +1113,16 @@
 	},
 
 	{
-		        "name": "Luxembourg",
+		        "name": "Luxembourg City",
 		        "adjective": ["Luxembourgish"],
 		        "cityStateType": "Cultured",
 
-		        "declaringWar": "",
-		        "attacked": "",
-		        "defeated": "",
+		        "declaringWar": "Now that i'm thinking about it, war doesn't sound so good...",
+		        "attacked": "If you want to take our land, go ahead. this place will still remain as Luxembourg land",
+		        "defeated": "Ugh... Luxembourg will remain...",
 		        "outerColor": [0, 0, 0],
 		        "innerColor": [51,102,0],
-		        "cities": ["Luxembourg"],
+		        "cities": ["Luxembourg City"],
 
 	},
 

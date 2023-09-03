@@ -1112,4 +1112,18 @@
 	                "cities": ["Mecca"]
 	},
 
+	{
+		        "name": "Luxembourg",
+		        "adjective": ["Luxembourgish"],
+		        "cityStateType": "Cultured",
+
+		        "declaringWar": "",
+		        "attacked": "",
+		        "defeated": "",
+		        "outerColor": [0, 0, 0],
+		        "innerColor": [],
+		        "cities": ["Luxembourg"],
+
+	},
+
 ]

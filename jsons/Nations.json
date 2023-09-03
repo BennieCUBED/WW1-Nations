@@ -1121,7 +1121,7 @@
 		        "attacked": "If you want to take our land, go ahead. this place will still remain as Luxembourg land",
 		        "defeated": "Ugh... Luxembourg will remain...",
 		        "outerColor": [0, 0, 0],
-		        "innerColor": [51,102,0],
+		        "innerColor": [5,222,255],
 		        "cities": ["Luxembourg City"],
 
 	},

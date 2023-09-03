@@ -1121,7 +1121,7 @@
 		        "attacked": "",
 		        "defeated": "",
 		        "outerColor": [0, 0, 0],
-		        "innerColor": [],
+		        "innerColor": [51,102,0],
 		        "cities": ["Luxembourg"],
 
 	},

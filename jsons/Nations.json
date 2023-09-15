@@ -1125,5 +1125,18 @@
 		        "cities": ["Luxembourg City"],
 
 	},
+	{
+		        "name": "Cetinje",
+		        "adjective": ["Montenegrin"],
+		        "cityStateType": "Cultured",
+
+		        "declaringWar": "",
+		        "attacked": "",
+		        "defeated": "",
+		        "outerColor": [],
+		        "innerColor": [],
+		        "cities": ["Cetinje"],
+	},
+		
 
 ]

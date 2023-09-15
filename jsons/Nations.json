@@ -1133,8 +1133,8 @@
 		        "declaringWar": "I have claims in your borders, and so its time to take my claims for myself!",
 		        "attacked": "This Princip- i mean... Kingdom shall win this war.",
 		        "defeated": "I guess its time for Montenegro to... merge... Not in the way i wish it did.",
-		        "outerColor": [],
-		        "innerColor": [],
+		        "outerColor": [0, 0, 0],
+		        "innerColor": [133, 54, 54],
 		        "cities": ["Cetinje"],
 	},
 		

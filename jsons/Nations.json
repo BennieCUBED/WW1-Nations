@@ -1127,7 +1127,7 @@
 	},
 	{
 		        "name": "Cetinje",
-		        "adjective": ["Montenegrin"],
+		        "adjective": ["Cetinjen","Montenegrin"],
 		        "cityStateType": "Cultured",
 
 		        "declaringWar": "I have claims in your borders, and so its time to take my claims for myself!",
@@ -1136,6 +1136,18 @@
 		        "outerColor": [0, 0, 0],
 		        "innerColor": [133, 54, 54],
 		        "cities": ["Cetinje"],
+	},
+	{
+		        "name": "Colombo",
+		        "adjective": ["Colombo","Ceylonese"],
+		        "cityStateType": "Militaristic",
+
+		        "declaringWar": "This isnt our choice, we never get to choose...",
+		        "attacked": "Another conquerer, ready to be destroyed..!",
+		        "defeated": "Once we gain our independence, we will be stronger than ever, but for now, you will lead us",
+		        "outerColor": [0, 0, 0],
+		        "innerColor": [],
+		        "cities": ["Colombo"],
 	},
 		
 

@@ -1146,7 +1146,7 @@
 		        "attacked": "Another conquerer, ready to be destroyed..!",
 		        "defeated": "Once we gain our independence, we will be stronger than ever, but for now, you will lead us",
 		        "outerColor": [0, 0, 0],
-		        "innerColor": [],
+		        "innerColor": [222, 176, 11],
 		        "cities": ["Colombo"],
 	},
 		

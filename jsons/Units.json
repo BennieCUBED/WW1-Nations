@@ -821,7 +821,7 @@
 		"strength": 40,
 		"cost": 200,
 		"requiredTech": "Replaceable Parts",
-		"uniques": [""],
+		"uniques": ["[+30]% Strength <when fighting in [Friendly Land] tiles>"],
 		"upgradesTo": "Raider",
 		"obsoleteTech": "Ballistics",
 		"attackSound": "shot",

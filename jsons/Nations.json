@@ -827,7 +827,7 @@
 
                         "uniques": ["[+20]% Strength <for [Land] units> vs [Water] units","[+30]% Production when constructing [Water] units [in all cities]"],
 
-                        "cities": ["Kyoto","Tokyo","Osaka","Fukuoka","Sapporo","Hakodate","Yokohama","Sendai","Hiroshima","Nagoya","Niigata","Aomori","Hushiro","Nagasaki","Morioka","Akita","Matsuyama","Amami","Nago","Oga","Yuza","Higashiagatsuma","歯ブラシ"],
+                        "cities": ["Tokyo City","Kyoto","Osaka","Fukuoka","Sapporo","Hakodate","Yokohama","Sendai","Hiroshima","Nagoya","Niigata","Aomori","Hushiro","Nagasaki","Morioka","Akita","Matsuyama","Amami","Nago","Oga","Yuza","Higashiagatsuma","歯ブラシ"],
 
                },
 

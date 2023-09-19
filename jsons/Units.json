@@ -65,7 +65,7 @@
            
                  "name": "Raider",
                    
-                 "unitType": "Gunpowder",
+                 "unitType": "Light Infantry",
                  
                  "movement": 3,
                 
@@ -439,7 +439,7 @@
                  
                  "upgradesTo": "Modern Mortar",
 
-		 "attackSound": "tankshot",
+		 "attackSound": "artillery",
 
              },
 
@@ -462,7 +462,7 @@
 
                      "uniques": ["[+150]% strength vs cities when attacking"],
 
-		     "attackSound": "tankshot",
+		     "attackSound": "artillery",
 
              },
                      
@@ -480,6 +480,8 @@
                      "cost": 280, 
 
                      "requiredTech": "Replaceable Parts",
+
+		     "obsoleteTech": "",
 
                      "uniques": ["[+75]% strength when defending"],
 
@@ -503,6 +505,10 @@
                  "cost": 200,
 
                  "requiredTech": "Replaceable Parts", 
+
+		 "obsoleteTech": "Ballistics",
+
+		 "upgradesTo": "Raider",
 
 		 "attackSound": "shot",
                 
@@ -612,7 +618,9 @@
 
                  "requiredTech": "Replaceable Parts",
 
-                 "obsoleteTech": "Plastics",
+                 "obsoleteTech": "Rocketry",
+
+	         "upgradesTo": "Raider",
 
                  "uniques": ["[+30]% strength when defending"],
                 
@@ -800,4 +808,19 @@
 		"obsoleteTech": "Plastics",
 		"attackSound": "shot"
 	},
+	{
+		"name": "Fedayi",
+		"unitType": "Light Infantry",
+		"uniqueTo": "Armenian Resistance",
+		"replaces": "Draftee",
+		"movement": 2,
+		"strength": 40,
+		"cost": 200,
+		"requiredTech": "Replaceable Parts",
+		"uniques": [""],
+		"upgradesTo": "Raider",
+		"obsoleteTech": "Ballistics",
+		"attackSound": "shot",
+	},
+		
 ]

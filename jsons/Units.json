@@ -452,7 +452,7 @@
                      "movement": 2,
 
 
-                     "strength": 25,
+                     "strength": 30,
 
                      "rangedStrengh": 40,
 
@@ -481,7 +481,7 @@
 
                      "requiredTech": "Replaceable Parts",
 
-		     "obsoleteTech": "",
+		     "obsoleteTech": "Ballistics",
 
                      "uniques": ["[+75]% strength when defending"],
 
@@ -532,6 +532,10 @@
                  "cost": 180,
 
                  "requiredTech": "Replaceable Parts",
+
+		 "obsoleteTech": "Ballistics",
+
+		 "upgradesTo": "Raider",
 
                  "uniques": ["May enter foreign tiles without open borders","Invisible to non-adjacent units"],
 

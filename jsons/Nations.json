@@ -1030,7 +1030,7 @@
 
                         "style": "Mesopotamian",
 
-                        "leaderName": "Lawrence of Arabia", //Not really the leader but its the most similar person to a leader i could think of.
+                        "leaderName": "Murad of Sebastia",
                         
                         "adjective": ["Armenian"],
 
@@ -1048,12 +1048,12 @@
 
                         "attacked": "Should have known, Your violence has no boundaries.",
 
-                        "defeated": "All i have done has failed... I have lost Armenia, and their people...",
+                        "defeated": "All i have done has failed... I have lost my land, and my people...",
 
-                        "introduction": "I am the Lawrence of Arabia! Liberator of all Arabian state's.",
+                        "introduction": "I am Murad of Sebastia, one of the most greatest fedayee's in Armenia.",
 
 
-                        "neutralHello": "Good morning",
+                        "neutralHello": "Hello.",
 
                         "hateHello": "Hm!?",
 

@@ -48,7 +48,7 @@
 
                  "innerColor": [136, 138, 137], 
 
-   
+		 "favoredReligion": "Christianity",
                   
                  "uniqueName": "FÜR DAS VADERLAND", 
                   
@@ -106,7 +106,7 @@
                    
                    "innerColor": [250, 255, 115],
                    
-                   
+                   "favoredReligion": "Christianity",
                    
                    "uniqueName": "Viva la France",
                    
@@ -154,7 +154,8 @@
                        "outerColor": [150, 17, 17],
                        
                        "innerColor": [32, 68, 232],
-                       
+
+		       "favoredReligion": "Christianity",
                        
                        "uniqueName": "King and Country",
                        
@@ -205,7 +206,8 @@
                         "outerColor": [255, 237, 0],
                         
                         "innerColor": [13, 212, 66],
-                        
+
+		        "favoredReligion": "Christianity",
                         
                         "uniqueName": "indivisibiliter ac inseparabiliter",
                         
@@ -254,6 +256,8 @@
                         "outerColor": [43, 149, 255],
 
                         "innerColor": [240, 206, 12],
+
+		        "favoredReligion": "Christianity",
 
                         "uniqueName": "S' nami Bog",
 
@@ -304,6 +308,8 @@
 
                         "innerColor": [4, 204, 31],
 
+		        "favoredReligion": "Islam",
+
                         "uniqueName": "Devlet-i Ebed-müddet",
 
                         "uniques": ["[+20]% Strength <for [All] units> <when defending>","Double quantity of [Horses] produced"],
@@ -352,6 +358,8 @@
                         "outerColor": [11, 252, 3],
 
                         "innerColor": [222, 22, 22],
+
+		        "favoredReligion": "Christianity",
 
                         "uniqueName": "Arditi",
 
@@ -448,7 +456,8 @@
                         "outerColor": [9, 30, 189],
 
                         "innerColor": [240, 240, 245],
-
+		       
+                        "favoredReligion": "Christianity",
 
                         "uniqueName": "In God we trust",
 
@@ -497,6 +506,7 @@
 
                         "innerColor": [252, 186, 3],
 
+		        "favoredReligion": "Christianity",
 
                         "uniqueName": "Advance Australia",
 
@@ -539,6 +549,8 @@
                         "outerColor": [245, 227, 66],
 
                         "innerColor": [66, 33, 15],
+
+		        "favoredReligion": "Christianity",
 
                         "uniqueName": "L'union fait la force",
 
@@ -630,6 +642,8 @@
                         "outerColor": [53,0,103],
 
                         "innerColor": [9,192,155],
+
+		        "favoredReligion": "Hinduism",
 
                         "uniqueName": "Heaven's Light Our Guide",
 

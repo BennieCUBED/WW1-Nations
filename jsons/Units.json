@@ -826,5 +826,19 @@
 		"obsoleteTech": "Ballistics",
 		"attackSound": "shot",
 	},
+	{
+		"name": "Siamese Expeditionary Forces",
+		"unitType": "Gunpowder",
+		"uniqueTo": "The Kingdom of Siam",
+		"replaces": "Great War Infantry",
+		"movement": 3,
+		"strength": 50,
+		"cost": 370,
+		"requiredTech": "Replaceable Parts",
+		"uniques": ["All adjacent units heal [6] HP when healing"],
+		"upgradesTo": "Infantry",
+		"obsoleteTech": "Plastics",
+		"attackSound": "shot"
+	},
 		
 ]

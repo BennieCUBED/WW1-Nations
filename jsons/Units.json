@@ -25,6 +25,11 @@
                  "obsoleteTech": "Plastics",
                 
                  "upgradesTo": "Infantry",
+		"civilopediaText": [
+			{
+				"text": "'Courage, heroism, does it really exist? I am about to doubt it, since I haven't seen anything else than fear, anxiety , and despair in every face during the battle.' -Dominik Richert, 1914."
+			},
+		],
 
 		"attackSound": "shot",
                 

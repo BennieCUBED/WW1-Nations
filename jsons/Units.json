@@ -62,6 +62,11 @@
                  "obsoleteTech": "Rocketry",
                  
                  "upgradesTo": "Rocket Artillery",
+		"civilopediaText": [
+			{
+				"text": "At the opening of World War I, the French Army had about 4,000 of these field guns in service. By the end of the war about 12,000 had been produced."
+			},
+		],
                  
                  
            },      
@@ -86,6 +91,11 @@
                  "obsoleteTech": "Rocketry",
                    
                  "upgradesTo": "Marine",
+		"civilopediaText": [
+			{
+				"text": "There was always a risk that returning raiders could be shot in so-called friendly fire incidents. Therefore, it was standard procedure to notify sentries along the line whenever raiding parties were sent out."
+			},
+		],
 
 		 "attackSound": "shot",
                    
@@ -142,6 +152,11 @@
                      "requiredResource": "Oil",
 
                      "uniques": ["Can see invisible Submarine units","[40]% chance to intercept air attacks","May withdraw before melee ([80]%)","+100% strength vs Submarine units"],
+		"civilopediaText": [
+			{
+				"text": "HMS Iron Duke was a dreadnought battleship of the Royal Navy, the lead ship of her class, named in honour of Arthur Wellesley. The 'Iron Duke' was built in Portsmouth Dockyard during 1912, and being scrapped in the late 1940s."
+			},
+		],
                      
                      "attackSound": "shipguns",
                  
@@ -169,6 +184,11 @@
                      "obsoleteTech": "Plastics",
                      
                      "upgradesTo": "Infantry",
+		"civilopediaText": [
+			{
+				"text": "W.I.P"
+			},
+		],
 
 		     "attackSound": "shot",
                      
@@ -200,6 +220,11 @@
                      "obsoleteTech": "Combined Arms",
 
                      "upgradesTo": "Tank",
+		"civilopediaText": [
+			{
+				"text": "The Tsar Tank was a Russian armoured vehicle developed by Nikolai Lebedenko, Nikolay Yegorovich Zhukovsky, Boris Stechkin, and Alexander Mikulin from 1914 onwards. The project was cancelled in 1915 after initial tests deemed the vehicle to be underpowered and vulnerable to artillery fire."
+			},
+		],
 
 		     "attackSound": "tankshot",
 
@@ -229,6 +254,11 @@
                      "uniques": ["[50] Gold <upon defeating a [Wounded] unit>","Can move after attacking","No defensive terrain bonus","-33% strength vs cities when attacking"],
 
                      "obsoleteTech": "Combustion",
+		"civilopediaText": [
+			{
+				"text": "W.I.P"
+			},
+		],
 
                      "upgradesTo": "Landship",
 
@@ -292,6 +322,11 @@
                      "obsoleteTech": "Combined Arms",
 
                      "upgradesTo": "Tank",
+		"civilopediaText": [
+			{
+				"text": "The Jeffery armored car was an armored car developed by the US and Canada. It saw heavy use in World War I. The armored car No.1 was used in General John Pershing’s 1916 Pancho Villa Expedition in Columbus, New Mexico for training. Pancho Villa was far into Mexico at that time and there are no records on its use in fighting."
+			},
+		],
 
 		     "attackSound": "machinegun",
 
@@ -322,6 +357,11 @@
                      "promotions": ["Mateship","Survivalism I"],
                 
                      "upgradesTo": "Infantry",
+		"civilopediaText": [
+			{
+				"text": "Diggers, which are also know as the ANZACs, is an army corps made of of troops from Australia and New Zealand during WW1. The ANZACs were also refromed due to the start of WW2, and even the Vietnam War."
+			},
+		],
 
 		     "attackSound": "shot", 
 
@@ -601,8 +641,12 @@
                      "obsoleteTech": "Plastics",
 
                      "promotions": ["Mateship","Haka War Dance"],
-                
                      "upgradesTo": "Infantry",
+		"civilopediaText": [
+			{
+				"text": "Diggers, which are also know as the ANZACs, is an army corps made of of troops from Australia and New Zealand during WW1. The ANZACs were also refromed due to the start of WW2, and even the Vietnam War.",
+			},
+		],
 
 		     "attackSound": "shot",
 

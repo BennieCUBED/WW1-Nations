@@ -392,6 +392,11 @@
                      "promotions": ["Alpine Infantry Ability"],
                 
                      "upgradesTo": "Infantry",
+                     "civilopediaText": [
+			     {
+				     "text": "W.I.P",
+			     },
+		     ],
 
 		     "attackSound": "shot",
 
@@ -455,6 +460,11 @@
                      "obsoleteTech": "Plastics",
                 
                      "upgradesTo": "Infantry",
+                     "civilopediaText": [
+			     {
+				     "text": "Bicycle infantry are infantry soldiers who maneuver on (or, more often, between) battlefields using military bicycles. The term dates from the late 19th century, when the 'safety bicycle' became popular in Europe, the United States, and Australia. Historically, bicycles lessened the need for horses, fuel and vehicle maintenance. Though their use has waned over the years in many armies, they continue to be used in unconventional armies such as militias.",
+			     },
+		     ],
 
 		     "attackSound": "shot",
 
@@ -613,6 +623,11 @@
                  "obsoleteTech": "Plastics",
                 
                  "upgradesTo": "Infantry",
+                     "civilopediaText": [
+			     {
+				     "text": "After extensive experience and success in battle from the Second Battle of Ypres, through the Somme and particularly in the Battle of Arras at Vimy Ridge in April 1917, and Passchendaele the Canadian Corps came to be regarded as an exceptional force by both Allied and German military commanders. The Canadian Expeditionary Force was active from 1914 to 1919.",
+			     },
+		     ],
 
 		 "attackSound": "shot",
                 
@@ -676,6 +691,11 @@
 	         "upgradesTo": "Raider",
 
                  "uniques": ["[+30]% strength when defending"],
+                     "civilopediaText": [
+			     {
+				     "text": "'Romanians! The war which for the last two years has been encircling our frontiers more and more closely has shaken the ancient foundations of Europe to their depths. It has brought the day which has been awaited for centuries by the national conscience, by the founders of the Romanian State, by those who united the principalities in the war of independence, by those responsible for the national renaissance.' -Proclamation by King Ferdinand.",
+			     },
+		     ],
                 
          },
 

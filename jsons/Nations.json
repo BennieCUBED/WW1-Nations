@@ -98,7 +98,7 @@
                    
                    
                   
-                   "tradeRequest": "I've got some deals to talk about",
+                   "tradeRequest": "I've got some deals to talk about.",
                    
                    
                    
@@ -140,7 +140,7 @@
                        
                        "defeated": "Empires rise and fall... I'm sure yours will too.",
                        
-                       "introduction": "Greetings, I am George V, The successor of Victoria",
+                       "introduction": "Greetings, I am George V, The successor of Victoria.",
                        
                        
                        "neutralHello": "Good morning!",
@@ -209,7 +209,7 @@
 
 		        "favoredReligion": "Christianity",
                         
-                        "uniqueName": "indivisibiliter ac inseparabiliter",
+                        "uniqueName": "Indivisibiliter ac Inseparabiliter",
                         
                         "uniques": ["[20]% Culture from each Trade Routes","[+1 Gold, +1 Culture] from every specialist [in all cities]"],
                 
@@ -233,7 +233,7 @@
 
                         "startIntroPart1": "Russia, dragged into WWI while defending Serbia from the Austro-Hungarian forces",
       
-                        "startIntroPart2": "will you build a Civilisation that will stand the test of time?",
+                        "startIntroPart2": "Will you build a Civilisation that will stand the test of time?",
 
           
                         "declaringWar": "I hope this war ends quickly, one way or another...",
@@ -287,13 +287,13 @@
                         "startIntroPart2": "Will you build a Civilisation that will stand the test of time ",
 
 
-                        "declaringWar": "after some 'tough' thinking, we have decided that we need to go to war.",
+                        "declaringWar": "After some 'tough' thinking, we have decided that we need to go to war.",
 
                         "attacked": "Hah, the Ottamans can do what you can't! so dont try it!",
 
                         "defeated": "It's a shame we have to surrender to your viciously punitive conditions...",
 
-                        "introduction": "Welcome! This is the Ottoman Empire, and im Mehmed V, their leader",
+                        "introduction": "Welcome! This is the Ottoman Empire, and im Mehmed V, their leader.",
 
 
                         "neutralHello": "Merhaba",
@@ -301,7 +301,7 @@
                         "hateHello": "..?",
 
          
-                        "tradeRequest": "Greetings, we would like to cooperate",
+                        "tradeRequest": "Greetings, we would like to cooperate.",
 
 
                         "outerColor": [255, 255, 255],
@@ -340,7 +340,7 @@
 
                         "declaringWar": "I understand my neutrality, but Italy needs to grow!",
 
-                        "attacked": "Your aggression is understandable, But this is too far",
+                        "attacked": "Your aggression is understandable, But this is too far.",
 
                         "defeated": "Again... The Empire falls again...",
 

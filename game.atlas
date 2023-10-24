@@ -1,0 +1,125 @@
+
+game.png
+size: 1024, 1024
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+NationIcons/Austria-Hungary
+  rotate: false
+  xy: 4, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/The British Empire
+  rotate: false
+  xy: 4, 112
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/The Commonwealth of Australia
+  rotate: false
+  xy: 764, 872
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/The Dominion of Canada
+  rotate: false
+  xy: 140, 112
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/The Dominion of New Zealand
+  rotate: false
+  xy: 764, 736
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/The French Republic
+  rotate: false
+  xy: 4, 248
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+NationIcons/The German Empire
+  rotate: false
+  xy: 900, 900
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/The Kingdom of Belgium
+  rotate: false
+  xy: 276, 112
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/The Kingdom of Italy
+  rotate: false
+  xy: 412, 115
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+NationIcons/The Kingdom of Serbia
+  rotate: false
+  xy: 764, 467
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+NationIcons/The Ottoman Empire
+  rotate: false
+  xy: 764, 600
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/The Russian Empire
+  rotate: false
+  xy: 545, 140
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/The United States
+  rotate: false
+  xy: 764, 359
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Brodie Infantry
+  rotate: false
+  xy: 112, 76
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Draftee
+  rotate: false
+  xy: 900, 864
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/SchÃ¼tzengrabeninfanterie
+  rotate: false
+  xy: 653, 212
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Soixante-Quinze
+  rotate: false
+  xy: 764, 323
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1

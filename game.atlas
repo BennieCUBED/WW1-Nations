@@ -1,0 +1,195 @@
+
+game.png
+size: 2048, 1024
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+NationIcons/Armenian Resistance
+  rotate: false
+  xy: 764, 488
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+NationIcons/Austria-Hungary
+  rotate: false
+  xy: 1172, 380
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/The British Empire
+  rotate: false
+  xy: 764, 352
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/The British Raj
+  rotate: false
+  xy: 1284, 492
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/The Commonwealth of Australia
+  rotate: false
+  xy: 1284, 872
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/The Dominion of Canada
+  rotate: false
+  xy: 212, 112
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/The Dominion of New Zealand
+  rotate: false
+  xy: 900, 352
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/The Empire of Japan
+  rotate: false
+  xy: 1284, 736
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/The First Portuguese Republic
+  rotate: false
+  xy: 1420, 631
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/The French Republic
+  rotate: false
+  xy: 4, 248
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+NationIcons/The German Empire
+  rotate: false
+  xy: 1689, 900
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/The Kingdom of Belgium
+  rotate: false
+  xy: 1420, 872
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/The Kingdom of Bulgaria
+  rotate: false
+  xy: 4, 40
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+NationIcons/The Kingdom of Greece
+  rotate: false
+  xy: 348, 112
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/The Kingdom of Italy
+  rotate: false
+  xy: 1420, 739
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+NationIcons/The Kingdom of Romania
+  rotate: false
+  xy: 1556, 875
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+NationIcons/The Kingdom of Serbia
+  rotate: false
+  xy: 484, 115
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+NationIcons/The Kingdom of Siam
+  rotate: false
+  xy: 617, 140
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/The Ottoman Empire
+  rotate: false
+  xy: 1036, 352
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/The Red Army
+  rotate: false
+  xy: 764, 294
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+NationIcons/The Republic of Brazil
+  rotate: false
+  xy: 1284, 600
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/The Russian Empire
+  rotate: false
+  xy: 1797, 900
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/The United States
+  rotate: false
+  xy: 1905, 900
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Brodie Infantry
+  rotate: false
+  xy: 4, 4
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Draftee
+  rotate: false
+  xy: 212, 76
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/SchÃ¼tzengrabeninfanterie
+  rotate: false
+  xy: 764, 258
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Soixante-Quinze
+  rotate: false
+  xy: 822, 316
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1

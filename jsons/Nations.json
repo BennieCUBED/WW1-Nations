@@ -304,9 +304,9 @@
                         "tradeRequest": "Greetings, we would like to cooperate.",
 
 
-                        "outerColor": [255, 255, 255],
+                        "outerColor": [245,248,185],
 
-                        "innerColor": [4, 204, 31],
+                        "innerColor": [18,84,30],
 
 		        "favoredReligion": "Islam",
 

@@ -110,7 +110,7 @@
                    
                    "uniqueName": "Viva la France",
                    
-                   "uniques": ["[+20]% Production when constructing [Melee] units [in all cities] <when at war>","[+30]% [Culture] [in all cities]"]
+                   "uniques": ["[+20]% Production when constructing [Melee] units [in all cities] <when at war>","[+20]% [Culture] [in all cities]"]
                    
                    "cities": ["Paris", "Marseille", "Lyon", "Verdun", "Nantes", "Toulouse", "Marne", "Rouen", "Versailles", "Cean","Limoges","Poitiers","Angers","Rennes"],
                    
@@ -169,43 +169,27 @@
                {
                         
                         "name": "Austria-Hungary",
-
-                        "style": "Germanic",
-                        
-                        "leaderName": "Charles I",
-                        
-                        "adjective": "Austro-Hungarian",
-                        
-                        "startBias": ["Grassland","Hill"],
-                        
-                        "preferredVictoryType": "Domination",
-                        
+                        "style": "Germanic",                
+                        "leaderName": "Charles I",                     
+                        "adjective": "Austro-Hungarian",               
+                        "startBias": ["Grassland","Hill"],                    
+                        "preferredVictoryType": "Domination",                   
                         
                         "startIntoPart1": "Austria-Hungary, during WW1, Austria-Hungary decleared war against Serbia, after the assasination of Arch Duke Franz Ferdinand",
-
-                        "startIntoPart2": "Will you build a civilisation that can stand the test of time?",
+                        "startIntoPart2": "Will you build a civilisation that can stand the test of time?",                 
                         
+                        "declaringWar": "Hey! don't you know what you've done? This is a sign for war!",         
+                        "attacked": "Who do you think you are!? Oh God...",                       
+                        "defeated": "No! My Empire! My glorious Empire!",                        
+                        "introduction": "Hello! What brings you to Austria-Hungary, Friend...?",                        
                         
-                        "declaringWar": "Hey! don't you know what you've done? This is a sign for war!",
+                        "neutalHello": "Hello!",                        
+                        "hateHello": "what...?",                        
                         
-                        "attacked": "Who do you think you are!? Oh God...",
-                        
-                        "defeated": "No! My Empire! My glorious Empire!",
-                        
-                        "introduction": "Hello! What brings you to Austria-Hungary, Friend...?",
-                        
-                        
-                        "neutalHello": "Hello!",
-                        
-                        "hateHello": "what...?",
-                        
-                        
-                        "tradeRequest": "would you like our deals? please choose fast!",
-                        
-                        
-                        "outerColor": [255, 237, 0],
-                        
-                        "innerColor": [13, 212, 66],
+                        "tradeRequest": "Would you like our deals? Please choose fast!",                        
+                       
+                        "outerColor": [247, 187, 5],                     
+                        "innerColor": [10, 10, 10],
 
 		        "favoredReligion": "Christianity",
                         
@@ -694,7 +678,7 @@
 
                         "uniqueName": "Esta é a ditosa Pátria minha amada",
 
-                        "uniques": ["[+30]% Strength <for [Melee] units> <on foreign continents>","[+2 Gold] from every [Luxury resource]"], // Thanks Ravignir
+                        "uniques": ["[+15]% Strength <for [Melee] units> <on foreign continents>","[+2 Gold] from every [Luxury resource]"], // Thanks Ravignir
 
                         "cities": ["Lisbon","Porto","Braga","Coimbra","Albufeira","Aveiro","Faro","Vila Real","Evora","Caldas da rainha","Viseu","Nazaré","Figueira da Foz","Lapa","Ota","Não é um nome de cidade real"],
 
@@ -737,7 +721,7 @@
                         
                         "outerColor": [14, 23, 31],
 
-                        "innerColor": [15, 56, 89],
+                        "innerColor": [25, 66, 98],
 
                         "uniqueName": "New Zealand",
 
@@ -839,7 +823,7 @@
 
                         "uniqueName": "Hakkō ichiu",
 
-                        "uniques": ["[+20]% Strength <for [Land] units> vs [Water] units","[+30]% Production when constructing [Water] units [in all cities]"],
+                        "uniques": ["[+20]% Strength <for [Land] units> vs [Water] units","[+15]% Production when constructing [Water] units [in all cities]"],
 
                         "cities": ["Tokyo City","Kyoto","Osaka","Fukuoka","Sapporo","Hakodate","Yokohama","Sendai","Hiroshima","Nagoya","Niigata","Aomori","Hushiro","Nagasaki","Morioka","Akita","Matsuyama","Amami","Nago","Oga","Yuza","Higashiagatsuma","歯ブラシ"],
 

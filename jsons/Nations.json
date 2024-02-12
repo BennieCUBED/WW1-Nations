@@ -24,11 +24,11 @@
 
   
 
-                 "declaringWar": "Let it be known, You are an enemy to Germany and the German people!", 
+                 "declaringWar": "Let it be known, You are an enemy of Germany and the German people!", 
 
                  "attacked": "What? Really?", 
 
-                 "defeated": "Germany may have fallen... but Germany will remember me as THE Kasier.", 
+                 "defeated": "The German empire may have fallen... But Germany will remember me as THE Kasier.", 
 
                  "introduction": "Welcome, I am Kaiser Wilhelm II, Kaiser of the German people.", 
 
@@ -92,7 +92,7 @@
                    
                    
                    
-                   "neutralHello": "Hello Sir",
+                   "neutralHello": "Hello sir",
                    
                    "hateHello": "Quoi??",
                    
@@ -108,7 +108,7 @@
                    
                    "favoredReligion": "Christianity",
                    
-                   "uniqueName": "Viva la France",
+                   "uniqueName": "Vive la France",
                    
                    "uniques": ["[+20]% Production when constructing [Melee] units [in all cities] <when at war>","[+20]% [Culture] [in all cities]"]
                    
@@ -126,7 +126,7 @@
                        
                        "startBias": ["Coast"],
                        
-                       "preferredVictoryType": "Science",
+                       "preferredVictoryType": "Scientific",
                        
                        
                        "startInroPart1": "...",
@@ -136,11 +136,11 @@
 
                        "declaringWar": "After some horrible news from you, we hearby decleare war!",
                        
-                       "attacked": "War...? We are not amused...",
+                       "attacked": "War..? We are not amused...",
                        
                        "defeated": "Empires rise and fall... I'm sure yours will too.",
                        
-                       "introduction": "Greetings, I am George V, The successor of Victoria.",
+                       "introduction": "Greetings, I am George V. The successor of Victoria.",
                        
                        
                        "neutralHello": "Good morning!",
@@ -171,7 +171,7 @@
                         "name": "Austria-Hungary",
                         "style": "Germanic",                
                         "leaderName": "Charles I",                     
-                        "adjective": "Austro-Hungarian",               
+                        "adjective": ["Austro-Hungarian"],               
                         "startBias": ["Grassland","Hill"],                    
                         "preferredVictoryType": "Domination",                   
                         
@@ -208,7 +208,7 @@
                         
                         "leaderName": "Tsar Nicholas II",
                         
-                        "adjective": ["Russian"]
+                        "adjective": ["Russian","White Army"]
                         
                         "startBias": ["Tundra","Forest"],
 
@@ -224,9 +224,9 @@
 
                         "attacked": "Are you serious? have you not heard the stories!? Russia is impossible to conquer!",
 
-                        "defeated": "Seems my voice wasnt strong enough...",
+                        "defeated": "Seems my voice wasn't strong enough...",
 
-                        "introduction": "Greetings, I'm Tsar Nicholas! are you fond of diplomacy aswell?",
+                        "introduction": "Greetings, I'm Tsar Nicholas! Are you fond of diplomacy aswell?",
 
 
                         "neutralHello": "Hello!",
@@ -245,7 +245,7 @@
 
                         "uniqueName": "S' nami Bog",
 
-                        "uniques": ["[+2 Gold] per [2] social policies adopted","[-30]% Culture cost of natural border growth [in all cities]"]
+                        "uniques": ["[+2 Gold] per [2] social policies adopted","[-30]% Culture cost of natural border growth [in all cities]"],
 
                         "cities": ["Petrograd","Moscow","Novgorod","Rostov","Yaroslavl","Yekaterinburg","Yakutsk","Smolensk","Naroch","Orenburg","Omsk","Krasnoyarsk","Khabarovsk","Bryansk","Tver","Novosibirsk","Magadan","Murmansk","Irkutsk","Chita","Samara"],
 
@@ -259,7 +259,7 @@
 
                         "leaderName": "Mehmed V",
 
-                        "adjective": ["Ottoman"],
+                        "adjective": ["Ottoman","Turkish"],
 
                         "startBias": ["Coast","Plains"],
 
@@ -273,11 +273,11 @@
 
                         "declaringWar": "After some 'tough' thinking, we have decided that we need to go to war.",
 
-                        "attacked": "Hah, the Ottamans can do what you can't! so dont try it!",
+                        "attacked": "Hah, the Ottamans can do what you can't! so don't try it!",
 
                         "defeated": "It's a shame we have to surrender to your viciously punitive conditions...",
 
-                        "introduction": "Welcome! This is the Ottoman Empire, and im Mehmed V, their leader.",
+                        "introduction": "Welcome! This is the Ottoman Empire, and I'm Mehmed V, their leader.",
 
 
                         "neutralHello": "Merhaba",
@@ -298,7 +298,7 @@
 
                         "uniques": ["[+20]% Strength <for [All] units> <when defending>","Double quantity of [Horses] produced"],
 
-                        "cities": ["Istanbul","Ankara","izmir","Antalya","Bursa","Edirne","Konya","Mersin","Gallipoli","Bolo","Adana","Bodrum","Side","Eskisehir","Batman"],
+                        "cities": ["Istanbul","Ankara","Izmir","Antalya","Bursa","Edirne","Konya","Mersin","Gallipoli","Bolo","Adana","Bodrum","Side","Eskisehir","Batman"],
 
                },
 
@@ -331,7 +331,7 @@
                         "introduction": "Ciao! I'm Victor Emmanuel. King of Italy, Albanians, Ethiopians and Member of the House of Savory.",
 
 
-                        "neutralHello": "Ciao",
+                        "neutralHello": "Ciao!",
 
                         "hateHello": "What is it?",
 
@@ -349,7 +349,7 @@
 
                         "uniques": ["[+3 Production] [in all cities] <for [30] turns> <upon declaring friendship>","[+20]% [Culture] for cities in [Hill] tiles"],
                         
-                        "cities": ["Roma","Florence","Milan","Genoa","Palermo","Naples","Bologna","Bari","Pisa","Lecce","Messina","Pescara","Matera","Siena","Ostia","Brescia","Tito","Latina"],
+                        "cities": ["Rome","Florence","Milan","Genoa","Palermo","Naples","Bologna","Bari","Pisa","Lecce","Messina","Pescara","Matera","Siena","Ostia","Brescia","Tito","Latina"],
 
                },
 
@@ -377,12 +377,12 @@
 
                         "attacked": "In this war, the enemy presents shocking figures...",
 
-                        "defeated": "Now that Bulgaria has surrendered, i will have to watch the collapse of my favourite things...",
+                        "defeated": "Now that Bulgaria has surrendered, I will have to watch the collapse of my favourite things...",
     
-                        "introduction": "Greetings! This is the Kingdom of Bulgaria! and im their tsar, King from where you're from.",
+                        "introduction": "Greetings! This is the Kingdom of Bulgaria! and I am their Tsar, King from where you're from.",
                         
 
-                        "neutralHello": "Hello",
+                        "neutralHello": "Hello.",
 
                         "hateHello": "Hmm?",
 
@@ -412,7 +412,7 @@
 
                         "startBias": ["Grassland"],
 
-                        "preferedVictoryType": "Culture",
+                        "preferedVictoryType": "Cultural",
 
 
                         "startIntroPart1": "..."
@@ -420,7 +420,7 @@
                         "startIntroPart2": "Can you suport your allies? Can you build a civilization that can stand the test of time?",
 
 
-                        "declaringWar": "If you want war so bad, i'll give it to you!",
+                        "declaringWar": "If you want war so bad, I'll give it to you!",
 
                         "attacked": "Our American dream will not fall to you.",
 
@@ -519,15 +519,15 @@
 
                         "defeated": "We have defended to our last man... Goodbye.",
 
-                        "introduction": "Greetings, I am Albert, King of the belgians, we'll be happy to co-operate.",
+                        "introduction": "Greetings, I am Albert, King of the belgians. We'll be happy to co-operate.",
 
 
-                        "neutralHello": "Matin",
+                        "neutralHello": "Matin.",
 
                         "hateHello": "What now?",
 
 
-                        "tradeRequest": "Lets trade",
+                        "tradeRequest": "Let's trade! For I am interested in what you have...",
 
 
                         "outerColor": [245, 227, 66],
@@ -566,7 +566,7 @@
                         "introduction": "On behalf of the people of Canada, welcome, i am Prime Minister Laurier.",
 
 
-                        "neutralHello": "Morning",
+                        "neutralHello": "Morning!",
 
                         "hateHello": "What the-",
 
@@ -598,7 +598,7 @@
 
                         "startBias": ["Plains","Grassland"],
 
-                        "preferredVictoryType": "Culture",
+                        "preferredVictoryType": "Cultural",
 
 
                         "startIntroPart1": "...",
@@ -620,7 +620,7 @@
                         "hateHello": "Get out!",
 
 
-                        "tradeRequest": "We hope you find this fair",
+                        "tradeRequest": "We hope you find this fair.",
 
 
                         "outerColor": [53,0,103],
@@ -711,7 +711,7 @@
                         "introduction": "Kia Ora! You approach the land of Aotearoa, New Zealand!",
 
 
-                        "neutralHello": "Kia Ora",
+                        "neutralHello": "Kia Ora.",
 
                         "hateHello": "What now!?",
 
@@ -743,7 +743,7 @@
 
                         "startBias": ["Plains"],
 
-                        "preferredVictoryType": "Domination",
+                        "preferredVictoryType": "Religious",
 
 
                         "startIntroPart1": "...",
@@ -814,7 +814,7 @@
                         "hateHello": "...",
 
 
-                        "tradeRequest": "As the emperor of Japan, i believe that this deal is perfect for you",
+                        "tradeRequest": "As the emperor of Japan, I believe that this deal is perfect for you...",
 
 
                         "outerColor": [255, 255, 255],
@@ -837,7 +837,7 @@
 
                         "leaderName": "Leon Trotsky",
 
-                        "adjective": ["Soviet"],
+                        "adjective": ["Soviet","Red Army"],
 
                         "startBias": ["Tundra","Forest"],
 
@@ -907,7 +907,7 @@
                         "introduction": "Greetings. I am Eleftherios Venizelos, Prime Minister of Greece.",
                         
 
-                        "neutralHello": "Greetings",
+                        "neutralHello": "Greetings...",
 
                         "hateHello": ">:(",
 
@@ -945,7 +945,7 @@
                         "startIntroPart2": "Will you build a civilization that can stand the test of time?",
 
 
-                        "declaringWar": "After your repeated attacks on our people, we must go to war",
+                        "declaringWar": "After your repeated attacks on our people, we must go to war.",
 
                         "attacked": "We will use every and all means to defend against this great aggression!",
 
@@ -954,7 +954,7 @@
                         "introduction": "Good Morning, I am Venceslau Brás, President of all Brasil!",
 
 
-                        "neutralHello": "'Morning Friend",
+                        "neutralHello": "'Morning Friend.",
 
                         "hateHello": "Yes..?",
 
@@ -984,7 +984,7 @@
 
                         "adjective": ["Serbian"],
 
-                        "startBias": ["Plains"],
+                        "startBias": ["Plains","Balkan"],
 
                         "preferredVictoryType": "Neutral",
 
@@ -994,16 +994,16 @@
                         "startIntroPart2": "Can you support your Serb brothers? Can you create a civilisation that can stand against the test of time?",
 
 
-                        "declaringWar": "I've had enough of you taking my neighbours. War is the only logical option",
+                        "declaringWar": "I've had enough of you taking my neighbours. War is the only logical option!",
 
-                        "attacked": "The Serbs will never aprove of your rule, im sure it will come to an end!",
+                        "attacked": "The Serbs will never aprove of your rule, I'm sure it will come to an end!",
 
                         "defeated": "Serbia may have lost the campaign, but who will lose the war?",
 
                         "introduction": "I'm Nikola Pasic, diplomat of the Serbs. Well, atleast most of them...",
 
 
-                        "neutralHello": "Hi",
+                        "neutralHello": "Hi.",
 
                         "hateHello": "What..?",
 
@@ -1056,7 +1056,7 @@
                         "hateHello": "Hm!?",
 
 
-                        "tradeRequest": "All aid will be appreciated, but trades are also appreciated too",
+                        "tradeRequest": "All aid will be appreciated, but trades are also appreciated too.",
 
                         "outerColor": [45, 36, 95],
 
@@ -1076,7 +1076,7 @@
                         "leaderName": "King Rama VI",
                         "adjective": ["Siamese"],
                         "startBias": ["Jungle","Coast"],
-                        "preferredVictoryType": "Culture",
+                        "preferredVictoryType": "Scientific",
                         
                         "startIntroPart1": "...",
                         "startIntroPart2": "Can you build a civilization that can stand the test of time?",
@@ -1086,7 +1086,7 @@
                         "defeated": "I, Vajiravudh, Announce our defeat... Which hurts so much to say...",
                         "introduction": "This is Siam, Free from every neighbouring country that may twist our wrists.",
 
-                        "neutralHello": "Hello",
+                        "neutralHello": "Hello.",
                         "hateHello": "What?",
 
                         "tradeRequest": "Siam is wide in trade, may i show you?",
@@ -1099,10 +1099,11 @@
 	       { 
 	                "name": "Mecca",
 		        "style": "Middle Eastern",
+		        "style": "Middle Eastern",
 	                "adjective": ["Meccano","Hejazi"],
 	                "cityStateType": "Militaristic",
 
-		        "declaringWar": "I am the king of Hejaz, and if you want to take away that title, i will invade you!",
+		        "declaringWar": "I am the king of Hejaz, and if you want to take away that title, I will invade you!",
 	                "attacked": "So, is this round 2?",
 	                "defeated": "I knew that you would try to topple my power eventually, and yet, you succeeded.",
 		        "outerColor": [0, 0, 0],
@@ -1112,11 +1113,12 @@
 
 	{
 		        "name": "Luxembourg City",
+		        "style": "Germanic",
 		        "adjective": ["Luxembourgish"],
 		        "cityStateType": "Cultured",
 
 		        "declaringWar": "Now that i'm thinking about it, war doesn't sound so good...",
-		        "attacked": "If you want to take our land, go ahead. this place will still remain as Luxembourg land",
+		        "attacked": "If you want to take our land, go ahead. this place will still remain as Luxembourg land..!",
 		        "defeated": "Ugh... Luxembourg will remain...",
 		        "outerColor": [0, 0, 0],
 		        "innerColor": [5,222,255],
@@ -1125,24 +1127,26 @@
 	},
 	{
 		        "name": "Cetinje",
+		        "style": "Mediterranean",
 		        "adjective": ["Cetinjen","Montenegrin"],
 		        "cityStateType": "Cultured",
 
-		        "declaringWar": "I have claims in your borders, and so its time to take my claims for myself!",
+		        "declaringWar": "I have claims in your borders, and so it's time to take my claims for myself!",
 		        "attacked": "This Princip- i mean... Kingdom shall win this war.",
-		        "defeated": "I guess its time for Montenegro to... merge... Not in the way i wish it did.",
+		        "defeated": "I guess it is time for Montenegro to... merge... Not in the way I wish it did.",
 		        "outerColor": [0, 0, 0],
 		        "innerColor": [133, 54, 54],
 		        "cities": ["Cetinje"],
 	},
 	{
 		        "name": "Colombo",
+		        "style": "Mesopotamian",
 		        "adjective": ["Colombo","Ceylonese"],
 		        "cityStateType": "Militaristic",
 
-		        "declaringWar": "This isnt our choice, we never get to choose...",
+		        "declaringWar": "This isn't our choice, we never get to choose...",
 		        "attacked": "Another conquerer, ready to be destroyed..!",
-		        "defeated": "Once we gain our independence, we will be stronger than ever, but for now, you will lead us",
+		        "defeated": "Once we gain our independence, we will be stronger than ever, but for now, you will lead us...",
 		        "outerColor": [0, 0, 0],
 		        "innerColor": [222, 176, 11],
 		        "cities": ["Colombo"],

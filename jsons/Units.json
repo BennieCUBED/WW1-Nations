@@ -558,6 +558,12 @@
 
 		     "attackSound": "machinegun",
 
+		     "civilopediaText": [
+			     {
+				     "text": "Changing Battle Tactics with the Introduction of the Machine Gun. The earliest, most primitive renditions of the machine gun worked entirely from a hand crank but by the ending of World War I in 1918, the machine gun was entirely automatic and was capable of producing an output of up to 600 rounds per minute.",
+			     },
+		     ]
+
              },
 
              {

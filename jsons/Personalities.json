@@ -65,4 +65,16 @@
               "faith": 4,
               "military": 5,  
        },
+       {
+              "name": "Dominant",
+              "preferedVictoryType": "Domination",
+              "food": 3,
+              "production": 7,
+              "gold": 5,
+              "science": 4,
+              "culture": 4,
+              "faith": 5,
+              "military": 7,
+       },
+              
 ]

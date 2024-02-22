@@ -9,7 +9,31 @@
               "culture": 3,
               "faith": 2,
               "military" 8,
-              "priorities": {
-              },
        },
+       {
+              "name": "Holy",
+              "preferredVictoryType": "Religious",
+              "food": 3,
+              "production": 5,
+              "gold": 6,
+              "science": 2,
+              "culture": 4,
+              "faith": 6,
+              "military": 6,
+       },
+       {
+              "name": "Puppet",
+              "preferredVictoryType": "Neutral",
+              "food": 5,
+              "production": 5,
+              "gold": 4,
+              "science": 3,
+              "culture": 3,
+              "faith": 3,
+              "military": 3,
+       },
+       {
+              "Maritime":
+              
+              
 ]

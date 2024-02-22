@@ -264,7 +264,7 @@
 
                         "name": "The Ottoman Empire",
 
-		        "personality": "Germanic",
+		        "personality": "Dominant",
 
                         "style": "Middle Eastern",
 
@@ -317,6 +317,8 @@
 
                         "name": "The Kingdom of Italy",
 
+		        "personality": "Cultured",
+
                         "style": "Mediterranean",
 
                         "leaderName": "Victor Emmanuel III",
@@ -367,6 +369,8 @@
                {
 
                         "name": "The Kingdom of Bulgaria",
+
+		        "personality": "Germanic",
 
                         "style": "Mediterranean",
 
@@ -759,6 +763,8 @@
                {
 
                         "name": "The Kingdom of Romania",
+
+		        "personality": "Dominant",
 
                         "style": "Slavic",
 

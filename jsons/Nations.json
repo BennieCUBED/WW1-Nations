@@ -69,6 +69,8 @@
                    
                   "name": "The French Republic",
 
+		  "personality": "Cultured",
+
                   "leaderName": "Raymond Poincaré",
                    
                   "adjective": ["French"],
@@ -121,6 +123,8 @@
               {
                        
                        "name": "The British Empire",
+
+		      "personality": "Maritime",
                        
                        "leaderName": "King George V",
                        
@@ -171,6 +175,7 @@
                {
                         
                         "name": "Austria-Hungary",
+		        "personality": "Holy",
                         "style": "Germanic",                
                         "leaderName": "Charles I",                     
                         "adjective": ["Austro-Hungarian"],               
@@ -205,6 +210,8 @@
                {
                         
                         "name": "The Russian Empire",
+
+		        "personality": "Holy",
 
                         "style": "Slavic",
                         
@@ -256,6 +263,8 @@
                {
 
                         "name": "The Ottoman Empire",
+
+		        "personality": "Germanic",
 
                         "style": "Middle Eastern",
 
@@ -408,6 +417,8 @@
 
                         "name": "The United States",
 
+		        "personality": "Maritime",
+
                         "leaderName": "Thomas Woodrow Wilson",
 
                         "adjective": ["American"],
@@ -456,6 +467,8 @@
                {
 
                         "name": "The Commonwealth of Australia",
+
+		        "personality": "Puppet",
 
                         "leaderName": "Andrew Fisher",
 
@@ -506,6 +519,8 @@
 
                         "name": "The Kingdom of Belgium",
 
+		        "personality": "Cultured",
+
                         "leaderName": "King Albert I",
 
                         "adjective": ["Belgian"],
@@ -550,6 +565,8 @@
 
                         "name": "The Dominion of Canada",
 
+		        "personality": "Puppet",
+
                         "leaderName": "Wilfrid Laurier",
 
                         "adjective": ["Canadian"],
@@ -591,6 +608,8 @@
                {
 
                         "name": "The British Raj",
+
+		        "personality": "Puppet",
 
                         "style": "South Asian",
 
@@ -643,6 +662,8 @@
 
                         "name": "The First Portuguese Republic",
 
+		        "personality": "Maritime",
+
                         "leaderName": "Manuel de Arriaga",
 
                         "adjective": ["Portuguese"],
@@ -689,6 +710,8 @@
                {
 
                         "name": "The Dominion of New Zealand",
+
+		        "personality": "Puppet",
 
                         "leaderName": "William Massey",
 
@@ -835,6 +858,8 @@
 
                         "name": "The Red Army",
 
+		        "personality": "Revolutionary",
+
                         "style": "Slavic",
 
                         "leaderName": "Leon Trotsky",
@@ -933,6 +958,8 @@
 
                         "name": "The Republic of Brazil",
 
+		        "personality": "Maritime",
+
                         "leaderName": "Venceslau Brás",
 
                         "adjective": ["Brazilian"],
@@ -979,6 +1006,8 @@
                {
 
                         "name": "The Kingdom of Serbia",
+
+		        "personality": "Revolutionary",
 
                         "style": "Mediterranean",
 
@@ -1028,6 +1057,8 @@
 
                         "name": "Armenian Resistance",
 
+		        "personality": "Revolutionary",
+
                         "style": "Mesopotamian",
 
                         "leaderName": "Murad of Sebastia",
@@ -1074,6 +1105,7 @@
 
                {
                         "name": "The Kingdom of Siam",
+		        "personality": "Puppet",
                         "style": "East Asian",
                         "leaderName": "King Rama VI",
                         "adjective": ["Siamese"],

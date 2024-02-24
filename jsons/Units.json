@@ -947,7 +947,7 @@
 	{
 	{
 		"name": "Dreadnought",
-		"unitType": "Melee Water",
+		"unitType": "Ranged Water",
 		"movement": 4,
 		"strength": 70,
 		"RangedStrength": 60,

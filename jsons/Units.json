@@ -936,12 +936,12 @@
 		"uniqueTo": "The Red Army",
 		"replaces": "Raider",
 		"movement": 2,
-		"strength": 40,
-		"cost": 165,
-		"requiredTech": "Replaceable Parts",
-		"uniques": ["[+50]% Strength <when fighting in [Friendly Land] tiles>"],
-		"upgradesTo": "Raider",
-		"obsoleteTech": "Ballistics",
+		"strength": 60,
+		"cost": 210,
+		"requiredTech": "Ballistics",
+		"uniques": ["[+50]% Strength <when fighting in [Friendly Land] tiles>","Can move after attacking"],
+		"upgradesTo": "Marine",
+		"obsoleteTech": "Rocketry",
 		"attackSound": "shot",
 		
 ]

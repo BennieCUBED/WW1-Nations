@@ -943,5 +943,21 @@
 		"upgradesTo": "Marine",
 		"obsoleteTech": "Rocketry",
 		"attackSound": "shot",
+	},
+	{
+	{
+		"name": "Dreadnought",
+		"unitType": "Melee Water",
+		"movement": 4,
+		"strength": 70,
+		"RangedStrength": 60,
+		"Range": 2,
+		"interceptRange": 2,
+		"cost": 500,
+		"requiredTech": "Combustion",
+		"uniques": ["Can see invisible [Submarine] units", "[40]% chance to intercept air attacks",
+			"May withdraw before melee ([50]%)", "[+100]% Strength <vs [Submarine] units>"],
+		"attackSound": "shipguns",
+	},
 		
 ]

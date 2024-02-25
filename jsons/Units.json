@@ -944,7 +944,6 @@
 		"attackSound": "shot",
 	},
 	{
-	{
 		"name": "Dreadnought",
 		"unitType": "Ranged Water",
 		"movement": 4,

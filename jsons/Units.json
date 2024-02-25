@@ -930,7 +930,6 @@
 		"attackSound": "shot",
 	},
 	{
-	{
 		"name": "Red Army",
 		"unitType": "Light Infantry",
 		"uniqueTo": "The Red Army",

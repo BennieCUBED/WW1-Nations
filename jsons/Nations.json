@@ -1227,4 +1227,16 @@
 		"innerColor": [255,153,255],
 		"cities": ["Zanzibar"]
 	},
+	{
+		"name": "Nanjing",
+		"adjective": ["Chinese"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "So this is how it feels to die...",
+		"outerColor": [0, 0, 0],
+        "innerColor": [51,51,255],
+		"cities": ["Nanjing"]
+	},
 ]

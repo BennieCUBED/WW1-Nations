@@ -1191,6 +1191,40 @@
 		        "innerColor": [222, 176, 11],
 		        "cities": ["Colombo"],
 	},
-		
+	{
+		"name": "Kabul",
+		"adjective": ["Kabul"],
+		"cityStateType": "Cultured",
 
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Unacceptable!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [168,38,102],
+		"cities": ["Kabul"]
+	},
+	{
+		"name": "M'Banza-Kongo",
+		"adjective": ["M'Banza-Kongo"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "Do you really think you can walk over us so easily? I will not let it happen. Not to Kongo - not to my people!",
+		"attacked": "We are no strangers to war. You have strayed from the right path, and now we will correct it.",
+		"defeated": "You are nothing but a glorified barbarian. Cruel, and ruthless.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255,128,0],
+		"cities": ["M'Banza-Kongo"]
+	},		
+	{
+		"name": "Zanzibar",
+		"adjective": ["Zanzibar"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "May the Heavens forgive you for inflicting this humiliation to our people.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255,153,255],
+		"cities": ["Zanzibar"]
+	},
 ]

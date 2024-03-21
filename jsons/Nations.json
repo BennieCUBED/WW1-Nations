@@ -439,7 +439,7 @@
 
                         "declaringWar": "If you want war so bad, I'll give it to you!",
 
-                        "attacked": "Our American dream will not fall to you.",
+                        "attacked": "The American dream will not fall to you.",
 
                         "defeated": "My fellow Americans... I have failed you...",
 
@@ -601,7 +601,7 @@
 
                         "innerColor": [219, 154, 154],
 
-                        "uniqueName": "Oh Canada",
+                        "uniqueName": "O Canada",
 
                         "uniques": ["[+25]% [Culture] [in all cities] <when at war>","[+2 Gold] from every [Camp]"],
 
@@ -752,7 +752,7 @@
 
                         "innerColor": [25, 66, 98],
 
-                        "uniqueName": "New Zealand",
+                        "uniqueName": "Aotearoa",
 
                         "uniques": ["[+20]% Strength <for [Melee] units> <when fighting in [Coastal] tiles>","[+1 Gold] from [Pasture] tiles [in all cities]"],
 
@@ -833,7 +833,7 @@
                         "startIntroPart2": "Can you expand the Empire? Can you create a civilization that can stand the test of time?",
 
 
-                        "declaringWar": "Japan is ready to take your shores, Prepare for a swift defeat.",
+                        "declaringWar": "Japan is ready to take your shores; Prepare for a swift defeat.",
 
                         "attacked": "You may have numbers. But we have honor!",
 
@@ -905,7 +905,7 @@
 
                         "innerColor": [240, 206, 12],
 
-                        "uniqueName": "Communist Utopia",
+                        "uniqueName": "The Russian Revolution",
 
                         "uniques": ["Starts with [Order] adopted","[+2 Production] per [2] social policies adopted"],
 
@@ -933,13 +933,13 @@
                         "startIntroPart2": "Can you build a civilisation that can stand the test of time?",
 
 
-                        "declaringWar": "The country has chosen, War is needed!",
+                        "declaringWar": "The country has chosen. War is needed!",
 
                         "attacked": "Attacking at our weakest moment... smart...",
 
-                        "defeated": "Greece has fallen to you. But i am sure that Greece will assend again...",
+                        "defeated": "Greece has fallen to you. But I am sure that Greece will assend again...",
 
-                        "introduction": "Greetings. I am Eleftherios Venizelos, Prime Minister of Greece.",
+                        "introduction": "Greetings. I am Eleftherios Venizelos, Prime Minister of the Kingdom of Greece.",
                         
 
                         "neutralHello": "Greetings...",
@@ -1131,7 +1131,7 @@
                         "neutralHello": "Hello.",
                         "hateHello": "What?",
 
-                        "tradeRequest": "Siam is wide in trade, may i show you?",
+                        "tradeRequest": "Siam is wide in trade, may I show you?",
                         "outerColor": [237, 208, 59],
                         "innerColor": [161, 37, 37],
                         "uniqueName": "Unity amongst those uniting brings about success and prosperity",
@@ -1159,7 +1159,7 @@
 		        "adjective": ["Luxembourgish"],
 		        "cityStateType": "Cultured",
 
-		        "declaringWar": "Now that i'm thinking about it, war doesn't sound so good...",
+		        "declaringWar": "Now that I'm thinking about it, war doesn't sound so good...",
 		        "attacked": "If you want to take our land, go ahead. this place will still remain as Luxembourg land..!",
 		        "defeated": "Ugh... Luxembourg will remain...",
 		        "outerColor": [0, 0, 0],

@@ -656,7 +656,7 @@
 
                         "uniqueName": "Heaven's Light Our Guide",
 
-                        "uniques": ["May buy [Melee] units with [Culture] for [3] times their normal Production cost","[+1 Gold] from all [Production] buildings"],
+                        "uniques": ["May buy [Melee] units with [Culture] for [3] times their normal Production cost","[+1 Gold] from all [Production] buildings","Gain a free [Taj Mahal] [in capital]"],
 
                         "cities": ["New Delhi","Hyderabad","Bengaluru","Mumbai","Rajkot","Lucknow","Jaipur","Kochi","Nagpur","Islamabad","Lahore","Dhaka","Ghaziabad","Multan","Surat","Pune","Dhar","Wai"],
 
@@ -856,7 +856,7 @@
 
                         "uniqueName": "Hakkō ichiu",
 
-                        "uniques": ["[+20]% Strength <for [Land] units> vs [Water] units","[+15]% Production when constructing [Water] units [in all cities]"],
+                        "uniques": ["[+20]% Strength <for [Land] units> vs [Water] units","[+15]% Production when constructing [Water] units [in all cities]","Gain a free [Himeji Castle] [in capital]"],
 
                         "cities": ["Tokyo City","Kyoto","Osaka","Fukuoka","Sapporo","Hakodate","Yokohama","Sendai","Hiroshima","Nagoya","Niigata","Aomori","Hushiro","Nagasaki","Morioka","Akita","Matsuyama","Amami","Nago","Oga","Yuza","Higashiagatsuma","歯ブラシ"],
 

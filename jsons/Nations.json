@@ -52,9 +52,9 @@
 
 		 "favoredReligion": "Christianity",
                   
-                 "uniqueName": "FÜR DAS VADERLAND", 
+                 "uniqueName": "Für Das Vaderland", 
                   
-                  "uniques": ["[+20]% of excess happiness converted to [Production]","[-25]% maintenance costs <for [Land] units>"],
+                  "uniques": ["[+20]% of excess happiness converted to [Production]","[-25]% maintenance costs <for [Land] units>","Gain a free [Brandenburg Gate] [in all cities]"],
 
                  
                   

@@ -165,7 +165,7 @@
                        
                        "uniqueName": "King and Country",
                        
-                       "uniques": ["Allied City-States provide [Production] equal to [+25]% of what they produce for themselves","May travel on Water tiles without embarking <for [All] units>"]
+                       "uniques": ["Allied City-States provide [Production] equal to [+25]% of what they produce for themselves","May travel on Water tiles without embarking <for [All] units>","Gain a free [Big Ben] [in capital]"]
                        
                        "cities": ["London","Birmingham","Manchester","Liverpool","Edinburgh","Bristol","Dundee","Cambridge","Glasgow","Exeter","Newcastle Upon Tyne"],
                        
@@ -254,7 +254,7 @@
 
                         "uniqueName": "S' nami Bog",
 
-                        "uniques": ["[+2 Gold] per [2] social policies adopted","[-30]% Culture cost of natural border growth [in all cities]"],
+                        "uniques": ["[+2 Gold] per [2] social policies adopted","[-30]% Culture cost of natural border growth [in all cities]","Gain a free [Kremlin] [in capital]"],
 
                         "cities": ["Petrograd","Moscow","Novgorod","Rostov","Yaroslavl","Yekaterinburg","Yakutsk","Smolensk","Naroch","Orenburg","Omsk","Krasnoyarsk","Khabarovsk","Bryansk","Tver","Novosibirsk","Magadan","Murmansk","Irkutsk","Chita","Samara"],
 

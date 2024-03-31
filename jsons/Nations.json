@@ -54,7 +54,7 @@
                   
                  "uniqueName": "Für Das Vaderland", 
                   
-                  "uniques": ["[+20]% of excess happiness converted to [Production]","[-25]% maintenance costs <for [Land] units>","Gain a free [Brandenburg Gate] [in all cities]"],
+                  "uniques": ["[+20]% of excess happiness converted to [Production]","[-25]% maintenance costs <for [Land] units>","Gain a free [Brandenburg Gate] [Capital]"],
 
                  
                   
@@ -114,7 +114,7 @@
                    
                    "uniqueName": "Vive la France",
                    
-                   "uniques": ["[+20]% Production when constructing [Melee] units [in all cities] <when at war>","[+20]% [Culture] [in all cities]"]
+                   "uniques": ["[+20]% Production when constructing [Melee] units [in all cities] <when at war>","[+20]% [Culture] [in all cities]","Gain a free [Eiffel Tower] [in capital]"]
                    
                    "cities": ["Paris", "Marseille", "Lyon", "Verdun", "Nantes", "Toulouse", "Marne", "Rouen", "Versailles", "Cean","Limoges","Poitiers","Angers","Rennes"],
                    

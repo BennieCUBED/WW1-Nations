@@ -539,12 +539,16 @@
 
                      "name": "Great War Machine Gun",
 
-                     "unitType": "Support", 
+                     "unitType": "Ranged Gunpowder", 
                 
-                     "movement": 1, 
+                     "movement": 2, 
 
                 
-                     "strength": 60, 
+                     "strength": 60,
+
+		     "rangedStrength": 65,
+
+		     "range": 2,
 
                      "cost": 280, 
 
@@ -797,7 +801,7 @@
                 
 		"uniques": ["[+20]% Strength <when fighting in [Foreign Land] tiles>"],
                 
-		"attackSound": "shot"
+		"attackSound": "shot",
                 
 	},
 
@@ -821,6 +825,8 @@
                  "requiredTech": "Replaceable Parts", 
 
                  "uniques": ["[+20]% Strength <when fighting in [Water] tiles>"],
+
+		 "attackSound": "shot",
                 
                  "obsoleteTech": "Plastics",
                 
@@ -842,7 +848,7 @@
 		 
 		 "strength": 65,
 		 
-	 	 "rangedStrength": 65,
+	 	 "rangedStrength": 70,
 		 
 		 "range": 3,
 		 
@@ -947,11 +953,11 @@
 		"name": "Dreadnought",
 		"unitType": "Ranged Water",
 		"movement": 4,
-		"strength": 70,
-		"RangedStrength": 60,
+		"strength": 80,
+		"RangedStrength": 70,
 		"Range": 2,
 		"interceptRange": 2,
-		"cost": 500,
+		"cost": 700,
 		"requiredTech": "Combustion",
 		"uniques": ["Can see invisible [Submarine] units", "[40]% chance to intercept air attacks",
 			"May withdraw before melee ([50]%)", "[+100]% Strength <vs [Submarine] units>"],

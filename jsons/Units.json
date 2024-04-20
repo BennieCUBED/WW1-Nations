@@ -548,7 +548,7 @@
 
 		     "rangedStrength": 65,
 
-		     "range": 2,
+		     "range": 1,
 
                      "cost": 280, 
 
@@ -961,7 +961,21 @@
 		"requiredTech": "Combustion",
 		"uniques": ["Can see invisible [Submarine] units", "[40]% chance to intercept air attacks",
 			"May withdraw before melee ([50]%)", "[+100]% Strength <vs [Submarine] units>"],
+		"promotions": ["Indirect Fire"],
 		"attackSound": "shipguns",
+	},
+	{
+		"name": "Gatling Gun",
+		"unitType": "Ranged Gunpowder",
+		"range": 1,
+		"movement": 2,
+		"strength": 30,
+		"rangedStrength": 30,
+		"cost": 225,
+		"requiredTech": "Industrialization",
+		"upgradesTo": "Machine Gun",
+		"obsoleteTech": "Replaceable Parts",
+		"attackSound": "machinegun",
 	},
 		
 ]

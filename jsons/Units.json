@@ -23,6 +23,8 @@
                  "uniques": ["[+30]% Strength <when fighting in [Trench Line] tiles>"],
                 
                  "obsoleteTech": "Plastics",
+
+		"upgradesTo": "Infantry",
                 
                  "upgradesTo": "Infantry",
 		"civilopediaText": [
@@ -743,6 +745,8 @@
                  "requiredTech": "Replaceable Parts",
 
                  "obsoleteTech": "Plastics",
+
+		 "upgradesTo": "Infantry",
 
                  "promotions": ["Shock I"],
                  

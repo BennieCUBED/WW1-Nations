@@ -59,6 +59,38 @@
           "Autocracy": 4,
           "Order": 3,
       },
+       },
+{
+      "name": "George V",
+      // Stats focused personalities
+      "culture": 5,
+      "faith": 5,
+      "food": 4,
+      "gold": 6,
+      "happiness": 5,
+      "production": 6,
+      "science": 7,
+      // Behavour focused personalities
+      "military": 7,
+      "aggressive": 7,
+      "declareWar": 5,
+      "commerce": 7,
+      "diplomacy": 6,
+      "loyal": 5,
+      "expansion": 7,
+
+      "priorities": {
+          "Tradition": 6,
+          "Liberty": 5,
+          "Honor": 5,
+          "Commerce": 7,
+          "Patronage": 6,
+          "Piety": 5,
+          "Rationalism": 6,
+          "Freedom": 5,
+          "Autocracy": 4,
+          "Order": 4,
+      },
        {
               "name": "Holy",
               "preferredVictoryType": "Religious",

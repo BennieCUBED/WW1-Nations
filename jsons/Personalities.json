@@ -25,10 +25,8 @@
       "Freedom": 2,
       "Autocracy": 2,
       "Order": 3,
-              },
 
        },
-       {
       "name": "Reymond",
       // Stats focused personalities
       "culture": 7,
@@ -58,9 +56,7 @@
           "Freedom": 3,
           "Autocracy": 4,
           "Order": 3,
-      },
        },
-{
       "name": "George V",
       // Stats focused personalities
       "culture": 5,
@@ -91,7 +87,6 @@
           "Autocracy": 4,
           "Order": 4,
       },
-       {
               "name": "Holy",
               "preferredVictoryType": "Religious",
               "food": 3,

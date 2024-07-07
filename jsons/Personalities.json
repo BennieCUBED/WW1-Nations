@@ -1,6 +1,6 @@
 [
        {
-              "name": "Germanic",
+              "name": "Wilhelm II",
               "preferredVictoryType": "Domination",
               "food": 4,
               "production": 8,
@@ -8,7 +8,13 @@
               "science": 5,
               "culture": 3,
               "faith": 2,
-              "military": 8,
+              "military": 7,
+              "aggressive": 7,
+              "declareWar": 6,
+              "commerce": 6,
+              "diplomacy": 6,
+              
+
        },
        {
               "name": "Holy",

@@ -13,7 +13,19 @@
               "declareWar": 6,
               "commerce": 6,
               "diplomacy": 6,
-              
+              "loyal": 7,
+              "priorities": {
+        "Tradition": 7,
+      "Liberty": 5,
+      "Honor": 6,
+      "Commerce": 5,
+      "Patronage": 2,
+      "Piety": 6,
+      "Rationalism": 5,
+      "Freedom": 2,
+      "Autocracy": 2,
+      "Order": 3,
+              },
 
        },
        {

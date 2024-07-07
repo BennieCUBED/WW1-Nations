@@ -29,6 +29,37 @@
 
        },
        {
+      "name": "Reymond",
+      // Stats focused personalities
+      "culture": 7,
+      "faith": 3,
+      "food": 5,
+      "gold": 5,
+      "happiness": 4,
+      "production": 6,
+      "science": 5,
+      // Behavour focused personalities
+      "military": 7,
+      "aggressive": 5,
+      "declareWar": 6,
+      "commerce": 7,
+      "diplomacy": 7,
+      "loyal": 6,
+      "expansion": 5,
+
+      "priorities": {
+          "Tradition": 7,
+          "Liberty": 3,
+          "Honor": 4,
+          "Commerce": 5,
+          "Patronage": 6,
+          "Piety": 3,
+          "Rationalism": 5,
+          "Freedom": 3,
+          "Autocracy": 4,
+          "Order": 3,
+      },
+       {
               "name": "Holy",
               "preferredVictoryType": "Religious",
               "food": 3,

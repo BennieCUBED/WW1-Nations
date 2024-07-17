@@ -6,232 +6,442 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 NationIcons/Armenian Resistance
   rotate: false
-  xy: 764, 488
+  xy: 764, 508
   size: 512, 512
   orig: 512, 512
   offset: 0, 0
   index: -1
 NationIcons/Austria-Hungary
   rotate: false
-  xy: 1172, 380
+  xy: 1284, 512
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/The British Empire
   rotate: false
-  xy: 764, 352
+  xy: 1284, 892
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/The British Raj
   rotate: false
-  xy: 1284, 492
+  xy: 1408, 404
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/The Commonwealth of Australia
   rotate: false
-  xy: 1284, 872
+  xy: 212, 132
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/The Dominion of Canada
   rotate: false
-  xy: 212, 112
+  xy: 900, 372
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/The Dominion of New Zealand
   rotate: false
-  xy: 900, 352
+  xy: 1284, 756
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/The Empire of Japan
   rotate: false
-  xy: 1284, 736
+  xy: 1420, 892
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/The First Portuguese Republic
   rotate: false
-  xy: 1420, 631
+  xy: 1344, 296
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/The French Republic
   rotate: false
-  xy: 4, 248
+  xy: 4, 268
   size: 752, 752
   orig: 752, 752
   offset: 0, 0
   index: -1
 NationIcons/The German Empire
   rotate: false
-  xy: 1689, 900
+  xy: 1452, 296
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/The Kingdom of Belgium
   rotate: false
-  xy: 1420, 872
+  xy: 348, 132
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/The Kingdom of Bulgaria
   rotate: false
-  xy: 4, 40
+  xy: 4, 60
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/The Kingdom of Greece
   rotate: false
-  xy: 348, 112
+  xy: 1036, 372
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/The Kingdom of Italy
   rotate: false
-  xy: 1420, 739
+  xy: 1556, 895
   size: 125, 125
   orig: 125, 125
   offset: 0, 0
   index: -1
 NationIcons/The Kingdom of Romania
   rotate: false
-  xy: 1556, 875
+  xy: 484, 135
   size: 125, 125
   orig: 125, 125
   offset: 0, 0
   index: -1
 NationIcons/The Kingdom of Serbia
   rotate: false
-  xy: 484, 115
+  xy: 1420, 623
   size: 125, 125
   orig: 125, 125
   offset: 0, 0
   index: -1
 NationIcons/The Kingdom of Siam
   rotate: false
-  xy: 617, 140
+  xy: 1393, 188
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/The Ottoman Empire
   rotate: false
-  xy: 1036, 352
+  xy: 1284, 620
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/The Red Army
   rotate: false
-  xy: 764, 294
+  xy: 1945, 970
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 NationIcons/The Republic of Brazil
   rotate: false
-  xy: 1284, 600
+  xy: 1420, 756
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/The Russian Empire
   rotate: false
-  xy: 1797, 900
+  xy: 1501, 188
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/The United States
   rotate: false
-  xy: 1905, 900
+  xy: 1500, 515
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Alpini
   rotate: false
-  xy: 4, 4
+  xy: 4, 24
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Brodie Infantry
   rotate: false
-  xy: 212, 76
+  xy: 1945, 934
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Digger
   rotate: false
-  xy: 764, 258
+  xy: 2003, 992
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Draftee
   rotate: false
-  xy: 822, 316
+  xy: 44, 24
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Dreadnought
+  rotate: false
+  xy: 84, 24
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Great War Machine Gun
+  rotate: false
+  xy: 124, 24
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Greek Expeditionary Force
+  rotate: false
+  xy: 164, 24
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Jeffery Armored Car
   rotate: false
-  xy: 44, 4
+  xy: 1945, 898
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/MÃ¼sellems
+TileSets/FantasyHex/Units/Müsellems
   rotate: false
-  xy: 212, 40
+  xy: 1560, 371
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/NZ Digger
   rotate: false
-  xy: 252, 76
+  xy: 1560, 335
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Pickelhaube Infantry
+  rotate: false
+  xy: 1560, 299
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Raider
+  rotate: false
+  xy: 1393, 152
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Schneider Cannon
   rotate: false
-  xy: 862, 316
+  xy: 1433, 152
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/SchÃ¼tzengrabeninfanterie
+TileSets/FantasyHex/Units/Schützengrabeninfanterie
   rotate: false
-  xy: 84, 4
+  xy: 1473, 152
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Serbian First Arm
+  rotate: false
+  xy: 1513, 152
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Soixante-Quinze
   rotate: false
-  xy: 252, 40
+  xy: 1553, 152
   size: 32, 28
   orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Tsar Tank
+  rotate: false
+  xy: 2003, 956
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+UnitIcons/Alpini
+  rotate: false
+  xy: 764, 372
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitIcons/Banzai Infantry
+  rotate: false
+  xy: 212, 4
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+UnitIcons/British Infantry
+  rotate: false
+  xy: 340, 4
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+UnitIcons/Canadian Expeditionary Force
+  rotate: false
+  xy: 1020, 264
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Digger
+  rotate: false
+  xy: 1300, 404
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Dreadnought
+  rotate: false
+  xy: 468, 4
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+UnitIcons/Fedayi
+  rotate: false
+  xy: 1556, 767
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+UnitIcons/Greatcoat
+  rotate: false
+  xy: 1689, 900
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+UnitIcons/Greek Expeditionary Force
+  rotate: false
+  xy: 617, 140
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+UnitIcons/Iron Duke
+  rotate: false
+  xy: 745, 136
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Jeffery Armored Car
+  rotate: false
+  xy: 853, 136
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Minas Geraes
+  rotate: false
+  xy: 961, 136
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Müsellems
+  rotate: false
+  xy: 1128, 264
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/NZ Digger
+  rotate: false
+  xy: 1817, 900
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+UnitIcons/Pickelhaube Infantry
+  rotate: false
+  xy: 1069, 156
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Raider
+  rotate: false
+  xy: 1177, 156
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Romanian Volunteer Corps
+  rotate: false
+  xy: 1172, 380
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+UnitIcons/Schneider Cannon
+  rotate: false
+  xy: 1236, 272
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Schützengrabeninfanterie
+  rotate: false
+  xy: 1285, 164
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Serbian First Army
+  rotate: false
+  xy: 764, 244
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+UnitIcons/Siamese Expeditionary Forces
+  rotate: false
+  xy: 892, 244
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+UnitIcons/Soixante-Quinze
+  rotate: false
+  xy: 1392, 512
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Tsar Tank
+  rotate: false
+  xy: 1516, 407
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1

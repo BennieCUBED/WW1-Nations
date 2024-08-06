@@ -1161,16 +1161,16 @@
 		       
 	       },
 	       {
-		       "name": "Ukrainian People's Republic",
+		       "name": "The Ukrainian People's Republic",
 		       "style": "Slavic",
 		       "adjective": ["Ukranian"],
-		       "leaderName": "",
+		       "leaderName": "Mykhailo Hrushevsky",
 		       "startBias": ["Forest"],
 
 		       "declaringWar": "",
 		       "attacked": "",
 		       "defeated": "",
-		       "introduction": "",
+		       "introduction": "Welcome to the new nation of Ukraine! We hope for your recognition.",
 
 		       "neutralHello": "Good morning!",
 		       "hateHello": "What?",

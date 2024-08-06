@@ -1179,8 +1179,9 @@
 		       "outerColor": [80, 193, 235],
 		       "innerColor": [255, 213, 3],
 		       "uniqueName": "Shche ne vmerla Ukrainy",
+		       "uniqueText": "Gain 50 Culture upon adopting any policy.",
 		       "uniques": ["Gain [50] [Culture] <upon adopting [all]>"],
-		       "cities": ["Kiev"],
+		       "cities": ["Kyiv","Lviv","Vinnystia","Odesa","Rivine"],
 	       },
 	       { 
 	                "name": "Mecca",

@@ -1169,13 +1169,13 @@
 
 		       "declaringWar": "You threat our very existence. We have no choice but to go to war...",
 		       "attacked": "We have just gained independence, and now you wish to take it away!?",
-		       "defeated": "",
+		       "defeated": "What happened? why should my leadership have to end?",
 		       "introduction": "Welcome to the new nation of Ukraine! We hope for your recognition.",
 
 		       "neutralHello": "Good morning!",
 		       "hateHello": "What?",
 
-		       "tradeRequest": "",
+		       "tradeRequest": "Would you like to trade with Ukraine?",
 		       "outerColor": [],
 		       "innerColor": [],
 		       "uniqueName": "Shche ne vmerla Ukrainy",

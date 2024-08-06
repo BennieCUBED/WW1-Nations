@@ -1153,8 +1153,8 @@
 		       "hateHello": "Are you against God?",
 
 		       "tradeRequest": "W.I.P",
-		       "outerColor": [],
-		       "innerColor": [],
+		       "outerColor": [20, 20, 20],
+		       "innerColor": [255, 255, 255],
 		       "uniqueName": "",
 		       "uniques": ["Earn [60]% of killed [Melee] unit's [Strength] as [Faith] <when at war>"],
 		       "cities": ["Capital"],

@@ -1160,6 +1160,28 @@
 		       "cities": ["Benghazi","Sirte","Misrata","Waddan","Sabhā","Tripoli","Ras Lanuf","Zillah","Ghani Field","Maradah","Bin Jawad","As Sultan","Ghat"],
 		       
 	       },
+	       {
+		       "name": "Ukrainian People's Republic",
+		       "style": "Slavic",
+		       "adjective": ["Ukranian"],
+		       "leaderName": "",
+		       "startBias": ["Forest"],
+
+		       "declaringWar": "",
+		       "attacked": "",
+		       "defeated": "",
+		       "introduction": "",
+
+		       "neutralHello": "Good morning!",
+		       "hateHello": "What?",
+
+		       "tradeRequest": "",
+		       "outerColor": [],
+		       "innerColor": [],
+		       "uniqueName": "Shche ne vmerla Ukrainy",
+		       "uniques": [""],
+		       "cities": ["Kiev"],
+	       },
 	       { 
 	                "name": "Mecca",
 		        "style": "Middle Eastern",

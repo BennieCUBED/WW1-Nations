@@ -1176,8 +1176,8 @@
 		       "hateHello": "What?",
 
 		       "tradeRequest": "Would you like to trade with Ukraine?",
-		       "outerColor": [],
-		       "innerColor": [],
+		       "outerColor": [80, 193, 235],
+		       "innerColor": [255, 213, 3],
 		       "uniqueName": "Shche ne vmerla Ukrainy",
 		       "uniques": [""],
 		       "cities": ["Kiev"],

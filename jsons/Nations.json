@@ -1167,8 +1167,8 @@
 		       "leaderName": "Mykhailo Hrushevsky",
 		       "startBias": ["Forest"],
 
-		       "declaringWar": "",
-		       "attacked": "",
+		       "declaringWar": "You threat our very existence. We have no choice but to go to war...",
+		       "attacked": "We have just gained independence, and now you wish to take it away!?",
 		       "defeated": "",
 		       "introduction": "Welcome to the new nation of Ukraine! We hope for your recognition.",
 

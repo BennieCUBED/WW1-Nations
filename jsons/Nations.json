@@ -1181,7 +1181,7 @@
 		       "uniqueName": "Shche ne vmerla Ukrainy",
 		       "uniqueText": "Gain 50 Culture upon adopting any policy.",
 		       "uniques": ["Gain [50] [Culture] <upon adopting [all]>"],
-		       "cities": ["Kyiv","Lviv","Vinnystia","Odesa","Rivine"],
+		       "cities": ["Kyiv","Lviv","Vinnystia","Odesa","Rivine","Kryvyi Rih","Klintsy","Zhytomyr","Uman'"],
 	       },
 	       { 
 	                "name": "Mecca",

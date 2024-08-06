@@ -1136,6 +1136,11 @@
                         "uniques": ["[+30]% Production when constructing [Science] buildings [in all cities]","[-15]% Gold cost of acquiring tiles [in all cities] <when at war>"],
                         "cities": ["Bangkok","Pattaya City","Chiang Mai","Khon Kaen","Mae Sot","Phuket","Hat Yai","Phitsanulok","Kanchanaburi","Lampang","Rayong","Surat Thani","Talat Yai","Langkawi","Pai","Moo 7"],
                },
+	       {
+		       "name": "The Senussi Order",
+		       "style": "Middle Eastern",
+		       "adjective": "",
+	       },
 	       { 
 	                "name": "Mecca",
 		        "style": "Middle Eastern",

@@ -1144,15 +1144,15 @@
 		       "startBias": ["Desert"],
 		       "preferredVictoryType": "Diplomatic",
 
-		       "declaringWar": "W.I.P",
-		       "attacked": "W.I.P",
-		       "defeated": "W.I P",
-		       "introduction": "W.I.P",
+		       "declaringWar": "I didn't want to do this, but my allies need me!",
+		       "attacked": "All you colonists are the same...",
+		       "defeated": "This is not over, mark my words...",
+		       "introduction": "The Senusiyya order welcomes you to our land. You are open to trade, yes..?",
 
 		       "neutralHello": "Hello, friend...",
 		       "hateHello": "Are you against God?",
 
-		       "tradeRequest": "W.I.P",
+		       "tradeRequest": "We would like to trade with your nearby cities, please?",
 		       "outerColor": [20, 20, 20],
 		       "innerColor": [255, 255, 255],
 		       "uniqueName": "The Senussi Campaign",

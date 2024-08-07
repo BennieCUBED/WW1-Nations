@@ -1144,16 +1144,19 @@
 		       "startBias": ["Desert"],
 		       "preferredVictoryType": "Diplomatic",
 
-		       "declaringWar": "I didn't want to do this, but my allies need me!",
+
+                       "declaringWar": "We are tired of you harassing our Allah. Now's the time we teach you a lesson!",
+
+
 		       "attacked": "All you colonists are the same...",
 		       "defeated": "This is not over, mark my words...",
 		       "introduction": "The Senusiyya order welcomes you to our land. You are open to trade, yes..?",
 
 		       "neutralHello": "Hello, friend...",
-		       "hateHello": "Are you against God?",
+		       "hateHello": "Are you against the Allah?",
 
 		       "tradeRequest": "We would like to trade with your nearby cities, please?",
-		       "outerColor": [20, 20, 20],
+		       "outerColor": [30, 30, 30],
 		       "innerColor": [255, 255, 255],
 		       "uniqueName": "The Senussi Campaign",
 		       "uniques": ["Earn [60]% of killed [Melee] unit's [Strength] as [Faith] <when at war>"],

@@ -124,7 +124,7 @@
                        
                        "name": "The British Empire",
 
-		      "personality": "George V",
+		      "personality": "George",
                        
                        "leaderName": "King George V",
                        
@@ -175,7 +175,7 @@
                {
                         
                         "name": "Austria-Hungary",
-		        "personality": "Holy",
+		        "personality": "Charles",
                         "style": "Germanic",                
                         "leaderName": "Charles I",                     
                         "adjective": ["Austro-Hungarian"],               

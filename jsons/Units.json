@@ -981,5 +981,20 @@
 		"obsoleteTech": "Replaceable Parts",
 		"attackSound": "machinegun",
 	},
+	{
+		"name": "Senusite Camel Warrior",
+		"unitType": "Mounted",
+		"uniqueTo": "The Senussi Order",
+		"replaces": "Cavalry",
+		"movement": 4,
+		"strength": 32,
+		"cost": 225,
+		"requiredTech": "Military Science",
+		"obsoleteTech": "Combustion",
+		"requiredResource": "Horses",
+		"upgradesTo": "Landship",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"attackSound": "horse"
+	},
 		
 ]

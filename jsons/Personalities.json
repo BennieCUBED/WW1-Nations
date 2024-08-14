@@ -114,6 +114,7 @@
       "Autocracy": 2,
       "Order": 3,
     },
+  },
   {
     "name": "Charles",
     "production": 3,
@@ -142,6 +143,7 @@
       "Autocracy": 1,
       "Order": 2,
     },
+  },
   {
     "name": "Mehmed",
     "production": 4,
@@ -170,6 +172,7 @@
       "Autocracy": 1,
       "Order": 2,
     },
+  },
      {
     "name": "Vector",
     "production": 5,
@@ -197,6 +200,6 @@
       "Freedom": 2,
       "Autocracy": 3,
       "Order": 1,
-    }
-    }
+    },
+    },
 ]

@@ -772,7 +772,7 @@
 
                  "requiredTech": "Replaceable Parts", 
 
-                 "uniques": ["[+20]% combat bonus in [Foreign] tiles"],
+                 "uniques": ["[+20]% Strength <in [Foreign] tiles>"],
                 
                  "obsoleteTech": "Plastics",
                 

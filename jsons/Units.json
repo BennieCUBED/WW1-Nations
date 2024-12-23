@@ -61,7 +61,6 @@
                  
                  "requiredTech": "Dynamite",
                 
-                 "uniques": ["[+200]% strength vs cities when attacking"]
                  
                  "obsoleteTech": "Rocketry",
                  
@@ -295,8 +294,6 @@
 
                      "requiredTech": "Dynamite",
 
-                     "uniques": ["[+200]% strength vs cities when attacking"]
-                 
                      "obsoleteTech": "Rocketry",
                  
                      "upgradesTo": "Rocket Artillery",
@@ -438,7 +435,6 @@
                  
                     "requiredTech": "Dynamite",
                 
-                    "uniques": ["+[200]% strength vs cities when attacking"]
                  
                     "obsoleteTech": "Rocketry",
                  

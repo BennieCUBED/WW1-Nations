@@ -165,7 +165,7 @@
                        
                        "uniqueName": "King and Country",
                        
-                       "uniques": ["Allied City-States provide [Production] equal to [+25]% of what they produce for themselves","May travel on Water tiles without embarking <for [All] units>","Gain a free [Big Ben] [in capital]"]
+                       "uniques": ["Allied City-States provide [Production] equal to [+25]% of what they produce for themselves","[0] Movement point cost to disembark <for [all] units>","Gain a free [Big Ben] [in capital]"]
                        
                        "cities": ["London","Birmingham","Manchester","Liverpool","Edinburgh","Bristol","Dundee","Cambridge","Glasgow","Exeter","Newcastle Upon Tyne"],
                        
